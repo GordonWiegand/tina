@@ -9,7 +9,7 @@
 \usepackage{fourier-orns}
 \usepackage{scrpage2} 
 \pagestyle{scrheadings} 
-\chead{\color{red}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
+\chead{\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
 \addtokomafont{chapter}{\color{red}\rmfamily\Huge\centering\it}
 
 \def\FontH{\fontsize{10pt}{0mm}\usefont{T1}{frc}{m}{n}}
