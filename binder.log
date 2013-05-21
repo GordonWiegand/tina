@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  21 MAY 2013 16:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  21 MAY 2013 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -848,16 +848,19 @@ Underfull \vbox (badness 6775) has occurred while \output is active []
 Underfull \vbox (badness 2005) has occurred while \output is active []
 
  [19]
-[20] [21]) [22] (./binder.aux)
+[20] [21]) (./gespenst.tex [22] [23
+
+
+]) [24] (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5511 strings out of 493481
- 80488 string characters out of 3140966
+ 5517 strings out of 493481
+ 80568 string characters out of 3140966
  170957 words of memory out of 3000000
- 8685 multiletter control sequences out of 15000+200000
+ 8688 multiletter control sequences out of 15000+200000
  48173 words of font info for 51 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  46i,10n,47p,1311b,295s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -866,10 +869,10 @@ exlive/2012/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/
 texlive/2012/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb></usr/local/tex
 live/2012/texmf-dist/fonts/type1/public/bera/fver8a.pfb></usr/local/texlive/201
 2/texmf-dist/fonts/type1/public/bera/fver8a.pfb>
-Output written on binder.pdf (22 pages, 719629 bytes).
+Output written on binder.pdf (24 pages, 722623 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
