@@ -1,0 +1,5 @@
+\select@language {ngerman}
+\contentsline {chapter}{Pinarella}{3}
+\contentsline {chapter}{Der weisse Adler}{9}
+\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{15}
+\contentsline {chapter}{Das Gespenst Jonathan}{23}
