@@ -1,7 +1,8 @@
 \documentclass[a5paper,twoside]{scrbook}
 \usepackage[ngerman]{babel}
+\usepackage{quattrocento}
 \usepackage[T1]{fontenc}
-\usepackage{bera}
+%\usepackage{bera}
 \usepackage[german=swiss]{csquotes}
 \usepackage{color}
 \usepackage[utf8]{inputenc}
@@ -11,9 +12,17 @@
 \pagestyle{scrheadings} 
 \chead{\color{red}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
 \addtokomafont{chapter}{\color{red}\rmfamily\Huge\centering\it}
-
+\input Zallman.fd %Zieranfangskapitälchen
+\renewcommand{\LettrineFontHook}{\usefont{U}{Zallman}{xl}{n}}
 \def\FontH{\fontsize{10pt}{0mm}\usefont{T1}{frc}{m}{n}}
 \usepackage{graphicx}
+\usepackage{mdframed}
+\mdfdefinestyle{mystyle}{
+        topline=false,
+        bottomline=false,
+        rightline=false,
+        linewidth=2pt,
+        linecolor =red}
 \begin{document}
 \begin{titlepage}
 	\begin{center}
@@ -24,6 +33,10 @@
 	
 	\end{center}
 \end{titlepage}
+\begin{figure}[ht]
+\centering
+\includegraphics[width=\textwidth]{titel.jpg}
+\end{figure}
 
 \input{pinarella}
 \input{adler}
