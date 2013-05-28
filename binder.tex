@@ -1,29 +1,43 @@
 \documentclass[a5paper,twoside]{scrbook}
 \usepackage[ngerman]{babel}
+%Schrift Quattrocento
 \usepackage{quattrocento}
 \usepackage[T1]{fontenc}
-%\usepackage{bera}
+%Schweizer Anführungszeichen
 \usepackage[german=swiss]{csquotes}
+%Erlaubt Einsatz von Farbe
 \usepackage{color}
+%UTF 8
 \usepackage[utf8]{inputenc}
+%Ermöglicht Zierkapitälchen zum Anbsatzanfang
 \usepackage{lettrine}
+%Fourier Ornamente für Seitenkopf
 \usepackage{fourier-orns}
+%Ums Seitenkopf zu manipulieren
 \usepackage{scrpage2} 
 \pagestyle{scrheadings} 
+%Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Zeichen in der Mitte
 \chead{\color{red}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
+%Kapitelüberschriften in Schriftart des Deckblatts
 \addtokomafont{chapter}{\color{red}\rmfamily\Huge\centering\it}
-\input Zallman.fd %Zieranfangskapitälchen
+%Schriftart für grosse Anfangsbuchstaben
+\input Zallman.fd
 \renewcommand{\LettrineFontHook}{\usefont{U}{Zallman}{xl}{n}}
+%Schrift für Überschriften
 \def\FontH{\fontsize{10pt}{0mm}\usefont{T1}{frc}{m}{n}}
+%Grafiken einbinden
 \usepackage{graphicx}
+%Für Kapitel Gespenst Jonathan Rahmen ermöglichen
 \usepackage{mdframed}
+%Definition Rahmen: links dicker roter balken
 \mdfdefinestyle{mystyle}{
         topline=false,
         bottomline=false,
         rightline=false,
         linewidth=2pt,
         linecolor =red}
-\begin{document}
+
+        \begin{document}
 \begin{titlepage}
 	\begin{center}
 	\vspace*{4\baselineskip}
