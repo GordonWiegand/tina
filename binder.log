@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  28 MAY 2013 15:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  10 JUN 2013 16:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1233,47 +1233,125 @@ nn-te er fi-schen,
 
 ) (./gespenst.tex [21] [22]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
-
-Overfull \hbox (3.68355pt too wide) in paragraph at lines 4--6
-\T1/Quattrocento-TLF/m/sc/10.95 dass ich ei-nes se-he, aber das war dann doch n
-ur die frisch
- []
-
-
-Overfull \hbox (17.13948pt too wide) in paragraph at lines 7--8
-\T1/Quattrocento-TLF/m/sc/10.95 Frau, die ei-gent-lich Oti-lia Bri-git-ta Wal-b
-urg Pe-ter-nel-la von Abend-
- []
-
-[23
+ [23
 
 
 ]
-Overfull \hbox (2.31335pt too wide) in paragraph at lines 9--10
+Package mdframed Info: mdframed works in twoside mode on input line 14.
+
+Overfull \hbox (13.54796pt too wide) in paragraph at lines 12--14
+\T1/Quattrocento-TLF/m/sc/10.95 ein Klei-der-stän-der steht. Ge-spens-ter kön-n
+en näm-lich nur durch
+ []
+
+
+Overfull \hbox (2.31335pt too wide) in paragraph at lines 12--14
 \T1/Quattrocento-TLF/m/sc/10.95 Wän-de flie-gen, durch an-de-re Sa-chen nicht. 
 Und Jo-na-than war
  []
 
-) [24] (./binder.toc)
+
+Overfull \hbox (5.73119pt too wide) in paragraph at lines 15--16
+\T1/Quattrocento-TLF/m/sc/10.95 Seit ein paar Wo-chen kom-men aber im-mer wie-d
+er Hand-
+ []
+
+[24]
+Overfull \hbox (1.31955pt too wide) in paragraph at lines 18--19
+[]\T1/Quattrocento-TLF/m/sc/10.95 ^^S  Du weisst ganz ge-nau, dass wir als Ge-s
+pens-ter im-mer ganz
+ []
+
+
+Overfull \hbox (4.01045pt too wide) in paragraph at lines 18--19
+\T1/Quattrocento-TLF/m/sc/10.95 ha-ben die Rit-ter schon we-sent-lich schi-cker
+ aus-ge-se-hen, denkt
+ []
+
+
+Overfull \hbox (11.8616pt too wide) in paragraph at lines 20--21
+\T1/Quattrocento-TLF/m/sc/10.95 aber ei-ne gu-te Idee, die dür-fen ihn kei-nes-
+falls se-hen. Er schwebt
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 24.
+[25]
+Overfull \hbox (6.27866pt too wide) in paragraph at lines 27--28
+\T1/Quattrocento-TLF/m/sc/10.95 ih-re Ge-schich-te auf-schrei-ben. Dann kön-nen
+ die Ge-spens-
+ []
+
+[26]
+Overfull \hbox (5.5107pt too wide) in paragraph at lines 34--35
+\T1/Quattrocento-TLF/m/sc/10.95 Herr Dok-tor Wag-ner von der Uni-ver-si-tät und
+ ge-mein-sam wer-
+ []
+
+[27]
+Overfull \hbox (5.98152pt too wide) in paragraph at lines 38--39
+\T1/Quattrocento-TLF/m/sc/10.95 det im Halb-schat-ten. Oli-via ver-sucht hin-te
+r-her zu ren-nen, aber
+ []
+
+
+Overfull \hbox (4.85065pt too wide) in paragraph at lines 46--47
+[]\T1/Quattrocento-TLF/m/sc/10.95 ^^S  Al-so ver-schlos-sen ist die Tru-he nich
+t. Die klemmt, das kann
+ []
+
+[28]
+Overfull \hbox (11.52219pt too wide) in paragraph at lines 52--53
+\T1/Quattrocento-TLF/m/sc/10.95 Tisch auf-ste-hen darf rennt sie so-fort in die
+ Werk-statt. Sie nimmt
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 56.
+[29] [30]
+Overfull \hbox (1.19637pt too wide) in paragraph at lines 66--67
+\T1/Quattrocento-TLF/m/sc/10.95 et-was ent-setzt, aber dann bleibt mehr für sie
+ üb-rig. Und Staub
+ []
+
+
+Overfull \hbox (9.447pt too wide) in paragraph at lines 72--73
+\T1/Quattrocento-TLF/m/sc/10.95 er auf-ge-regt. ^^S  Dass muss ich so-fort Ma-m
+a er-zäh-len.^^T und schon
+ []
+
+[31]
+Package mdframed Info: mdframed works in twoside mode on input line 83.
+
+Overfull \hbox (8.65483pt too wide) in paragraph at lines 84--85
+\T1/Quattrocento-TLF/m/sc/10.95 than min-des-tens ein-mal be-su-chen. Er ist ab
+er im-mer noch
+ []
+
+
+Overfull \hbox (2.51193pt too wide) in paragraph at lines 84--85
+\T1/Quattrocento-TLF/m/sc/10.95 na-than. Und wenn mal ein Spiel-zeug von euch f
+ehlt, dürft
+ []
+
+[32]) [33] [34
+
+
+] (./binder.toc)
 \tf@toc=\write3
 \openout3 = `binder.toc'.
 
- [25
-
-
-] (./binder.aux)
+ [35] (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12017 strings out of 493481
- 207857 string characters out of 3140966
- 289748 words of memory out of 3000000
- 15077 multiletter control sequences out of 15000+200000
+ 12024 strings out of 493481
+ 207990 string characters out of 3140966
+ 291888 words of memory out of 3000000
+ 15084 multiletter control sequences out of 15000+200000
  141878 words of font info for 54 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 52i,11n,47p,1322b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,11n,47p,1322b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_tevtm
 b.enc}{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_e
 45lg2.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/impallari/quattrocent
@@ -1283,10 +1361,10 @@ nts/type1/impallari/quattrocento/QuattrocentoSans-Bold.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local/texlive/201
 2/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texlive/20
 12/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (25 pages, 1443472 bytes).
+Output written on binder.pdf (35 pages, 1457838 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 153 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
