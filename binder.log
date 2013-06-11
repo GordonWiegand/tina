@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  10 JUN 2013 16:09
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  11 JUN 2013 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -940,8 +940,28 @@ File: md-frame-0.mdf 2013/03/09\ 1.8: md-frame-0
 Package zref Info: New property: mdf@pagevalue on input line 840.
 \mdf@horizontalspaceofbox=\skip116
 )
+(/usr/local/texlive/2012/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/03/13 v2.5 Micro-typographical refinements (RS)
+\MT@toks=\toks20
+\MT@count=\count137
+LaTeX Info: Redefining \textls on input line 771.
+\MT@outer@kern=\dimen149
+LaTeX Info: Redefining \textmicrotypecontext on input line 1290.
+\MT@listname@count=\count138
 
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 40.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2013/03/13 v2.5 Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 889.
+LaTeX Info: Redefining \lslig on input line 889.
+\MT@outer@space=\skip117
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/03/13 v2.5 microtype main configuration file (RS)
+))
+
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 43.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -950,26 +970,26 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 (./binder.aux)
 \openout1 = `binder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 43.
  (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Try loading font information for T1+Quattrocento-TLF on inp
-ut line 40.
+ut line 43.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/quattrocento/T1Quattrocento-TLF.f
 d
@@ -977,22 +997,22 @@ File: T1Quattrocento-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Quatt
 rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 40.
-\c@mv@tabular=\count137
-\c@mv@boldtabular=\count138
+(Font)              scaled to size 10.95pt on input line 43.
+\c@mv@tabular=\count139
+\c@mv@boldtabular=\count140
  (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count139
-\scratchdimen=\dimen149
+\scratchcounter=\count141
+\scratchdimen=\dimen150
 \scratchbox=\box49
-\nofMPsegments=\count140
-\nofMParguments=\count141
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count142
-\MPscratchDim=\dimen150
-\MPnumerator=\count143
-\makeMPintoPDFobject=\count144
-\everyMPtoPDFconversion=\toks21
+\nofMPsegments=\count142
+\nofMParguments=\count143
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count144
+\MPscratchDim=\dimen151
+\MPnumerator=\count145
+\makeMPintoPDFobject=\count146
+\everyMPtoPDFconversion=\toks22
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1009,27 +1029,88 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box50
+LaTeX Info: Redefining \microtypecontext on input line 43.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `Quattrocento-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 44.
+ line 48.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 44.
+(Font)              scaled to size 10.95pt on input line 48.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <12> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 44.
+ line 48.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 44.
+(Font)              scaled to size 12.0pt on input line 48.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 44.
+(Font)              scaled to size 12.0pt on input line 48.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 44.
-LaTeX Font Info:    Try loading font information for T1+frc on input line 46.
+(Font)              scaled to size 12.0pt on input line 48.
+LaTeX Font Info:    Try loading font information for T1+frc on input line 50.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/frcursive/t1frc.fd
 File: t1frc.fd 2004/06/12 French Cursive font definition
-) [1
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `frc' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `T1/frc/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `T1/frc/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `T1/frc/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `T1/frc/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblright ' has a width of 0pt 
+(microtype)             in font `T1/frc/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `T1/frc/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `T1/frc/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblright ' has a width of 0pt 
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+ [1
 
 
 
@@ -1037,7 +1118,7 @@ File: t1frc.fd 2004/06/12 French Cursive font definition
 <titel.jpg, id=8, 601.2864pt x 840.2592pt>
 File: titel.jpg Graphic file (type jpg)
  <use titel.jpg>
-Package pdftex.def Info: titel.jpg used on input line 52.
+Package pdftex.def Info: titel.jpg used on input line 57.
 (pdftex.def)             Requested size: 294.7706pt x 411.92293pt.
  (./pinarella.tex
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sl' in size <10.95> not a
@@ -1046,6 +1127,11 @@ vailable
 t line 1.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 1.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2011/04/09 v2.1 microtype config. file: Computer Modern Roman 
+(RS)
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1067,6 +1153,10 @@ uattrocentoSans-TLF.
 )
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `QuattrocentoSans-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <10.95> n
 ot available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
@@ -1104,12 +1194,9 @@ LaTeX Font Warning: Font shape `T1/Quattrocento-TLF/m/sc' undefined
 
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 3.
-
-Overfull \hbox (0.1452pt too wide) in paragraph at lines 6--7
-\T1/Quattrocento-TLF/m/sc/10.95 na-rel-las zu ver-ste-hen. Sonst wür-den sie wa
-hr-schein-lich nicht
- []
-
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/Quattrocento-TLF/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
 
 Underfull \vbox (badness 1199) has occurred while \output is active []
 
@@ -1117,225 +1204,41 @@ Underfull \vbox (badness 1199) has occurred while \output is active []
 
 
 ]
-[4] [5] [6]
-Overfull \hbox (3.03375pt too wide) in paragraph at lines 34--35
-[]\T1/Quattrocento-TLF/m/sc/10.95 ^^S  Jip-pie, flieg Pi-na-rel-la!^^T war Jet-
-te den Holz-schmet-ter-ling aus
- []
-
-<pinarella.pdf, id=27, 416.51729pt x 418.47403pt>
+[4] [5] [6] <pinarella.pdf, id=27, 416.51729pt x 418.47403pt>
 File: pinarella.pdf Graphic file (type pdf)
- <use pinarella.pdf>
+
+<use pinarella.pdf>
 Package pdftex.def Info: pinarella.pdf used on input line 43.
 (pdftex.def)             Requested size: 208.25813pt x 209.2365pt.
-)
-(./adler.tex [7] [8 <./pinarella.pdf>] [9
+) (./adler.tex [7] [8 <./pinarella.pdf>] [9
 
 
-]
-Overfull \hbox (1.89723pt too wide) in paragraph at lines 11--12
-\T1/Quattrocento-TLF/m/sc/10.95 fällt. Das habt ihr viel-leicht schon ein-mal g
-e-hört, bei uns Men-
- []
-
-[10]
-Overfull \hbox (1.29492pt too wide) in paragraph at lines 19--20
-\T1/Quattrocento-TLF/m/sc/10.95 putz-te sein Fe-der-kleid und be-wun-dert wur-d
-e er von nie-man-
- []
+] [10] [11])
+(./menschen.tex [12] [13] [14
 
 
-Overfull \hbox (1.91614pt too wide) in paragraph at lines 21--22
-[]\T1/Quattrocento-TLF/m/sc/10.95 ^^S  Hey, Fastnachst-Johann, bring uns Mäu-se
-, wir ha-ben Hun-
- []
-
-
-Overfull \hbox (7.04373pt too wide) in paragraph at lines 21--22
-\T1/Quattrocento-TLF/m/sc/10.95 ger^^T und fin-gen an, auf ihn ein-zu-pi-cken. 
-Da blieb Jo-hann nichts
- []
-
-[11] [12]) (./menschen.tex [13] [14
-
-
-]
-Overfull \hbox (2.29393pt too wide) in paragraph at lines 3--4
-[][] \T1/Quattrocento-TLF/m/sc/10.95 die Gros-se Krä-he die Men-schen er-schuf,
- leb-ten die-
- []
-
-[15]
-Overfull \hbox (0.12335pt too wide) in paragraph at lines 9--10
-\T1/Quattrocento-TLF/m/sc/10.95 schön und wur-de von al-len ge-ach-tet. Er konn
--te schnel-ler lau-
- []
-
-
-Overfull \hbox (1.2293pt too wide) in paragraph at lines 9--10
-\T1/Quattrocento-TLF/m/sc/10.95 Men-schen da-mals kann-ten, was al-ler-dings ni
-cht sehr viel war.
- []
-
-
-Overfull \hbox (4.14188pt too wide) in paragraph at lines 11--12
-\T1/Quattrocento-TLF/m/sc/10.95 nouk hör-te die Hil-fe-ru-fe und kam her-bei-ge
--eilt. Auch die Gros-
- []
-
-[16]
-Overfull \hbox (8.5986pt too wide) in paragraph at lines 17--18
-\T1/Quattrocento-TLF/m/sc/10.95 sam-men ge-bun-den, dass sich Kin-der in sie hi
-n-ein set-zen konn-
- []
-
-
-Overfull \hbox (8.23413pt too wide) in paragraph at lines 21--22
-[]\T1/Quattrocento-TLF/m/sc/10.95 ^^S  Ich weiss, warum Du die-se Fra-ge stells
-t Kar-nouk. Dich treibt
- []
-
-
-Overfull \hbox (16.13214pt too wide) in paragraph at lines 21--22
-\T1/Quattrocento-TLF/m/sc/10.95 gros-se Krä-he sehr dro-hend. Plötz-lich sah si
-e wie-der sehr freund-
- []
-
-[17] [18]
-Overfull \hbox (6.62755pt too wide) in paragraph at lines 33--34
-[]\T1/Quattrocento-TLF/m/sc/10.95 ^^S  Das ist kein gu-tes Zei-chen^^T rie-fen 
-sie, ^^S   Wir ha-ben be-stimmt
- []
-
-
-Overfull \hbox (2.62508pt too wide) in paragraph at lines 37--38
-\T1/Quattrocento-TLF/m/sc/10.95 nach dem schlim-men Sturm hier. Aber aus dem Wa
-s-ser kom-
- []
-
-[19]
-Overfull \hbox (0.25468pt too wide) in paragraph at lines 53--54
-\T1/Quattrocento-TLF/m/sc/10.95 sass, viel ge-ra-de vor ihm ei-ne Ko-kus-nuss i
-ns Was-ser und trieb
- []
-
-
-Overfull \hbox (1.08688pt too wide) in paragraph at lines 55--56
-\T1/Quattrocento-TLF/m/sc/10.95 Kar-nouk hat-te kei-ne Zeit sich um sol-che Sor
--gen zu küm-mern.
- []
-
-[20]
-Overfull \hbox (3.13454pt too wide) in paragraph at lines 67--68
-\T1/Quattrocento-TLF/m/sc/10.95 konn-te. Er be-kam Angst. Ge-gen den Hun-ger ko
-nn-te er fi-schen,
- []
-
-) (./gespenst.tex [21] [22]
+] [15] [16] [17] [18] [19] [20]) (./gespenst.tex
+[21] [22]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
  [23
 
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 14.
-
-Overfull \hbox (13.54796pt too wide) in paragraph at lines 12--14
-\T1/Quattrocento-TLF/m/sc/10.95 ein Klei-der-stän-der steht. Ge-spens-ter kön-n
-en näm-lich nur durch
- []
-
-
-Overfull \hbox (2.31335pt too wide) in paragraph at lines 12--14
-\T1/Quattrocento-TLF/m/sc/10.95 Wän-de flie-gen, durch an-de-re Sa-chen nicht. 
-Und Jo-na-than war
- []
-
-
-Overfull \hbox (5.73119pt too wide) in paragraph at lines 15--16
-\T1/Quattrocento-TLF/m/sc/10.95 Seit ein paar Wo-chen kom-men aber im-mer wie-d
-er Hand-
- []
-
-[24]
-Overfull \hbox (1.31955pt too wide) in paragraph at lines 18--19
-[]\T1/Quattrocento-TLF/m/sc/10.95 ^^S  Du weisst ganz ge-nau, dass wir als Ge-s
-pens-ter im-mer ganz
- []
-
-
-Overfull \hbox (4.01045pt too wide) in paragraph at lines 18--19
-\T1/Quattrocento-TLF/m/sc/10.95 ha-ben die Rit-ter schon we-sent-lich schi-cker
- aus-ge-se-hen, denkt
- []
-
-
-Overfull \hbox (11.8616pt too wide) in paragraph at lines 20--21
-\T1/Quattrocento-TLF/m/sc/10.95 aber ei-ne gu-te Idee, die dür-fen ihn kei-nes-
-falls se-hen. Er schwebt
- []
-
+ [24]
 Package mdframed Info: mdframed works in twoside mode on input line 24.
-[25]
-Overfull \hbox (6.27866pt too wide) in paragraph at lines 27--28
-\T1/Quattrocento-TLF/m/sc/10.95 ih-re Ge-schich-te auf-schrei-ben. Dann kön-nen
- die Ge-spens-
- []
-
-[26]
-Overfull \hbox (5.5107pt too wide) in paragraph at lines 34--35
-\T1/Quattrocento-TLF/m/sc/10.95 Herr Dok-tor Wag-ner von der Uni-ver-si-tät und
- ge-mein-sam wer-
- []
-
-[27]
-Overfull \hbox (5.98152pt too wide) in paragraph at lines 38--39
-\T1/Quattrocento-TLF/m/sc/10.95 det im Halb-schat-ten. Oli-via ver-sucht hin-te
-r-her zu ren-nen, aber
- []
-
-
-Overfull \hbox (4.85065pt too wide) in paragraph at lines 46--47
-[]\T1/Quattrocento-TLF/m/sc/10.95 ^^S  Al-so ver-schlos-sen ist die Tru-he nich
-t. Die klemmt, das kann
- []
-
-[28]
-Overfull \hbox (11.52219pt too wide) in paragraph at lines 52--53
-\T1/Quattrocento-TLF/m/sc/10.95 Tisch auf-ste-hen darf rennt sie so-fort in die
- Werk-statt. Sie nimmt
- []
-
+ [25] [26] [27] [28]
 Package mdframed Info: mdframed works in twoside mode on input line 56.
-[29] [30]
-Overfull \hbox (1.19637pt too wide) in paragraph at lines 66--67
-\T1/Quattrocento-TLF/m/sc/10.95 et-was ent-setzt, aber dann bleibt mehr für sie
- üb-rig. Und Staub
- []
-
-
-Overfull \hbox (9.447pt too wide) in paragraph at lines 72--73
-\T1/Quattrocento-TLF/m/sc/10.95 er auf-ge-regt. ^^S  Dass muss ich so-fort Ma-m
-a er-zäh-len.^^T und schon
- []
-
-[31]
+ [29] [30] [31]
 Package mdframed Info: mdframed works in twoside mode on input line 83.
-
-Overfull \hbox (8.65483pt too wide) in paragraph at lines 84--85
-\T1/Quattrocento-TLF/m/sc/10.95 than min-des-tens ein-mal be-su-chen. Er ist ab
-er im-mer noch
- []
+ [32]) [33] [34
 
 
-Overfull \hbox (2.51193pt too wide) in paragraph at lines 84--85
-\T1/Quattrocento-TLF/m/sc/10.95 na-than. Und wenn mal ein Spiel-zeug von euch f
-ehlt, dürft
- []
+]
+Package tocbasic Info: character protrusion at toc deactivated on input line 66
+.
 
-[32]) [33] [34
-
-
-] (./binder.toc)
+(./binder.toc)
 \tf@toc=\write3
 \openout3 = `binder.toc'.
 
@@ -1345,13 +1248,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12024 strings out of 493481
- 207990 string characters out of 3140966
- 291888 words of memory out of 3000000
- 15084 multiletter control sequences out of 15000+200000
- 141878 words of font info for 54 fonts, out of 3000000 for 9000
+ 13648 strings out of 493481
+ 240531 string characters out of 3140966
+ 347455 words of memory out of 3000000
+ 16532 multiletter control sequences out of 15000+200000
+ 170241 words of font info for 154 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 52i,11n,47p,1322b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,55p,1333b,380s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_tevtm
 b.enc}{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_e
 45lg2.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/impallari/quattrocent
@@ -1361,10 +1264,10 @@ nts/type1/impallari/quattrocento/QuattrocentoSans-Bold.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local/texlive/201
 2/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texlive/20
 12/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (35 pages, 1457838 bytes).
+Output written on binder.pdf (35 pages, 1463050 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 25611 words of extra memory for PDF output out of 29859 (max. 10000000)
 
