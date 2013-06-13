@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  11 JUN 2013 14:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  13 JUN 2013 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -961,7 +961,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2013/03/13 v2.5 microtype main configuration file (RS)
 ))
 
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 43.
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 45.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -970,26 +970,26 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 (./binder.aux)
 \openout1 = `binder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 45.
  (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    ... okay on input line 45.
 LaTeX Font Info:    Try loading font information for T1+Quattrocento-TLF on inp
-ut line 43.
+ut line 45.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/quattrocento/T1Quattrocento-TLF.f
 d
@@ -997,7 +997,7 @@ File: T1Quattrocento-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Quatt
 rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 43.
+(Font)              scaled to size 10.95pt on input line 45.
 \c@mv@tabular=\count139
 \c@mv@boldtabular=\count140
  (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -1029,7 +1029,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box50
-LaTeX Info: Redefining \microtypecontext on input line 43.
+LaTeX Info: Redefining \microtypecontext on input line 45.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1046,20 +1046,20 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 48.
+ line 50.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 48.
+(Font)              scaled to size 10.95pt on input line 50.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <12> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 48.
+ line 50.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
+(Font)              scaled to size 12.0pt on input line 50.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 48.
+(Font)              scaled to size 12.0pt on input line 50.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 48.
-LaTeX Font Info:    Try loading font information for T1+frc on input line 50.
+(Font)              scaled to size 12.0pt on input line 50.
+LaTeX Font Info:    Try loading font information for T1+frc on input line 52.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/frcursive/t1frc.fd
 File: t1frc.fd 2004/06/12 French Cursive font definition
@@ -1118,7 +1118,7 @@ Package microtype Info: Character `_' is missing
 <titel.jpg, id=8, 601.2864pt x 840.2592pt>
 File: titel.jpg Graphic file (type jpg)
  <use titel.jpg>
-Package pdftex.def Info: titel.jpg used on input line 57.
+Package pdftex.def Info: titel.jpg used on input line 59.
 (pdftex.def)             Requested size: 294.7706pt x 411.92293pt.
  (./pinarella.tex
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sl' in size <10.95> not a
@@ -1224,21 +1224,24 @@ Package mdframed Info: mdframed works in twoside mode on input line 3.
 
 
 ]
-Package mdframed Info: mdframed works in twoside mode on input line 14.
+Package mdframed Info: mdframed works in twoside mode on input line 15.
  [24]
 Package mdframed Info: mdframed works in twoside mode on input line 24.
- [25] [26] [27] [28]
-Package mdframed Info: mdframed works in twoside mode on input line 56.
+ [25]
+Underfull \vbox (badness 3009) has occurred while \output is active []
+
+ [26]
+[27] [28]
+Package mdframed Info: mdframed works in twoside mode on input line 62.
  [29] [30] [31]
-Package mdframed Info: mdframed works in twoside mode on input line 83.
+Package mdframed Info: mdframed works in twoside mode on input line 93.
  [32]) [33] [34
 
 
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 66
+Package tocbasic Info: character protrusion at toc deactivated on input line 68
 .
-
-(./binder.toc)
+ (./binder.toc)
 \tf@toc=\write3
 \openout3 = `binder.toc'.
 
@@ -1248,10 +1251,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 13648 strings out of 493481
- 240531 string characters out of 3140966
- 347455 words of memory out of 3000000
- 16532 multiletter control sequences out of 15000+200000
+ 13649 strings out of 493481
+ 240547 string characters out of 3140966
+ 349475 words of memory out of 3000000
+ 16533 multiletter control sequences out of 15000+200000
  170241 words of font info for 154 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,11n,55p,1333b,380s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1264,7 +1267,7 @@ nts/type1/impallari/quattrocento/QuattrocentoSans-Bold.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local/texlive/201
 2/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texlive/20
 12/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (35 pages, 1463050 bytes).
+Output written on binder.pdf (35 pages, 1462991 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams
