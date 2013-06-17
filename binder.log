@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  14 JUN 2013 15:22
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  17 JUN 2013 14:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1215,7 +1215,7 @@ Package pdftex.def Info: bilder/pinarella.pdf used on input line 14.
 (./adler.tex [8] [9
 
 
-] [10] [11]) (./menschen.tex [12] [13] [14
+] [10] [11] [12]) (./menschen.tex [13] [14
 
 
 ] [15] [16]
@@ -1272,7 +1272,7 @@ s/type1/impallari/quattrocento/QuattrocentoRegular.pfb></usr/local/texlive/2012
 local/texlive/2012/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/loc
 al/texlive/2012/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (35 pages, 1759605 bytes).
+Output written on binder.pdf (35 pages, 1760594 bytes).
 PDF statistics:
  166 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
