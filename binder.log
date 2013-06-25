@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  17 JUN 2013 14:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.3)  25 JUN 2013 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1239,27 +1239,36 @@ Package mdframed Info: mdframed works in twoside mode on input line 31.
 Package mdframed Info: mdframed works in twoside mode on input line 69.
  [30] [31] [32]
 Package mdframed Info: mdframed works in twoside mode on input line 100.
-) [33] [34
+) (./kerzers.tex [33] [34
 
 
-]
-Package tocbasic Info: character protrusion at toc deactivated on input line 70
+] [35]
+Underfull \hbox (badness 4899) in paragraph at lines 14--15
+[]\T1/Quattrocento-TLF/m/sc/10.95 (+20) Auf Deutsch Blau-er Mor-pho-fal-ter. De
+r
+ []
+
+[36] [37] [38] [39] [40] [41]) [42]
+Package tocbasic Info: character protrusion at toc deactivated on input line 71
 .
  (./binder.toc)
 \tf@toc=\write3
 \openout3 = `binder.toc'.
 
- [35] (./binder.aux)
+ [43
+
+
+] (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 13655 strings out of 493481
- 240736 string characters out of 3140966
+ 13665 strings out of 493481
+ 240915 string characters out of 3140966
  348436 words of memory out of 3000000
- 16536 multiletter control sequences out of 15000+200000
- 170664 words of font info for 155 fonts, out of 3000000 for 9000
+ 16540 multiletter control sequences out of 15000+200000
+ 171148 words of font info for 157 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,11n,55p,1333b,380s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_tevtm
@@ -1272,10 +1281,10 @@ s/type1/impallari/quattrocento/QuattrocentoRegular.pfb></usr/local/texlive/2012
 local/texlive/2012/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/loc
 al/texlive/2012/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (35 pages, 1760594 bytes).
+Output written on binder.pdf (43 pages, 1798616 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 194 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  25616 words of extra memory for PDF output out of 29859 (max. 10000000)
 

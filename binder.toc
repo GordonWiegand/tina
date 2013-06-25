@@ -3,3 +3,4 @@
 \contentsline {chapter}{Der weisse Adler}{9}
 \contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{15}
 \contentsline {chapter}{Das Gespenst Jonathan}{23}
+\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{35}
