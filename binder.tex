@@ -44,18 +44,36 @@
 \addtokomafont{pagenumber}{\bfseries}
 %To-Do Kommentare einfügen -> \todo{} \missingfigure{}
 \usepackage{todonotes}
+% used for the 'logo'
+\usepackage{tikz}            
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %titelseite
 \begin{titlepage}
 	\begin{center}
-	\vspace*{4\baselineskip}
-	\textbf{\large \color{red} \it Gordon Wiegand}\\
-	\vspace*{4\baselineskip}
-	\FontH{\Huge \color{red} Geschichten für\\ meine Töchter}\\
-	
+		\vspace*{3\baselineskip}
+		\FontH{\Huge \color{red} Geschichten für\\ meine Töchter}\\ 
 	\end{center}
+		\vspace*{4\baselineskip}
+	
+	\begin{center}
+		\begin{tabular}{p{7cm}p{5cm}}
+			\textbf{\large \color{red} Gordon Wiegand} & \textbf{\large \color{red}  Linda Wiegand}\\
+			\textbf{\large \color{red}\it Texte} & \textbf{\large \color{red}\it Illustrationen}\\
+		\end{tabular}
+
+	\end{center}
+		\vspace*{4\baselineskip}
+	\begin{center}
+		% create logo (letter H within a circle)
+		\begin{tikzpicture}
+   			\node[circle,draw,ultra thick,red] at (0,0) {{\large$\mathcal{GL}$}};
+		\end{tikzpicture}
+		% logo titl
+	\end{center}
+
 \end{titlepage}
 %Bild Seite 2
 \begin{figure}[ht]
