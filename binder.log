@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  1 JUL 2013 12:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  2 JUL 2013 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1254,8 +1254,11 @@ LaTeX Info: Redefining \addtolength on input line 77.
 )
 \c@@todonotes@numberoftodonotes=\count162
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/initials/Typocaps.fd
+File: Typocaps.fd 2003/04/02 Font definition file for U/Typocaps
+)
 
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 52.
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 66.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1264,26 +1267,26 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 (./binder.aux)
 \openout1 = `binder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 66.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Try loading font information for T1+Quattrocento-TLF on inp
-ut line 52.
+ut line 66.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/quattrocento/T1Quattrocento-TLF.f
 d
@@ -1291,7 +1294,7 @@ File: T1Quattrocento-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Quatt
 rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 52.
+(Font)              scaled to size 10.95pt on input line 66.
 \c@mv@tabular=\count163
 \c@mv@boldtabular=\count164
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -1323,7 +1326,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box59
-LaTeX Info: Redefining \microtypecontext on input line 52.
+LaTeX Info: Redefining \microtypecontext on input line 66.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1339,7 +1342,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             See the microtype manual for details.
 
 ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for T1+frc on input line 57.
+LaTeX Font Info:    Try loading font information for T1+frc on input line 71.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/frcursive/t1frc.fd
 File: t1frc.fd 2004/06/12 French Cursive font definition
@@ -1396,34 +1399,32 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 62.
+(Font)              <10.95> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 62.
+(Font)              <8> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 62.
+(Font)              <6> on input line 76.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 63.
+ line 77.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 63.
+(Font)              scaled to size 10.95pt on input line 77.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <12> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 63.
+ line 77.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 63.
+(Font)              scaled to size 12.0pt on input line 77.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 64.
+(Font)              scaled to size 12.0pt on input line 78.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 64.
+(Font)              scaled to size 12.0pt on input line 78.
 
-Overfull \hbox (70.66246pt too wide) in paragraph at lines 62--66
+Overfull \hbox (70.66246pt too wide) in paragraph at lines 76--80
  [] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 72.
 [1
 
 
@@ -1432,7 +1433,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <bilder/titel.jpg, id=13, 601.2864pt x 840.2592pt>
 File: bilder/titel.jpg Graphic file (type jpg)
  <use bilder/titel.jpg>
-Package pdftex.def Info: bilder/titel.jpg used on input line 81.
+Package pdftex.def Info: bilder/titel.jpg used on input line 91.
 (pdftex.def)             Requested size: 294.7706pt x 411.92293pt.
 
 (./pinarella.tex
@@ -1529,6 +1530,12 @@ Package pdftex.def Info: bilder/adler.pdf used on input line 17.
 
 ] [15] [16] [17] [18] [19] [20] [21]) (./gespenst.tex [22]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10> not avai
+lable
+(Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
+ line 9.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 9.
  [23
 
 
@@ -1545,32 +1552,32 @@ Package mdframed Info: mdframed works in twoside mode on input line 31.
  [26] [27]
 [28] [29]
 Package mdframed Info: mdframed works in twoside mode on input line 69.
- [30] [31] [32]
+ [30] [31] [32] [33]
 Package mdframed Info: mdframed works in twoside mode on input line 100.
- [33]) (./kerzers.tex [34] [35
+ [34] [35]) (./kerzers.tex [36] [37
 
 
-] [36] [37] [38]
-<bilder/kerzers.pdf, id=163, 474.50864pt x 353.52817pt>
+] [38] [39]
+[40] <bilder/kerzers.pdf, id=169, 474.50864pt x 353.52817pt>
 File: bilder/kerzers.pdf Graphic file (type pdf)
 
 <use bilder/kerzers.pdf>
 Package pdftex.def Info: bilder/kerzers.pdf used on input line 71.
 (pdftex.def)             Requested size: 206.33852pt x 153.72955pt.
- [39] [40] [41] [42]) (./karl.tex [43] [44 <./bilder/kerzers.pdf>]
+ [41] [42] [43] [44]) (./karl.tex [45] [46 <./bilder/kerzers.pdf>]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 7.
- [45
+ [47
 
 
-] [46] [47]) [48]
-Package tocbasic Info: character protrusion at toc deactivated on input line 92
-.
+] [48] [49]) [50]
+Package tocbasic Info: character protrusion at toc deactivated on input line 10
+2.
  (./binder.toc)
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [49
+ [51
 
 
 ] (./binder.aux)
@@ -1579,13 +1586,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22528 strings out of 493315
- 420519 string characters out of 6137910
- 513833 words of memory out of 5000000
- 25307 multiletter control sequences out of 15000+600000
- 183452 words of font info for 180 fonts, out of 8000000 for 9000
+ 22538 strings out of 493315
+ 420769 string characters out of 6137910
+ 516049 words of memory out of 5000000
+ 25315 multiletter control sequences out of 15000+600000
+ 192485 words of font info for 180 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 74i,11n,77p,1333b,604s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,11n,77p,1333b,718s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_tevtm
 b.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_e
 45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocent
@@ -1594,15 +1601,15 @@ ri/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/2013/texmf-dist/font
 s/type1/impallari/quattrocento/QuattrocentoRegular.pfb></usr/local/texlive/2013
 /texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans-Bold.pfb></usr/
 local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSa
-ns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initials/Zallman.
-pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
-b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/fourier-orns.pf
-b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (49 pages, 2626653 bytes).
+ns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initials/Typocaps
+.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initials/Zallman.pf
+b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb>
+Output written on binder.pdf (51 pages, 2625802 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
+ 252 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  30758 words of extra memory for PDF output out of 35830 (max. 10000000)
 
