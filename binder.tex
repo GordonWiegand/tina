@@ -28,14 +28,27 @@
 %Grafiken einbinden
 \usepackage{graphicx}
 %Für Kapitel Gespenst Jonathan Rahmen ermöglichen
-\usepackage{mdframed}
+\usepackage[everyline=true]{mdframed}
 %Definition Rahmen: links dicker roter balken
 \mdfdefinestyle{mystyle}{
-        %topline=false,
+        roundcorner=10pt,
+        backgroundcolor= red!05, 
         bottomline=false,
         rightline=false,
-        linewidth=2pt,
+        linewidth=1pt,
         linecolor =red}
+\mdfsetup{
+%
+frametitle={
+%
+\tikz[baseline=(current bounding box.east),
+outer sep =0pt]
+\node[anchor=east,rectangle,fill=red]
+{\color{white} \small Olivia};},
+frametitleaboveskip=\dimexpr-\ht\strutbox\relax
+}
+
+        
 %Abstand zw. Wörtern darf zwecks Blocksatzbildung in Ausnahmefällen bis 1em breit werden.
 \setlength{\emergencystretch}{1em}
 %bessere Mikrotypographie (margin kerning insb. am Rand)
@@ -46,8 +59,11 @@
 \usepackage{todonotes}
 % used for the 'logo'
 \usepackage{tikz}            
-
-
+% Totenkopf
+\usepackage{skull}            
+%Initialen Titelseite (Pseudologo "W")
+\input Typocaps.fd
+\def\FontI{\color{red}\fontsize{20pt}{0mm}\usefont{U}{Typocaps}{xl}{n}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %titelseite
@@ -67,11 +83,7 @@
 	\end{center}
 		\vspace*{4\baselineskip}
 	\begin{center}
-		% create logo (letter H within a circle)
-		\begin{tikzpicture}
-   			\node[circle,draw,ultra thick,red] at (0,0) {{\large$\mathcal{GL}$}};
-		\end{tikzpicture}
-		% logo titl
+   		\large\FontI{W}
 	\end{center}
 
 \end{titlepage}
@@ -87,6 +99,7 @@
 \input{gespenst}
 \input{kerzers}
 \input{karl}
+\input{pirat}
 %Inhaltsverzeichnis
 \newpage
 \tableofcontents
