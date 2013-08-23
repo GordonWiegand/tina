@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  19 AUG 2013 22:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.22)  23 AUG 2013 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1581,69 +1581,70 @@ t available
 nput line 3.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 3.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.3 ...nter \skull Der erste Tag als Pirat \skull}
-                                                  
-? 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
-! Missing $ inserted.
-<inserted text> 
-                $
-l.3 ...nter \skull Der erste Tag als Pirat \skull}
-                                                  
-? 
-[51
+ [51
 
 
-] [52] [53] [54]) [55] [56
-
-
-]
+] [52] [53] [54] [55] [56]
+[57]
+LaTeX Font Info:    Font shape `U/futs/m/it' in size <10.95> not available
+(Font)              Font shape `U/futs/m/sl' tried instead on input line 102.
+) [58]
 Package tocbasic Info: character protrusion at toc deactivated on input line 10
 5.
- (./binder.toc)
+ (./binder.toc
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 2.
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/it' in size <10.95> 
+not available
+(Font)              Font shape `T1/QuattrocentoSans-TLF/b/it' tried instead on 
+input line 2.
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/it' will be
+(Font)              scaled to size 10.95pt on input line 2.
+)
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [57] (./binder.aux)
+ [59
+
+
+] (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22577 strings out of 493315
- 421879 string characters out of 6137904
+ 22594 strings out of 493315
+ 422458 string characters out of 6137904
  512316 words of memory out of 5000000
- 25341 multiletter control sequences out of 15000+600000
- 203541 words of font info for 192 fonts, out of 8000000 for 9000
+ 25348 multiletter control sequences out of 15000+600000
+ 228657 words of font info for 200 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  74i,11n,77p,1333b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/skull/s
-kull.720pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtr
-cnt_tevtmb.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento
-/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/qu
-attrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
-1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/2013/texmf-
-dist/fonts/type1/impallari/quattrocento/QuattrocentoRegular.pfb></usr/local/tex
-live/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans-Bold.p
-fb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quatt
-rocentoSans.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initials
-/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initials/Z
-allman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/fourier-
-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursive/frcr1
-4.pfb>
-Output written on binder.pdf (57 pages, 2672360 bytes).
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_qceur
+4.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
+lic/skull/skull.720pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quatt
+rocento/qtrcnt_tevtmb.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/q
+uattrocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/i
+mpallari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist
+/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoRegular.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento
+Sans-Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattro
+cento/QuattrocentoSans-BoldItalic.pfb></usr/local/texlive/2013/texmf-dist/fonts
+/type1/impallari/quattrocento/QuattrocentoSans.pfb></usr/local/texlive/2013/tex
+mf-dist/fonts/type1/public/initials/Typocaps.pfb></usr/local/texlive/2013/texmf
+-dist/fonts/type1/public/initials/Zallman.pfb></usr/local/texlive/2013/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist
+/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/public/frcursive/frcr14.pfb>
+Output written on binder.pdf (59 pages, 2687934 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
- 194 compressed objects within 2 object streams
+ 287 PDF objects out of 1000 (max. 8388607)
+ 199 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 32806 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 35366 words of extra memory for PDF output out of 35830 (max. 10000000)
 
