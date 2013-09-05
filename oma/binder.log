@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.22)  3 SEP 2013 12:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.22)  5 SEP 2013 14:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1284,6 +1284,14 @@ Normal \dimen register pool exhausted, switching to extended pool.
 \Gm@layoutvoffset=\dimen256
 \Gm@dimlist=\toks30
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count165
+\float@exts=\toks31
+\float@box=\box58
+\@float@everytoks=\toks32
+\@floatcapt=\box59
+)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/bbding/bbding.sty
 Package: bbding 1999/04/15 v1.01 Dingbats symbols
 )
@@ -1329,21 +1337,21 @@ rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 75.
-\c@mv@tabular=\count165
-\c@mv@boldtabular=\count166
+\c@mv@tabular=\count166
+\c@mv@boldtabular=\count167
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count167
+\scratchcounter=\count168
 \scratchdimen=\dimen257
-\scratchbox=\box58
-\nofMPsegments=\count168
-\nofMParguments=\count169
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count170
+\scratchbox=\box60
+\nofMPsegments=\count169
+\nofMParguments=\count170
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count171
 \MPscratchDim=\dimen258
-\MPnumerator=\count171
-\makeMPintoPDFobject=\count172
-\everyMPtoPDFconversion=\toks32
+\MPnumerator=\count172
+\makeMPintoPDFobject=\count173
+\everyMPtoPDFconversion=\toks34
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1359,7 +1367,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box59
+\AtBeginShipoutBox=\box61
 LaTeX Info: Redefining \microtypecontext on input line 75.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -1412,7 +1420,7 @@ ABD: EveryShipout initializing macros
 
 (./oma.tex
 LaTeX Font Info:    Try loading font information for T1+QuattrocentoSans-TLF on
- input line 12.
+ input line 13.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/quattrocento/T1QuattrocentoSans-T
 LF.fd
@@ -1420,7 +1428,7 @@ File: T1QuattrocentoSans-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Q
 uattrocentoSans-TLF.
 )
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 12.
+(Font)              scaled to size 10.95pt on input line 13.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `QuattrocentoSans-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1428,34 +1436,34 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <10.95> n
 ot available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
-nput line 12.
+nput line 13.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 12.
+(Font)              scaled to size 10.95pt on input line 13.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <20.74> n
 ot available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
-nput line 12.
+nput line 13.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 12.
+(Font)              scaled to size 20.74pt on input line 13.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <20.74> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 12.
+ line 13.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 12.
+(Font)              scaled to size 20.74pt on input line 13.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <24.88> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 12.
+ line 13.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 12.
+(Font)              scaled to size 24.88pt on input line 13.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 12.
+(Font)              scaled to size 24.88pt on input line 13.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 24.88pt on input line 12.
+(Font)              scaled to size 24.88pt on input line 13.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 20.74pt on input line 12.
-LaTeX Font Info:    Try loading font information for T1+frc on input line 12.
+(Font)              scaled to size 20.74pt on input line 13.
+LaTeX Font Info:    Try loading font information for T1+frc on input line 13.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/frcursive/t1frc.fd
 File: t1frc.fd 2004/06/12 French Cursive font definition
 )
@@ -1505,7 +1513,7 @@ Package microtype Info: Character `AE ' is missing
 Package microtype Info: Character `_' is missing
 (microtype)             in font `T1/frc/m/n/24.88'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for U+ding on input line 14.
+LaTeX Font Info:    Try loading font information for U+ding on input line 15.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
@@ -1513,48 +1521,48 @@ File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 16.
+ line 17.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 16.
+(Font)              scaled to size 10.95pt on input line 17.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <14.4> not av
 ailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 16.
+ line 17.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 16.
+(Font)              scaled to size 14.4pt on input line 17.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 20.
+(Font)              scaled to size 20.74pt on input line 21.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 22.
+(Font)              scaled to size 17.28pt on input line 23.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 24.
+(Font)              scaled to size 14.4pt on input line 25.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 27.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 30.
+(Font)              scaled to size 10.0pt on input line 31.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 32.
+(Font)              scaled to size 9.0pt on input line 33.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 34.
+(Font)              scaled to size 8.0pt on input line 35.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 36.
+(Font)              scaled to size 6.0pt on input line 37.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sl' in size <10.95> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/m/it' tried instead on inpu
-t line 37.
+t line 38.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 37.
+(Font)              scaled to size 10.95pt on input line 38.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 37.
+(Font)              <10.95> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 37.
+(Font)              <8> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 37.
+(Font)              <6> on input line 38.
  [1
 
 
@@ -1563,47 +1571,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 39.
+ line 40.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 39.
+(Font)              scaled to size 10.0pt on input line 40.
 
 
 LaTeX Font Warning: Font shape `T1/Quattrocento-TLF/m/sc' undefined
-(Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 40.
+(Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 41.
 
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 40.
+(Font)              scaled to size 10.95pt on input line 41.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/Quattrocento-TLF/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for U+futs on input line 67.
+LaTeX Font Info:    Try loading font information for U+futs on input line 62.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/ufuts.fd
 File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
 ) [1] [2]
-[3] <bilder/oma1.pdf, id=34, 845.1575pt x 597.23125pt>
+[3] [4] <bilder/oma1.pdf, id=37, 845.1575pt x 597.23125pt>
 File: bilder/oma1.pdf Graphic file (type pdf)
- <use bilder/oma1.pdf>
-Package pdftex.def Info: bilder/oma1.pdf used on input line 117.
+
+<use bilder/oma1.pdf>
+Package pdftex.def Info: bilder/oma1.pdf used on input line 131.
 (pdftex.def)             Requested size: 278.83578pt x 197.04135pt.
-
-[4] [5] [6] [7]
-
-Package mdframed Warning: You got a page break inside the title
-(mdframed)                Current this isn't well supported on input line 209.
-
-[8]) [9] [10 <./bilder/oma1.pdf, page is rotated 90 degrees>] (./binder.aux)
+ [5] [6 <./bilder/oma1.pdf, page is rotated 90 degrees>]
+[7] [8] [9] [10]) [11] (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23037 strings out of 493315
- 427561 string characters out of 6137904
- 531231 words of memory out of 5000000
- 25850 multiletter control sequences out of 15000+600000
+ 23093 strings out of 493315
+ 428346 string characters out of 6137904
+ 529564 words of memory out of 5000000
+ 25902 multiletter control sequences out of 15000+600000
  234234 words of font info for 167 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 74i,10n,77p,890b,688s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,11n,77p,809b,688s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_e45lg
 2.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
 lic/bbding/bbding10.360pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var
@@ -1625,10 +1629,10 @@ centoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initial
 s/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/fo
 urier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursive
 /frcr14.pfb>
-Output written on binder.pdf (11 pages, 698392 bytes).
+Output written on binder.pdf (12 pages, 702423 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  28690 words of extra memory for PDF output out of 29859 (max. 10000000)
 
