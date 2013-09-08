@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.22)  2 SEP 2013 13:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  8 SEP 2013 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -38,12 +38,16 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 119.
-Class scrbook Info: File `scrsize11pt.clo' used instead of
-(scrbook)           file `scrsize11.clo' to setup font sizes on input line 1368
-.
+Package scrbook Info: You've used obsolete option `12pt'.
+(scrbook)             \KOMAExecuteOptions{fontsize=12pt} will be
+(scrbook)             used instead.
+(scrbook)             You may simply replace `12pt'
+(scrbook)             by `fontsize=12pt'.
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
+ne 1368.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (11p
+(/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (12p
 t)
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/typearea.sty
@@ -72,21 +76,21 @@ Package typearea Warning: Maybe no optimal type area settings!
 (typearea)                or change the papersize.
 
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 10
+(typearea)             DIV  = 12
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 421.10083pt
-(typearea)              \textwidth      = 294.7706pt
+(typearea)              \textwidth      = 315.82562pt
 (typearea)              DIV departure   = 18%
-(typearea)              \evensidemargin = 11.95016pt
-(typearea)              \oddsidemargin  = -30.15991pt
+(typearea)              \evensidemargin = -2.08652pt
+(typearea)              \oddsidemargin  = -37.17825pt
 (typearea)             \paperheight     = 597.50793pt
-(typearea)              \textheight     = 419.00018pt
-(typearea)              \topmargin      = -49.9192pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 20.40001pt
-(typearea)              \topskip        = 11.0pt
-(typearea)              \footskip       = 47.60002pt
-(typearea)              \baselineskip   = 13.6pt
+(typearea)              \textheight     = 461.5pt
+(typearea)              \topmargin      = -62.35266pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
 (typearea)              on input line 1213.
 )
 \c@part=\count80
@@ -1295,7 +1299,7 @@ File: T1Quattrocento-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Quatt
 rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 68.
+(Font)              scaled to size 12.0pt on input line 68.
 \c@mv@tabular=\count162
 \c@mv@boldtabular=\count163
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -1400,29 +1404,29 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 78.
+(Font)              <12> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 78.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
-vailable
-(Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 79.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 79.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <12> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
  line 79.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 79.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <14.4> not av
+ailable
+(Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
+ line 79.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 79.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 80.
+(Font)              scaled to size 14.4pt on input line 80.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 80.
+(Font)              scaled to size 14.4pt on input line 80.
 
-Overfull \hbox (70.66246pt too wide) in paragraph at lines 78--82
+Overfull \hbox (49.60744pt too wide) in paragraph at lines 78--82
  [] 
  []
 
@@ -1435,15 +1439,15 @@ Overfull \hbox (70.66246pt too wide) in paragraph at lines 78--82
 File: bilder/titel.jpg Graphic file (type jpg)
  <use bilder/titel.jpg>
 Package pdftex.def Info: bilder/titel.jpg used on input line 93.
-(pdftex.def)             Requested size: 294.7706pt x 411.92293pt.
+(pdftex.def)             Requested size: 315.82562pt x 441.34784pt.
 
 (./pinarella.tex
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sl' in size <10.95> not a
-vailable
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sl' in size <12> not avai
+lable
 (Font)              Font shape `T1/Quattrocento-TLF/m/it' tried instead on inpu
 t line 1.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 1.
+(Font)              scaled to size 12.0pt on input line 1.
 LaTeX Font Info:    Try loading font information for U+futs on input line 1.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/ufuts.fd
 File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
@@ -1457,29 +1461,23 @@ File: T1QuattrocentoSans-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Q
 uattrocentoSans-TLF.
 )
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1.
+(Font)              scaled to size 12.0pt on input line 1.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `QuattrocentoSans-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <10.95> n
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <12> not 
+available
+(Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
+nput line 1.
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <24.88> n
 ot available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
 nput line 1.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 1.
-LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <20.74> n
-ot available
-(Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
-nput line 1.
-LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 1.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <20.74> not a
-vailable
-(Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 1.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 1.
+(Font)              scaled to size 24.88pt on input line 1.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <24.88> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
@@ -1490,53 +1488,56 @@ LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
 (Font)              scaled to size 24.88pt on input line 1.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 20.74pt on input line 1.
 
 
 LaTeX Font Warning: Font shape `T1/Quattrocento-TLF/m/sc' undefined
-(Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 3.
+(Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 4.
 
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 3.
+(Font)              scaled to size 12.0pt on input line 4.
 Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/Quattrocento-TLF/m/sc/10.95'.
+(microtype)             in font `T1/Quattrocento-TLF/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Underfull \vbox (badness 1199) has occurred while \output is active []
-
- [3
+[3
 
 
-]
-<bilder/pinarella.pdf, id=23, 416.51729pt x 418.47403pt>
+] <bilder/pinarella.pdf, id=23, 416.51729pt x 418.47403pt>
 File: bilder/pinarella.pdf Graphic file (type pdf)
 
 <use bilder/pinarella.pdf>
-Package pdftex.def Info: bilder/pinarella.pdf used on input line 14.
-(pdftex.def)             Requested size: 235.81737pt x 236.92354pt.
+Package pdftex.def Info: bilder/pinarella.pdf used on input line 15.
+(pdftex.def)             Requested size: 315.82562pt x 317.31561pt.
  [4] [5 <./bilder/pinarella.pdf>] [6] [7])
 (./adler.tex [8] [9
 
 
-] <bilder/adler.pdf, id=51, 355.78352pt x 199.09592pt>
+]
+Overfull \hbox (0.17935pt too wide) in paragraph at lines 11--12
+\T1/Quattrocento-TLF/m/sc/12 (-20) wollte. Nicht dass er das sehr ausgenutzt hä
+tte. Eigentlich war
+ []
+
+<bilder/adler.pdf, id=51, 355.78352pt x 199.09592pt>
 File: bilder/adler.pdf Graphic file (type pdf)
-
-<use bilder/adler.pdf>
+ <use bilder/adler.pdf>
 Package pdftex.def Info: bilder/adler.pdf used on input line 17.
-(pdftex.def)             Requested size: 206.33852pt x 115.46658pt.
- [10] [11 <./bilder/adler.pdf>] [12]) (./menschen.tex
-[13] [14
+(pdftex.def)             Requested size: 221.07697pt x 123.71463pt.
+
+[10]
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [11 <./bilder/adler.pdf>] [12]) (./menschen.tex [13] [14
 
 
-] [15] [16] [17] [18] [19] [20] [21]) (./gespenst.tex [22]
+] [15] [16] [17] [18] [19]
+[20]) (./gespenst.tex [21] [22]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10> not avai
-lable
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
+vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
  line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 3.
+(Font)              scaled to size 10.95pt on input line 3.
  [23
 
 
@@ -1546,99 +1547,120 @@ File: bilder/gespenst1.pdf Graphic file (type pdf)
 
 <use bilder/gespenst1.pdf>
 Package pdftex.def Info: bilder/gespenst1.pdf used on input line 17.
-(pdftex.def)             Requested size: 206.33852pt x 241.69543pt.
+(pdftex.def)             Requested size: 221.07697pt x 258.9607pt.
 Package mdframed Info: mdframed works in twoside mode on input line 22.
  [24 <./bilder/gespenst1.pdf>] [25]
 Package mdframed Info: mdframed works in twoside mode on input line 31.
- [26]
-Underfull \vbox (badness 2142) has occurred while \output is active []
-
- [27]
+ [26] [27]
 [28] [29]
 Package mdframed Info: mdframed works in twoside mode on input line 69.
  [30] [31] [32]
 Package mdframed Info: mdframed works in twoside mode on input line 100.
- [33] [34]) (./kerzers.tex [35] [36
+ [33]) (./kerzers.tex [34
 
 
-] [37] [38] [39]
-[40] <bilder/kerzers.pdf, id=169, 474.50864pt x 353.52817pt>
+] [35] [36] [37] [38]
+<bilder/kerzers.pdf, id=163, 474.50864pt x 353.52817pt>
 File: bilder/kerzers.pdf Graphic file (type pdf)
 
 <use bilder/kerzers.pdf>
 Package pdftex.def Info: bilder/kerzers.pdf used on input line 71.
-(pdftex.def)             Requested size: 206.33852pt x 153.72955pt.
- [41] [42] [43] [44]) (./karl.tex [45] [46 <./bilder/kerzers.pdf>]
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 7.
- [47
+(pdftex.def)             Requested size: 221.07697pt x 164.71255pt.
+ [39] [40] [41] [42]) (./karl.tex [43] [44 <./bilder/kerzers.pdf>] [45
 
 
-] [48] [49]) (./pirat.tex [50]
-LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <14.4> no
-t available
+] [46] [47]) (./pirat.tex [48]
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <17.28> n
+ot available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
 nput line 3.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 3.
+(Font)              scaled to size 17.28pt on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <17.28> on input line 3.
 
-Overfull \hbox (16.29713pt too wide) in paragraph at lines 6--6
-\T1/Quattrocento-TLF/m/sc/10.95 (-20) Piratengesetze- 
+Overfull \hbox (34.34848pt too wide) in paragraph at lines 6--6
+\T1/Quattrocento-TLF/m/sc/12 (-20) Piratengesetze- 
  []
 
 
-Overfull \hbox (24.5405pt too wide) in paragraph at lines 6--6
-\T1/Quattrocento-TLF/m/sc/10.95 (-20) Mitspracherecht, 
+Overfull \hbox (43.39436pt too wide) in paragraph at lines 6--6
+\T1/Quattrocento-TLF/m/sc/12 (-20) Mitspracherecht, 
  []
 
 
-Overfull \hbox (16.29713pt too wide) in paragraph at lines 6--6
-\T1/Quattrocento-TLF/m/sc/10.95 (-20) Piratengesetze- 
+Overfull \hbox (34.34848pt too wide) in paragraph at lines 6--6
+\T1/Quattrocento-TLF/m/sc/12 (-20) Piratengesetze- 
  []
 
 
-Overfull \hbox (24.5405pt too wide) in paragraph at lines 6--6
-\T1/Quattrocento-TLF/m/sc/10.95 (-20) Mitspracherecht, 
+Overfull \hbox (43.39436pt too wide) in paragraph at lines 6--6
+\T1/Quattrocento-TLF/m/sc/12 (-20) Mitspracherecht, 
  []
 
 
-Overfull \hbox (16.29713pt too wide) in paragraph at lines 6--6
-\T1/Quattrocento-TLF/m/sc/10.95 (-20) Piratengesetze- 
+Overfull \hbox (34.34848pt too wide) in paragraph at lines 6--6
+\T1/Quattrocento-TLF/m/sc/12 (-20) Piratengesetze- 
  []
 
 
-Overfull \hbox (24.5405pt too wide) in paragraph at lines 6--6
-\T1/Quattrocento-TLF/m/sc/10.95 (-20) Mitspracherecht, 
+Overfull \hbox (43.39436pt too wide) in paragraph at lines 6--6
+\T1/Quattrocento-TLF/m/sc/12 (-20) Mitspracherecht, 
  []
 
 
-Overfull \hbox (16.29713pt too wide) in paragraph at lines 6--6
-\T1/Quattrocento-TLF/m/sc/10.95 (-20) Piratengesetze- 
+Overfull \hbox (34.34848pt too wide) in paragraph at lines 6--6
+\T1/Quattrocento-TLF/m/sc/12 (-20) Piratengesetze- 
  []
 
 
-Overfull \hbox (24.5405pt too wide) in paragraph at lines 6--6
-\T1/Quattrocento-TLF/m/sc/10.95 (-20) Mitspracherecht, 
+Overfull \hbox (43.39436pt too wide) in paragraph at lines 6--6
+\T1/Quattrocento-TLF/m/sc/12 (-20) Mitspracherecht, 
  []
 
-[51
+[49
 
 
-] [52] [53] [54] <bilder/pirat1.pdf, id=225, 845.1575pt x 597.23125pt>
+] [50]
+Overfull \hbox (0.1556pt too wide) in paragraph at lines 21--22
+\T1/Quattrocento-TLF/m/sc/12 (-20) tern ein Floss ge-bas-telt und spiel-ten na-
+tür-lich Pi-rat. Sie spran-
+ []
+
+[51]
+Overfull \hbox (15.05762pt too wide) in paragraph at lines 37--37
+[][][][]\T1/Quattrocento-TLF/m/sc/12 (-20) Zeitformen 
+ []
+
+
+Overfull \hbox (15.05762pt too wide) in paragraph at lines 37--37
+[][][][]\T1/Quattrocento-TLF/m/sc/12 (-20) Zeitformen 
+ []
+
+
+Overfull \hbox (15.05762pt too wide) in paragraph at lines 37--37
+[][][][]\T1/Quattrocento-TLF/m/sc/12 (-20) Zeitformen 
+ []
+
+
+Overfull \hbox (15.05762pt too wide) in paragraph at lines 37--37
+[][][][]\T1/Quattrocento-TLF/m/sc/12 (-20) Zeitformen 
+ []
+
+[52] <bilder/pirat1.pdf, id=219, 845.1575pt x 597.23125pt>
 File: bilder/pirat1.pdf Graphic file (type pdf)
 
 <use bilder/pirat1.pdf>
 Package pdftex.def Info: bilder/pirat1.pdf used on input line 48.
-(pdftex.def)             Requested size: 206.33852pt x 145.80804pt.
- [55 <./bilder/pirat1.pdf>] [56] [57] [58]
-LaTeX Font Info:    Font shape `U/futs/m/it' in size <10.95> not available
+(pdftex.def)             Requested size: 221.07697pt x 156.22421pt.
+ [53 <./bilder/pirat1.pdf>] [54] [55]
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 103.
+ [56]
+LaTeX Font Info:    Font shape `U/futs/m/it' in size <12> not available
 (Font)              Font shape `U/futs/m/sl' tried instead on input line 108.
-) [59]
-[60
+) [57]
+[58
 
 
 ]
@@ -1646,51 +1668,51 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 10
 5.
  (./binder.toc
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 2.
-LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/it' in size <10.95> 
-not available
+(Font)              scaled to size 12.0pt on input line 2.
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/it' in size <12> not
+ available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/it' tried instead on 
 input line 2.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/it' will be
-(Font)              scaled to size 10.95pt on input line 2.
+(Font)              scaled to size 12.0pt on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [61] (./binder.aux)
+ [59] (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22604 strings out of 493315
- 422695 string characters out of 6137904
- 512396 words of memory out of 5000000
- 25357 multiletter control sequences out of 15000+600000
- 228657 words of font info for 200 fonts, out of 8000000 for 9000
+ 22605 strings out of 493315
+ 422604 string characters out of 6137904
+ 512428 words of memory out of 5000000
+ 25346 multiletter control sequences out of 15000+600000
+ 211809 words of font info for 204 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 74i,11n,77p,1333b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,11n,77p,836b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_qceur
-4.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
-lic/skull/skull.720pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quatt
-rocento/qtrcnt_tevtmb.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/q
-uattrocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/i
-mpallari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist
-/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/
-2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoRegular.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento
-Sans-Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattro
-cento/QuattrocentoSans-BoldItalic.pfb></usr/local/texlive/2013/texmf-dist/fonts
-/type1/impallari/quattrocento/QuattrocentoSans.pfb></usr/local/texlive/2013/tex
-mf-dist/fonts/type1/public/initials/Typocaps.pfb></usr/local/texlive/2013/texmf
--dist/fonts/type1/public/initials/Zallman.pfb></usr/local/texlive/2013/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist
-/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dis
-t/fonts/type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (61 pages, 3449648 bytes).
+4.enc} </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/sku
+ll/skull.864pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento
+/qtrcnt_tevtmb.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattroc
+ento/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/impallar
+i/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/
+type1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoRegular.pfb></usr/local
+/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans-Bo
+ld.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Q
+uattrocentoSans-BoldItalic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
+impallari/quattrocento/QuattrocentoSans.pfb></usr/local/texlive/2013/texmf-dist
+/fonts/type1/public/initials/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/f
+onts/type1/public/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/
+type1/public/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts
+/type1/public/frcursive/frcr14.pfb>
+Output written on binder.pdf (59 pages, 3448268 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
- 210 compressed objects within 3 object streams
+ 297 PDF objects out of 1000 (max. 8388607)
+ 205 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 35371 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 33835 words of extra memory for PDF output out of 35830 (max. 10000000)
 

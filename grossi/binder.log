@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.22)  3 SEP 2013 13:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  8 SEP 2013 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -38,20 +38,26 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 119.
+Package scrbook Info: You've used obsolete option `13pt'.
+(scrbook)             \KOMAExecuteOptions{fontsize=13pt} will be
+(scrbook)             used instead.
+(scrbook)             You may simply replace `13pt'
+(scrbook)             by `fontsize=13pt'.
 Class scrbook Info: You've used standard option `oneside'.
 (scrbook)           This is correct!
 (scrbook)           Internally I'm using `twoside=false'.
 (scrbook)           If you'd like to set the option with \KOMAoptions,
 (scrbook)           you'd have to use `twoside=false' there
 (scrbook)           instead of `oneside', too.
-Class scrbook Info: File `scrsize11pt.clo' used instead of
-(scrbook)           file `scrsize11.clo' to setup font sizes on input line 1368
-.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (11p
-t)
-)
+
+Class scrbook Warning: Using fallback calculation to setup font sizes
+(scrbook)              for basic size `13pt' on input line 1368.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 1368.
+
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
 
@@ -76,22 +82,28 @@ Package typearea Info: You've used standard option `oneside'.
 \ta@hblk=\skip42
 \ta@vblk=\skip43
 \ta@temp=\skip44
+
+Package typearea Warning: DIV for 13.0pt and used papersize
+(typearea)                not defined!
+(typearea)                Using DIV=1.
+
+DIV calculation for typearea with good linewidth.
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 10
+(typearea)             DIV  = 9
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 418.25555pt
-(typearea)              DIV departure   = -6%
-(typearea)              \evensidemargin = 17.3562pt
-(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)              \textwidth      = 398.33862pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = 27.31467pt
+(typearea)              \oddsidemargin  = 27.31467pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 595.80026pt
-(typearea)              \topmargin      = -25.16531pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 20.40001pt
-(typearea)              \topskip        = 11.0pt
-(typearea)              \footskip       = 47.60002pt
-(typearea)              \baselineskip   = 13.6pt
+(typearea)              \textheight     = 574.59857pt
+(typearea)              \topmargin      = -21.27576pt
+(typearea)              \headheight     = 19.49994pt
+(typearea)              \headsep        = 23.39993pt
+(typearea)              \topskip        = 13.0pt
+(typearea)              \footskip       = 54.59985pt
+(typearea)              \baselineskip   = 15.59996pt
 (typearea)              on input line 1213.
 )
 \c@part=\count80
@@ -238,8 +250,12 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.sty
+)
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 100.
+
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -1294,10 +1310,6 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
-
-LaTeX Warning: Unused global option(s):
-    [14p].
-
 (./binder.aux)
 \openout1 = `binder.aux'.
 
@@ -1328,7 +1340,7 @@ File: T1Quattrocento-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Quatt
 rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 75.
+(Font)              scaled to size 13.0pt on input line 75.
 \c@mv@tabular=\count165
 \c@mv@boldtabular=\count166
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -1392,15 +1404,15 @@ ABD: EveryShipout initializing macros
 * \textheight=560.51929pt
 * \oddsidemargin=27.31465pt
 * \evensidemargin=27.31465pt
-* \topmargin=32.59378pt
-* \headheight=17.0pt
-* \headsep=20.40001pt
-* \topskip=11.0pt
-* \footskip=47.60002pt
-* \marginparwidth=59.7508pt
+* \topmargin=27.09392pt
+* \headheight=19.49994pt
+* \headsep=23.39993pt
+* \topskip=13.0pt
+* \footskip=54.59985pt
+* \marginparwidth=66.38977pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=11.69992pt plus 4.33287pt minus 7.80008pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1420,41 +1432,41 @@ File: T1QuattrocentoSans-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Q
 uattrocentoSans-TLF.
 )
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 3.
+(Font)              scaled to size 13.0pt on input line 3.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `QuattrocentoSans-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <10.95> n
-ot available
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <13> not 
+available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
 nput line 3.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 3.
-LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <20.74> n
-ot available
+(Font)              scaled to size 13.0pt on input line 3.
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <26.96207
+> not available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
 nput line 3.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 3.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <20.74> not a
-vailable
+(Font)              scaled to size 26.96207pt on input line 3.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <26.96207> no
+t available
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
  line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 3.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <24.88> not a
-vailable
+(Font)              scaled to size 26.96207pt on input line 3.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <32.34409> no
+t available
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
  line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 3.
+(Font)              scaled to size 32.34409pt on input line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 3.
+(Font)              scaled to size 32.34409pt on input line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 24.88pt on input line 3.
+(Font)              scaled to size 32.34409pt on input line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 20.74pt on input line 3.
+(Font)              scaled to size 26.96207pt on input line 3.
 LaTeX Font Info:    Try loading font information for T1+frc on input line 3.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/frcursive/t1frc.fd
 File: t1frc.fd 2004/06/12 French Cursive font definition
@@ -1485,77 +1497,104 @@ Package microtype Info: Character `_' is missing
 (microtype)             in font `T1/frc/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `@' is missing
-(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             in font `T1/frc/m/n/32.34409'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `%' is missing
-(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             in font `T1/frc/m/n/32.34409'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `*' is missing
-(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             in font `T1/frc/m/n/32.34409'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `+' is missing
-(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             in font `T1/frc/m/n/32.34409'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textquotedblright ' has a width of 0pt 
-(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             in font `T1/frc/m/n/32.34409'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `AE ' is missing
-(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             in font `T1/frc/m/n/32.34409'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `_' is missing
-(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             in font `T1/frc/m/n/32.34409'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Try loading font information for U+ding on input line 4.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
-vailable
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <13> not avai
+lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
  line 6.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 6.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <14.4> not av
-ailable
+(Font)              scaled to size 13.0pt on input line 6.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <18.72003> no
+t available
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
  line 6.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 6.
+(Font)              scaled to size 18.72003pt on input line 6.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <15.59996> no
+t available
+(Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
+ line 8.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
+(Font)              scaled to size 15.59996pt on input line 8.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 10.
+(Font)              scaled to size 26.96207pt on input line 10.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 12.
+(Font)              scaled to size 22.46396pt on input line 12.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 14.
+(Font)              scaled to size 18.72003pt on input line 14.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 16.
+(Font)              scaled to size 15.59996pt on input line 16.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 20.
+(Font)              scaled to size 11.86258pt on input line 20.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 22.
+(Font)              scaled to size 10.83347pt on input line 22.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 24.
+(Font)              scaled to size 8.66673pt on input line 24.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 26.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sl' in size <10.95> not a
-vailable
+(Font)              scaled to size 6.5pt on input line 26.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sl' in size <13> not avai
+lable
 (Font)              Font shape `T1/Quattrocento-TLF/m/it' tried instead on inpu
 t line 27.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 27.
+(Font)              scaled to size 13.0pt on input line 27.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 27.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
+(Font)              size <12> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 27.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 27.
+(Font)              <13> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 27.
+(Font)              <9.09996> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
- [1
+(Font)              <6.5> on input line 27.
+[1
 
 
 
@@ -1565,58 +1604,62 @@ LaTeX Font Warning: Font shape `T1/Quattrocento-TLF/m/sc' undefined
 (Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 31.
 
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 31.
+(Font)              scaled to size 13.0pt on input line 31.
 Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/Quattrocento-TLF/m/sc/10.95'.
+(microtype)             in font `T1/Quattrocento-TLF/m/sc/13'.
 (microtype)             Ignoring protrusion settings for this character.
-<bilder/pinarella.pdf, id=21, 416.51729pt x 418.47403pt>
+LaTeX Font Info:    Try loading font information for U+futs on input line 38.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/ufuts.fd
+File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
+) [1]
+<bilder/pinarella.pdf, id=27, 416.51729pt x 418.47403pt>
 File: bilder/pinarella.pdf Graphic file (type pdf)
 
 <use bilder/pinarella.pdf>
-Package pdftex.def Info: bilder/pinarella.pdf used on input line 45.
-(pdftex.def)             Requested size: 318.67209pt x 320.17627pt.
-LaTeX Font Info:    Try loading font information for U+futs on input line 46.
+Package pdftex.def Info: bilder/pinarella.pdf used on input line 42.
+(pdftex.def)             Requested size: 398.3386pt x 400.22354pt.
+ [2 <./bilder/pinarella.pdf>] [3] [4]) [5]
+(./binder.aux)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/ufuts.fd
-File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
-) [1] [2 <./bilder/pinarella.pdf>] [3]) [4] (./binder.aux)
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22956 strings out of 493315
- 425355 string characters out of 6137904
- 521231 words of memory out of 5000000
- 25815 multiletter control sequences out of 15000+600000
- 218627 words of font info for 136 fonts, out of 8000000 for 9000
+ 22981 strings out of 493315
+ 426038 string characters out of 6137904
+ 522132 words of memory out of 5000000
+ 25826 multiletter control sequences out of 15000+600000
+ 230090 words of font info for 145 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 74i,10n,77p,836b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,10n,77p,833b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_e45lg
-2.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
-lic/bbding/bbding10.360pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var
-/fonts/pk/ljfour/public/bbding/bbding10.480pk> </Users/gordonwiegand/Library/te
-xlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.540pk> </Users/gord
-onwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10
-.600pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pu
-blic/bbding/bbding10.657pk> </Users/gordonwiegand/Library/texlive/2013/texmf-va
-r/fonts/pk/ljfour/public/bbding/bbding10.720pk> </Users/gordonwiegand/Library/t
-exlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.864pk> </Users/gor
-donwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding1
-0.1037pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/
-public/bbding/bbding10.1244pk> </Users/gordonwiegand/Library/texlive/2013/texmf
--var/fonts/pk/ljfour/public/bbding/bbding10.1493pk></usr/local/texlive/2013/tex
-mf-dist/fonts/type1/impallari/quattrocento/Quattrocento-Bold.pfb></usr/local/te
-xlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattro
-centoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initial
-s/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/fo
-urier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursive
-/frcr14.pfb>
-Output written on binder.pdf (5 pages, 809055 bytes).
+2.enc} </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbd
+ing/bbding10.390pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfo
+ur/public/bbding/bbding10.520pk> </Users/gordon/Library/texlive/2013/texmf-var/
+fonts/pk/ljfour/public/bbding/bbding10.650pk> </Users/gordon/Library/texlive/20
+13/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.712pk> </Users/gordon/Libra
+ry/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.780pk> </Users
+/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.9
+36pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbdi
+ng/bbding10.1123pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfo
+ur/public/bbding/bbding10.1348pk> </Users/gordon/Library/texlive/2013/texmf-var
+/fonts/pk/ljfour/public/bbding/bbding10.1618pk> </Users/gordon/Library/texlive/
+2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.1941pk></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento-Bold.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento
+Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocen
+to/QuattrocentoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
+ic/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
+/frcursive/frcr14.pfb>
+Output written on binder.pdf (6 pages, 812113 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 28178 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 28690 words of extra memory for PDF output out of 29859 (max. 10000000)
 
