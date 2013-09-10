@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.22)  10 SEP 2013 09:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  10 SEP 2013 20:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1623,7 +1623,7 @@ File: bilder/oma1.pdf Graphic file (type pdf)
 Package pdftex.def Info: bilder/oma1.pdf used on input line 127.
 (pdftex.def)             Requested size: 398.3386pt x 281.49155pt.
  [8 <./bilder/oma1.pdf, page is rotated 90 degrees>]
-[9] [10] [11] [12] [13] [14] [15]) [16] (./binder.aux)
+[9] [10] [11] [12] [13] [14] [15] [16]) [17] (./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1633,38 +1633,37 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23027 strings out of 493315
- 427232 string characters out of 6137904
+ 23024 strings out of 493315
+ 427139 string characters out of 6137904
  527653 words of memory out of 5000000
  25836 multiletter control sequences out of 15000+600000
- 225027 words of font info for 166 fonts, out of 8000000 for 9000
+ 224651 words of font info for 164 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  74i,11n,77p,809b,688s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_e45lg
-2.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
-lic/bbding/bbding10.390pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var
-/fonts/pk/ljfour/public/bbding/bbding10.520pk> </Users/gordonwiegand/Library/te
-xlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.650pk> </Users/gord
-onwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10
-.712pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pu
-blic/bbding/bbding10.780pk> </Users/gordonwiegand/Library/texlive/2013/texmf-va
-r/fonts/pk/ljfour/public/bbding/bbding10.936pk> </Users/gordonwiegand/Library/t
-exlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.1123pk> </Users/go
-rdonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding
-10.1348pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour
-/public/bbding/bbding10.1618pk> </Users/gordonwiegand/Library/texlive/2013/texm
-f-var/fonts/pk/ljfour/public/bbding/bbding10.1941pk></usr/local/texlive/2013/te
-xmf-dist/fonts/type1/impallari/quattrocento/Quattrocento-Bold.pfb></usr/local/t
-exlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pf
-b></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattr
-ocentoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initia
-ls/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/f
-ourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursiv
-e/frcr14.pfb>
-Output written on binder.pdf (17 pages, 697458 bytes).
+2.enc} </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbd
+ing/bbding10.390pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfo
+ur/public/bbding/bbding10.520pk> </Users/gordon/Library/texlive/2013/texmf-var/
+fonts/pk/ljfour/public/bbding/bbding10.650pk> </Users/gordon/Library/texlive/20
+13/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.712pk> </Users/gordon/Libra
+ry/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.780pk> </Users
+/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.9
+36pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbdi
+ng/bbding10.1123pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfo
+ur/public/bbding/bbding10.1348pk> </Users/gordon/Library/texlive/2013/texmf-var
+/fonts/pk/ljfour/public/bbding/bbding10.1618pk> </Users/gordon/Library/texlive/
+2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.1941pk></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento-Bold.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento
+Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocen
+to/QuattrocentoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
+ic/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
+/frcursive/frcr14.pfb>
+Output written on binder.pdf (18 pages, 697881 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 144 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  28178 words of extra memory for PDF output out of 29859 (max. 10000000)
 
