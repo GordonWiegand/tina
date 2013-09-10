@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  8 SEP 2013 20:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  9 SEP 2013 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1625,10 +1625,10 @@ File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
 File: bilder/oma1.pdf Graphic file (type pdf)
 
 <use bilder/oma1.pdf>
-Package pdftex.def Info: bilder/oma1.pdf used on input line 126.
+Package pdftex.def Info: bilder/oma1.pdf used on input line 134.
 (pdftex.def)             Requested size: 398.3386pt x 281.49155pt.
- [8 <./bilder/oma1.pdf, page is rotated 90 degrees>]
-[9] [10] [11] [12] [13] [14] [15]) [16] (./binder.aux)
+ [8] [9 <./bilder/oma1.pdf, page is rotated 90 degrees>]
+[10] [11] [12] [13] [14] [15] [16]) [17] (./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1638,10 +1638,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23105 strings out of 493315
- 428557 string characters out of 6137904
- 533465 words of memory out of 5000000
- 25913 multiletter control sequences out of 15000+600000
+ 23104 strings out of 493315
+ 428544 string characters out of 6137904
+ 531465 words of memory out of 5000000
+ 25912 multiletter control sequences out of 15000+600000
  234118 words of font info for 167 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  74i,11n,77p,809b,688s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1665,10 +1665,10 @@ to/QuattrocentoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
 ic/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
 fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
 /frcursive/frcr14.pfb>
-Output written on binder.pdf (17 pages, 696061 bytes).
+Output written on binder.pdf (18 pages, 697488 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 144 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  28690 words of extra memory for PDF output out of 29859 (max. 10000000)
 
