@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  9 SEP 2013 21:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.22)  10 SEP 2013 09:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,8 +6,9 @@ entering extended mode
 (./binder.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrbook.cls
-Document Class: scrbook 2012/07/29 v3.11b KOMA-Script document class (book)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2012/07/29 v3.11b KOMA-Script document class (article)
+
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-dependent 
 basics and keyval usage)
@@ -31,32 +32,32 @@ Package: tocbasic 2012/04/04 v3.10b KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 117.
+(tocbasic)             for `toc' on input line 115.
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 118.
+(tocbasic)             for `lof' on input line 116.
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 119.
-Package scrbook Info: You've used obsolete option `13pt'.
-(scrbook)             \KOMAExecuteOptions{fontsize=13pt} will be
-(scrbook)             used instead.
-(scrbook)             You may simply replace `13pt'
-(scrbook)             by `fontsize=13pt'.
-Class scrbook Info: You've used standard option `oneside'.
-(scrbook)           This is correct!
-(scrbook)           Internally I'm using `twoside=false'.
-(scrbook)           If you'd like to set the option with \KOMAoptions,
-(scrbook)           you'd have to use `twoside=false' there
-(scrbook)           instead of `oneside', too.
+(tocbasic)             for `lot' on input line 117.
+Package scrartcl Info: You've used obsolete option `13pt'.
+(scrartcl)             \KOMAExecuteOptions{fontsize=13pt} will be
+(scrartcl)             used instead.
+(scrartcl)             You may simply replace `13pt'
+(scrartcl)             by `fontsize=13pt'.
+Class scrartcl Info: You've used standard option `oneside'.
+(scrartcl)           This is correct!
+(scrartcl)           Internally I'm using `twoside=false'.
+(scrartcl)           If you'd like to set the option with \KOMAoptions,
+(scrartcl)           you'd have to use `twoside=false' there
+(scrartcl)           instead of `oneside', too.
 
 
-Class scrbook Warning: Using fallback calculation to setup font sizes
-(scrbook)              for basic size `13pt' on input line 1368.
+Class scrartcl Warning: Using fallback calculation to setup font sizes
+(scrartcl)              for basic size `13pt' on input line 1267.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 1368.
+(Font)              size <12> substituted on input line 1267.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
@@ -107,17 +108,16 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              on input line 1213.
 )
 \c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
 \abovecaptionskip=\skip45
 \belowcaptionskip=\skip46
 \c@pti@nb@sid@b@x=\box26
-\c@figure=\count87
-\c@table=\count88
+\c@figure=\count86
+\c@table=\count87
 \bibindent=\dimen102
 ) (/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2013/05/16 v3.9f The Babel package
@@ -127,7 +127,7 @@ Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2013/05/16 v3.9f Babel common definitions
-\babel@savecnt=\count89
+\babel@savecnt=\count88
 \U@D=\dimen103
 )
 \l@naustrian = a dialect from \language\l@ngerman 
@@ -231,7 +231,7 @@ Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 \XKV@toks=\toks15
 \XKV@tempa@toks=\toks16
-\XKV@depth=\count90
+\XKV@depth=\count89
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
@@ -263,16 +263,16 @@ Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count91
+\et@xins=\count90
 )
-\etb@tempcnta=\count92
+\etb@tempcnta=\count91
 )
-\csq@reset=\count93
-\csq@gtype=\count94
-\csq@glevel=\count95
-\csq@qlevel=\count96
-\csq@maxlvl=\count97
-\csq@tshold=\count98
+\csq@reset=\count92
+\csq@gtype=\count93
+\csq@glevel=\count94
+\csq@qlevel=\count95
+\csq@maxlvl=\count96
+\csq@tshold=\count97
 \csq@ltx@everypar=\toks17
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.def
@@ -303,7 +303,7 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count99
+\Gread@gobject=\count98
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
@@ -599,13 +599,13 @@ File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2013/03/14 v1.64 (Daniel Flipo)
-\c@DefaultLines=\count100
+\c@DefaultLines=\count99
 \DefaultFindent=\dimen104
 \DefaultNindent=\dimen105
 \DefaultSlope=\dimen106
 \L@lbox=\box27
 \L@tbox=\box28
-\c@L@lines=\count101
+\c@L@lines=\count100
 \L@Pindent=\dimen107
 \L@Findent=\dimen108
 \L@Nindent=\dimen109
@@ -685,18 +685,18 @@ Package: l3seq 2013/01/12 v4434 L3 Sequences and stacks
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3int.sty
 Package: l3int 2013/01/13 v4444 L3 Integers
-\c_max_int=\count102
-\l_tmpa_int=\count103
-\l_tmpb_int=\count104
-\g_tmpa_int=\count105
-\g_tmpb_int=\count106
+\c_max_int=\count101
+\l_tmpa_int=\count102
+\l_tmpb_int=\count103
+\g_tmpa_int=\count104
+\g_tmpb_int=\count105
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3quark.sty
 Package: l3quark 2012/11/04 v4268 L3 Quarks
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prg.sty
 Package: l3prg 2013/02/13 v4459 L3 Control structures
-\g__prg_map_int=\count107
+\g__prg_map_int=\count106
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3clist.sty
 Package: l3clist 2013/01/08 v4414 L3 Comma separated lists
@@ -712,11 +712,11 @@ Package: l3msg 2013/01/08 v4412 L3 Messages
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3file.sty
 Package: l3file 2013/01/14 v4446 L3 File and I/O operations
-\l_iow_line_count_int=\count108
-\l__iow_target_count_int=\count109
-\l__iow_current_line_int=\count110
-\l__iow_current_word_int=\count111
-\l__iow_current_indentation_int=\count112
+\l_iow_line_count_int=\count107
+\l__iow_target_count_int=\count108
+\l__iow_current_line_int=\count109
+\l__iow_current_word_int=\count110
+\l__iow_current_indentation_int=\count111
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3skip.sty
 Package: l3skip 2013/01/13 v4444 L3 Dimensions and skips
@@ -741,20 +741,20 @@ Package: l3skip 2013/01/13 v4444 L3 Dimensions and skips
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3keys.sty
 Package: l3keys 2013/02/24 v4461 L3 Experimental key-value interfaces
-\g__keyval_level_int=\count113
-\l_keys_choice_int=\count114
+\g__keyval_level_int=\count112
+\l_keys_choice_int=\count113
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3fp.sty
 Package: l3fp 2013/01/19 v4449 L3 Floating points
-\c__fp_leading_shift_int=\count115
-\c__fp_middle_shift_int=\count116
-\c__fp_trailing_shift_int=\count117
-\c__fp_big_leading_shift_int=\count118
-\c__fp_big_middle_shift_int=\count119
-\c__fp_big_trailing_shift_int=\count120
-\c__fp_Bigg_leading_shift_int=\count121
-\c__fp_Bigg_middle_shift_int=\count122
-\c__fp_Bigg_trailing_shift_int=\count123
+\c__fp_leading_shift_int=\count114
+\c__fp_middle_shift_int=\count115
+\c__fp_trailing_shift_int=\count116
+\c__fp_big_leading_shift_int=\count117
+\c__fp_big_middle_shift_int=\count118
+\c__fp_big_trailing_shift_int=\count119
+\c__fp_Bigg_leading_shift_int=\count120
+\c__fp_Bigg_middle_shift_int=\count121
+\c__fp_Bigg_trailing_shift_int=\count122
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3box.sty
 Package: l3box 2013/01/08 v4411 L3 Experimental boxes
@@ -791,8 +791,8 @@ Package: l3color 2012/08/29 v4156 L3 Experimental color support
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3luatex.sty
 Package: l3luatex 2012/08/03 v4049 L3 Experimental LuaTeX-specific functions
-\g__cctab_allocate_int=\count124
-\g__cctab_stack_int=\count125
+\g__cctab_allocate_int=\count123
+\g__cctab_stack_int=\count124
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3candidates.sty
 Package: l3candidates 2013/03/14 v4468 L3 Experimental additions to l3kernel
@@ -818,11 +818,11 @@ Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 ))
 Package: xparse 2013/03/12 v4467 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count126
-\l__xparse_m_args_int=\count127
-\l__xparse_mandatory_args_int=\count128
-\l__xparse_processor_int=\count129
-\l__xparse_v_nesting_int=\count130
+\l__xparse_current_arg_int=\count125
+\l__xparse_m_args_int=\count126
+\l__xparse_mandatory_args_int=\count127
+\l__xparse_processor_int=\count128
+\l__xparse_v_nesting_int=\count129
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
 Package: zref-abspage 2012/04/04 v2.24 Module abspage for zref (HO)
@@ -851,11 +851,11 @@ Package zref Info: New property: page on input line 761.
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 )
-\c@abspage=\count131
+\c@abspage=\count130
 Package zref Info: New property: abspage on input line 62.
 )
 \mdf@templength=\skip53
-\c@mdf@globalstyle@cnt=\count132
+\c@mdf@globalstyle@cnt=\count131
 \mdf@skipabove@length=\skip54
 \mdf@skipbelow@length=\skip55
 \mdf@leftmargin@length=\skip56
@@ -944,21 +944,21 @@ Package zref Info: New property: abspage on input line 62.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/03/09\ 1.8: md-frame-0
 )
-\mdf@envdepth=\count133
-\c@mdf@env@i=\count134
-\c@mdf@env@ii=\count135
-\c@mdf@zref@counter=\count136
+\mdf@envdepth=\count132
+\c@mdf@env@i=\count133
+\c@mdf@env@ii=\count134
+\c@mdf@zref@counter=\count135
 Package zref Info: New property: mdf@pagevalue on input line 840.
 \mdf@horizontalspaceofbox=\skip116
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks20
-\MT@count=\count137
+\MT@count=\count136
 LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen149
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count138
+\MT@listname@count=\count137
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -1035,10 +1035,10 @@ ode.tex
 \pgf@yc=\dimen157
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count139
-\c@pgf@countb=\count140
-\c@pgf@countc=\count141
-\c@pgf@countd=\count142
+\c@pgf@counta=\count138
+\c@pgf@countb=\count139
+\c@pgf@countc=\count140
+\c@pgf@countd=\count141
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -1056,8 +1056,8 @@ File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count143
-\pgfsyssoftpath@bigbuffer@items=\count144
+\pgfsyssoftpath@smallbuffer@items=\count142
+\pgfsyssoftpath@bigbuffer@items=\count143
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -1070,7 +1070,7 @@ Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen158
-\pgfmath@count=\count145
+\pgfmath@count=\count144
 \pgfmath@box=\box50
 \pgfmath@toks=\toks25
 \pgfmath@stack@operand=\toks26
@@ -1093,7 +1093,7 @@ code.tex)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
 code.tex)))
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count146
+\c@pgfmathroundto@lastzeros=\count145
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
@@ -1131,7 +1131,7 @@ File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 \pgfpic=\box51
 \pgf@hbox=\box52
 \pgf@layerbox@main=\box53
-\pgf@picture@serial@count=\count147
+\pgf@picture@serial@count=\count146
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
@@ -1165,7 +1165,7 @@ File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 e.tex
 File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
 \pgf@max=\dimen181
-\pgf@sys@shading@range@num=\count148
+\pgf@sys@shading@range@num=\count147
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -1224,7 +1224,7 @@ Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count149
+\pgf@plot@mark@count=\count148
 \pgfplotmarksize=\dimen186
 )
 \tikz@lastx=\dimen187
@@ -1235,19 +1235,19 @@ File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
 \tikzsiblingdistance=\dimen192
 \tikz@figbox=\box56
 \tikz@tempbox=\box57
-\tikztreelevel=\count150
-\tikznumberofchildren=\count151
-\tikznumberofcurrentchild=\count152
-\tikz@fig@count=\count153
+\tikztreelevel=\count149
+\tikznumberofchildren=\count150
+\tikznumberofcurrentchild=\count151
+\tikz@fig@count=\count152
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count154
-\pgfmatrixcurrentcolumn=\count155
-\pgf@matrix@numberofcolumns=\count156
+\pgfmatrixcurrentrow=\count153
+\pgfmatrixcurrentcolumn=\count154
+\pgf@matrix@numberofcolumns=\count155
 )
-\tikz@expandcount=\count157
+\tikz@expandcount=\count156
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1259,18 +1259,18 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v2.10 (rcs-revision 1.7)
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count158
-\calc@Bcount=\count159
+\calc@Acount=\count157
+\calc@Bcount=\count158
 \calc@Adimen=\dimen193
 \calc@Bdimen=\dimen194
 \calc@Askip=\skip118
 \calc@Bskip=\skip119
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count160
+\calc@Ccount=\count159
 \calc@Cskip=\skip120
 )
-\c@@todonotes@numberoftodonotes=\count161
+\c@@todonotes@numberoftodonotes=\count160
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/skull/skull.sty
 Package: skull 2002/01/23 v0.1 (c) Henrik Christian Grove <grove@math.ku.dk>
@@ -1286,9 +1286,9 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count162
-\Gm@cntv=\count163
-\c@Gm@tempcnt=\count164
+\Gm@cnth=\count161
+\Gm@cntv=\count162
+\c@Gm@tempcnt=\count163
 \Gm@bindingoffset=\dimen195
 \Gm@wd@mp=\dimen196
 \Gm@odd@mp=\dimen197
@@ -1302,7 +1302,7 @@ Normal \dimen register pool exhausted, switching to extended pool.
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count165
+\c@float@type=\count164
 \float@exts=\toks31
 \float@box=\box58
 \@float@everytoks=\toks32
@@ -1349,20 +1349,20 @@ rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 13.0pt on input line 75.
-\c@mv@tabular=\count166
-\c@mv@boldtabular=\count167
+\c@mv@tabular=\count165
+\c@mv@boldtabular=\count166
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count168
+\scratchcounter=\count167
 \scratchdimen=\dimen257
 \scratchbox=\box60
-\nofMPsegments=\count169
-\nofMParguments=\count170
+\nofMPsegments=\count168
+\nofMParguments=\count169
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count171
+\MPscratchCnt=\count170
 \MPscratchDim=\dimen258
-\MPnumerator=\count172
-\makeMPintoPDFobject=\count173
+\MPnumerator=\count171
+\makeMPintoPDFobject=\count172
 \everyMPtoPDFconversion=\toks34
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1432,7 +1432,7 @@ ABD: EveryShipout initializing macros
 
 (./oma.tex
 LaTeX Font Info:    Try loading font information for T1+QuattrocentoSans-TLF on
- input line 13.
+ input line 14.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/quattrocento/T1QuattrocentoSans-T
 LF.fd
@@ -1440,7 +1440,7 @@ File: T1QuattrocentoSans-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Q
 uattrocentoSans-TLF.
 )
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/m/n' will be
-(Font)              scaled to size 13.0pt on input line 13.
+(Font)              scaled to size 13.0pt on input line 14.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `QuattrocentoSans-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1448,34 +1448,32 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <13> not 
 available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
-nput line 13.
+nput line 14.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
-(Font)              scaled to size 13.0pt on input line 13.
-LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <26.96207
+(Font)              scaled to size 13.0pt on input line 14.
+LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <18.72003
 > not available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
-nput line 13.
+nput line 14.
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/n' will be
-(Font)              scaled to size 26.96207pt on input line 13.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <26.96207> no
+(Font)              scaled to size 18.72003pt on input line 14.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <18.72003> no
 t available
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 13.
+ line 14.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 26.96207pt on input line 13.
+(Font)              scaled to size 18.72003pt on input line 14.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <32.34409> no
 t available
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 13.
+ line 14.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 32.34409pt on input line 13.
+(Font)              scaled to size 32.34409pt on input line 14.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 32.34409pt on input line 13.
+(Font)              scaled to size 32.34409pt on input line 14.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 32.34409pt on input line 13.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 26.96207pt on input line 13.
-LaTeX Font Info:    Try loading font information for T1+frc on input line 13.
+(Font)              scaled to size 32.34409pt on input line 14.
+LaTeX Font Info:    Try loading font information for T1+frc on input line 14.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/frcursive/t1frc.fd
 File: t1frc.fd 2004/06/12 French Cursive font definition
 )
@@ -1525,7 +1523,7 @@ Package microtype Info: Character `AE ' is missing
 Package microtype Info: Character `_' is missing
 (microtype)             in font `T1/frc/m/n/32.34409'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for U+ding on input line 15.
+LaTeX Font Info:    Try loading font information for U+ding on input line 16.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
@@ -1533,91 +1531,88 @@ File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <13> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 17.
+ line 18.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 13.0pt on input line 17.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <18.72003> no
+(Font)              scaled to size 13.0pt on input line 18.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <15.59996> no
 t available
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 17.
+ line 18.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 18.72003pt on input line 17.
+(Font)              scaled to size 15.59996pt on input line 18.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 26.96207pt on input line 21.
+(Font)              scaled to size 26.96207pt on input line 22.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 22.46396pt on input line 23.
+(Font)              scaled to size 22.46396pt on input line 24.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 18.72003pt on input line 25.
+(Font)              scaled to size 18.72003pt on input line 26.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 15.59996pt on input line 27.
+(Font)              scaled to size 15.59996pt on input line 28.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 11.86258pt on input line 31.
+(Font)              scaled to size 11.86258pt on input line 32.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 10.83347pt on input line 33.
+(Font)              scaled to size 10.83347pt on input line 34.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 8.66673pt on input line 35.
+(Font)              scaled to size 8.66673pt on input line 36.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 6.5pt on input line 37.
+(Font)              scaled to size 6.5pt on input line 38.
+ [1
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <11.86258> no
+t available
+(Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
+ line 43.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
+(Font)              scaled to size 11.86258pt on input line 43.
+
+
+LaTeX Font Warning: Font shape `T1/Quattrocento-TLF/m/sc' undefined
+(Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 44.
+
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sc' will be
+(Font)              scaled to size 13.0pt on input line 44.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/Quattrocento-TLF/m/sc/13'.
+(microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sl' in size <13> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/m/it' tried instead on inpu
-t line 38.
+t line 61.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 13.0pt on input line 38.
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 38.
-
+(Font)              scaled to size 13.0pt on input line 61.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 61.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 38.
+(Font)              size <6> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
-(Font)              size <12> substituted on input line 38.
+(Font)              size <12> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 38.
+(Font)              size <6> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 38.
+(Font)              size <12> substituted on input line 61.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 38.
+(Font)              size <6> substituted on input line 61.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <13> on input line 38.
+(Font)              <13> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.09996> on input line 38.
+(Font)              <9.09996> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6.5> on input line 38.
-[1
-
-
-
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <11.86258> no
-t available
-(Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 41.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 11.86258pt on input line 41.
-
-
-LaTeX Font Warning: Font shape `T1/Quattrocento-TLF/m/sc' undefined
-(Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 42.
-
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sc' will be
-(Font)              scaled to size 13.0pt on input line 42.
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/Quattrocento-TLF/m/sc/13'.
-(microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for U+futs on input line 59.
+(Font)              <6.5> on input line 61.
+LaTeX Font Info:    Try loading font information for U+futs on input line 61.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/ufuts.fd
 File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
 ) [1] [2]
@@ -1625,10 +1620,10 @@ File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
 File: bilder/oma1.pdf Graphic file (type pdf)
 
 <use bilder/oma1.pdf>
-Package pdftex.def Info: bilder/oma1.pdf used on input line 134.
+Package pdftex.def Info: bilder/oma1.pdf used on input line 127.
 (pdftex.def)             Requested size: 398.3386pt x 281.49155pt.
- [8] [9 <./bilder/oma1.pdf, page is rotated 90 degrees>]
-[10] [11] [12] [13] [14] [15] [16]) [17] (./binder.aux)
+ [8 <./bilder/oma1.pdf, page is rotated 90 degrees>]
+[9] [10] [11] [12] [13] [14] [15]) [16] (./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1638,37 +1633,38 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23104 strings out of 493315
- 428544 string characters out of 6137904
- 531465 words of memory out of 5000000
- 25912 multiletter control sequences out of 15000+600000
- 234118 words of font info for 167 fonts, out of 8000000 for 9000
+ 23027 strings out of 493315
+ 427232 string characters out of 6137904
+ 527653 words of memory out of 5000000
+ 25836 multiletter control sequences out of 15000+600000
+ 225027 words of font info for 166 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  74i,11n,77p,809b,688s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_e45lg
-2.enc} </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbd
-ing/bbding10.390pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfo
-ur/public/bbding/bbding10.520pk> </Users/gordon/Library/texlive/2013/texmf-var/
-fonts/pk/ljfour/public/bbding/bbding10.650pk> </Users/gordon/Library/texlive/20
-13/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.712pk> </Users/gordon/Libra
-ry/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.780pk> </Users
-/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.9
-36pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbdi
-ng/bbding10.1123pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfo
-ur/public/bbding/bbding10.1348pk> </Users/gordon/Library/texlive/2013/texmf-var
-/fonts/pk/ljfour/public/bbding/bbding10.1618pk> </Users/gordon/Library/texlive/
-2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.1941pk></usr/local/texliv
-e/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento-Bold.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento
-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocen
-to/QuattrocentoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
-ic/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
-fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
-/frcursive/frcr14.pfb>
-Output written on binder.pdf (18 pages, 697488 bytes).
+2.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
+lic/bbding/bbding10.390pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var
+/fonts/pk/ljfour/public/bbding/bbding10.520pk> </Users/gordonwiegand/Library/te
+xlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.650pk> </Users/gord
+onwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10
+.712pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pu
+blic/bbding/bbding10.780pk> </Users/gordonwiegand/Library/texlive/2013/texmf-va
+r/fonts/pk/ljfour/public/bbding/bbding10.936pk> </Users/gordonwiegand/Library/t
+exlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.1123pk> </Users/go
+rdonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding
+10.1348pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour
+/public/bbding/bbding10.1618pk> </Users/gordonwiegand/Library/texlive/2013/texm
+f-var/fonts/pk/ljfour/public/bbding/bbding10.1941pk></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/impallari/quattrocento/Quattrocento-Bold.pfb></usr/local/t
+exlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pf
+b></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattr
+ocentoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initia
+ls/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/f
+ourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursiv
+e/frcr14.pfb>
+Output written on binder.pdf (17 pages, 697458 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
+ 141 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 28690 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 28178 words of extra memory for PDF output out of 29859 (max. 10000000)
 
