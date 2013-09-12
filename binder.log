@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  8 SEP 2013 13:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.22)  12 SEP 2013 09:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -934,58 +934,12 @@ File: md-frame-0.mdf 2013/03/09\ 1.8: md-frame-0
 Package zref Info: New property: mdf@pagevalue on input line 840.
 \mdf@horizontalspaceofbox=\skip116
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
-\MT@toks=\toks20
-\MT@count=\count137
-LaTeX Info: Redefining \textls on input line 766.
-\MT@outer@kern=\dimen149
-LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count138
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
-
-LaTeX Info: Redefining \lsstyle on input line 915.
-LaTeX Info: Redefining \lslig on input line 915.
-\MT@outer@space=\skip117
-)
-Package microtype Info: Loading configuration file microtype.cfg.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/todonotes/todonotes.sty
-Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
-Package: todonotes 2012/07/25
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-LaTeX Info: Redefining \color on input line 702.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks21
+\pgfutil@everybye=\toks20
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box49
@@ -1001,27 +955,27 @@ Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks22
-\pgfkeys@temptoks=\toks23
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
 ode.tex
-\pgfkeys@tmptoks=\toks24
+\pgfkeys@tmptoks=\toks23
 ))
-\pgf@x=\dimen150
-\pgf@y=\dimen151
-\pgf@xa=\dimen152
-\pgf@ya=\dimen153
-\pgf@xb=\dimen154
-\pgf@yb=\dimen155
-\pgf@xc=\dimen156
-\pgf@yc=\dimen157
+\pgf@x=\dimen149
+\pgf@y=\dimen150
+\pgf@xa=\dimen151
+\pgf@ya=\dimen152
+\pgf@xb=\dimen153
+\pgf@yb=\dimen154
+\pgf@xc=\dimen155
+\pgf@yc=\dimen156
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count139
-\c@pgf@countb=\count140
-\c@pgf@countc=\count141
-\c@pgf@countd=\count142
+\c@pgf@counta=\count137
+\c@pgf@countb=\count138
+\c@pgf@countc=\count139
+\c@pgf@countd=\count140
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -1039,25 +993,42 @@ File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count143
-\pgfsyssoftpath@bigbuffer@items=\count144
+\pgfsyssoftpath@smallbuffer@items=\count141
+\pgfsyssoftpath@bigbuffer@items=\count142
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
+)) (/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen158
-\pgfmath@count=\count145
+\pgfmath@dimen=\dimen157
+\pgfmath@count=\count143
 \pgfmath@box=\box50
-\pgfmath@toks=\toks25
-\pgfmath@stack@operand=\toks26
-\pgfmath@stack@operation=\toks27
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex
@@ -1076,37 +1047,37 @@ code.tex)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
 code.tex)))
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count146
+\c@pgfmathroundto@lastzeros=\count144
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
-\pgf@picminx=\dimen159
-\pgf@picmaxx=\dimen160
-\pgf@picminy=\dimen161
-\pgf@picmaxy=\dimen162
-\pgf@pathminx=\dimen163
-\pgf@pathmaxx=\dimen164
-\pgf@pathminy=\dimen165
-\pgf@pathmaxy=\dimen166
-\pgf@xx=\dimen167
-\pgf@xy=\dimen168
-\pgf@yx=\dimen169
-\pgf@yy=\dimen170
-\pgf@zx=\dimen171
-\pgf@zy=\dimen172
+\pgf@picminx=\dimen158
+\pgf@picmaxx=\dimen159
+\pgf@picminy=\dimen160
+\pgf@picmaxy=\dimen161
+\pgf@pathminx=\dimen162
+\pgf@pathmaxx=\dimen163
+\pgf@pathminy=\dimen164
+\pgf@pathmaxy=\dimen165
+\pgf@xx=\dimen166
+\pgf@xy=\dimen167
+\pgf@yx=\dimen168
+\pgf@yy=\dimen169
+\pgf@zx=\dimen170
+\pgf@zy=\dimen171
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen173
-\pgf@path@lasty=\dimen174
+\pgf@path@lastx=\dimen172
+\pgf@path@lasty=\dimen173
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen175
-\pgf@shorten@start@additional=\dimen176
+\pgf@shorten@end@additional=\dimen174
+\pgf@shorten@start@additional=\dimen175
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
@@ -1114,19 +1085,19 @@ File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 \pgfpic=\box51
 \pgf@hbox=\box52
 \pgf@layerbox@main=\box53
-\pgf@picture@serial@count=\count147
+\pgf@picture@serial@count=\count145
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen177
+\pgflinewidth=\dimen176
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen178
-\pgf@pt@y=\dimen179
-\pgf@pt@temp=\dimen180
+\pgf@pt@x=\dimen177
+\pgf@pt@y=\dimen178
+\pgf@pt@temp=\dimen179
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -1147,8 +1118,8 @@ File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen181
-\pgf@sys@shading@range@num=\count148
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count146
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -1183,8 +1154,8 @@ File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen182
-\pgf@nodesepend=\dimen183
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -1195,10 +1166,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
 ) (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen184
-\pgffor@skip=\dimen185
-\pgffor@stack=\toks28
-\pgffor@toks=\toks29
+\pgffor@iter=\dimen183
+\pgffor@skip=\dimen184
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
@@ -1207,53 +1178,99 @@ Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count149
-\pgfplotmarksize=\dimen186
+\pgf@plot@mark@count=\count147
+\pgfplotmarksize=\dimen185
 )
-\tikz@lastx=\dimen187
-\tikz@lasty=\dimen188
-\tikz@lastxsaved=\dimen189
-\tikz@lastysaved=\dimen190
-\tikzleveldistance=\dimen191
-\tikzsiblingdistance=\dimen192
+\tikz@lastx=\dimen186
+\tikz@lasty=\dimen187
+\tikz@lastxsaved=\dimen188
+\tikz@lastysaved=\dimen189
+\tikzleveldistance=\dimen190
+\tikzsiblingdistance=\dimen191
 \tikz@figbox=\box56
 \tikz@tempbox=\box57
-\tikztreelevel=\count150
-\tikznumberofchildren=\count151
-\tikznumberofcurrentchild=\count152
-\tikz@fig@count=\count153
+\tikztreelevel=\count148
+\tikznumberofchildren=\count149
+\tikznumberofcurrentchild=\count150
+\tikz@fig@count=\count151
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count154
-\pgfmatrixcurrentcolumn=\count155
-\pgf@matrix@numberofcolumns=\count156
+\pgfmatrixcurrentrow=\count152
+\pgfmatrixcurrentcolumn=\count153
+\pgf@matrix@numberofcolumns=\count154
 )
-\tikz@expandcount=\count157
+\tikz@expandcount=\count155
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
 )))
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarysvg.path.code.tex
+File: tikzlibrarysvg.path.code.tex 2009/01/24 v2.10 (rcs-revision 1.1)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/libraries/pgflibrarysvg.pat
+h.code.tex
+File: pgflibrarysvg.path.code.tex 2009/01/24 v2.10 (rcs-revision 1.6)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmoduleparser.cod
+e.tex
+File: pgfmoduleparser.code.tex 2009/01/12 v2.10 (rcs-revision 1.1)
+)
+\pgf@lib@svg@last@x=\dimen192
+\pgf@lib@svg@last@y=\dimen193
+\pgf@lib@svg@last@c@x=\dimen194
+\pgf@lib@svg@last@c@y=\dimen195
+\pgf@lib@svg@count=\count156
+\pgf@lib@svg@max@num=\count157
+)) (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks29
+\MT@count=\count158
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen196
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count159
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip117
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2008/10/06 v2.10 (rcs-revision 1.7)
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count158
-\calc@Bcount=\count159
-\calc@Adimen=\dimen193
-\calc@Bdimen=\dimen194
+\calc@Acount=\count160
+\calc@Bcount=\count161
+\calc@Adimen=\dimen197
+\calc@Bdimen=\dimen198
 \calc@Askip=\skip118
 \calc@Bskip=\skip119
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count160
+\calc@Ccount=\count162
 \calc@Cskip=\skip120
 )
-\c@@todonotes@numberoftodonotes=\count161
+\c@@todonotes@numberoftodonotes=\count163
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/skull/skull.sty
 Package: skull 2002/01/23 v0.1 (c) Henrik Christian Grove <grove@math.ku.dk>
@@ -1263,7 +1280,7 @@ Package: skull 2002/01/23 v0.1 (c) Henrik Christian Grove <grove@math.ku.dk>
 File: Typocaps.fd 2003/04/02 Font definition file for U/Typocaps
 )
 
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 68.
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 70.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1272,26 +1289,26 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 (./binder.aux)
 \openout1 = `binder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 70.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    ... okay on input line 70.
 LaTeX Font Info:    Try loading font information for T1+Quattrocento-TLF on inp
-ut line 68.
+ut line 70.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/quattrocento/T1Quattrocento-TLF.f
 d
@@ -1299,21 +1316,21 @@ File: T1Quattrocento-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Quatt
 rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 68.
-\c@mv@tabular=\count162
-\c@mv@boldtabular=\count163
+(Font)              scaled to size 12.0pt on input line 70.
+\c@mv@tabular=\count164
+\c@mv@boldtabular=\count165
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count164
-\scratchdimen=\dimen195
+\scratchcounter=\count166
+\scratchdimen=\dimen199
 \scratchbox=\box58
-\nofMPsegments=\count165
-\nofMParguments=\count166
+\nofMPsegments=\count167
+\nofMParguments=\count168
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count167
-\MPscratchDim=\dimen196
-\MPnumerator=\count168
-\makeMPintoPDFobject=\count169
+\MPscratchCnt=\count169
+\MPscratchDim=\dimen200
+\MPnumerator=\count170
+\makeMPintoPDFobject=\count171
 \everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1331,7 +1348,9 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box59
-LaTeX Info: Redefining \microtypecontext on input line 68.
+
+ABD: EveryShipout initializing macros
+LaTeX Info: Redefining \microtypecontext on input line 70.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1345,9 +1364,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `Quattrocento-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for T1+frc on input line 73.
+LaTeX Font Info:    Try loading font information for T1+frc on input line 75.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/frcursive/t1frc.fd
 File: t1frc.fd 2004/06/12 French Cursive font definition
@@ -1404,29 +1421,29 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 78.
+(Font)              <12> on input line 80.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 78.
+(Font)              <8> on input line 80.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 78.
+(Font)              <6> on input line 80.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <12> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 79.
+ line 81.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 79.
+(Font)              scaled to size 12.0pt on input line 81.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <14.4> not av
 ailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 79.
+ line 81.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 79.
+(Font)              scaled to size 14.4pt on input line 81.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 80.
+(Font)              scaled to size 14.4pt on input line 82.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 80.
+(Font)              scaled to size 14.4pt on input line 82.
 
-Overfull \hbox (49.60744pt too wide) in paragraph at lines 78--82
+Overfull \hbox (49.60744pt too wide) in paragraph at lines 80--84
  [] 
  []
 
@@ -1438,7 +1455,7 @@ Overfull \hbox (49.60744pt too wide) in paragraph at lines 78--82
 <bilder/titel.jpg, id=13, 601.2864pt x 840.2592pt>
 File: bilder/titel.jpg Graphic file (type jpg)
  <use bilder/titel.jpg>
-Package pdftex.def Info: bilder/titel.jpg used on input line 93.
+Package pdftex.def Info: bilder/titel.jpg used on input line 95.
 (pdftex.def)             Requested size: 315.82562pt x 441.34784pt.
 
 (./pinarella.tex
@@ -1488,13 +1505,15 @@ LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
 (Font)              scaled to size 24.88pt on input line 1.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 1.
 
 
 LaTeX Font Warning: Font shape `T1/Quattrocento-TLF/m/sc' undefined
-(Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 4.
+(Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 3.
 
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 4.
+(Font)              scaled to size 12.0pt on input line 3.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/Quattrocento-TLF/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1505,7 +1524,7 @@ Package microtype Info: Character `029' is missing
 File: bilder/pinarella.pdf Graphic file (type pdf)
 
 <use bilder/pinarella.pdf>
-Package pdftex.def Info: bilder/pinarella.pdf used on input line 15.
+Package pdftex.def Info: bilder/pinarella.pdf used on input line 14.
 (pdftex.def)             Requested size: 315.82562pt x 317.31561pt.
  [4] [5 <./bilder/pinarella.pdf>] [6] [7])
 (./adler.tex [8] [9
@@ -1566,10 +1585,27 @@ File: bilder/kerzers.pdf Graphic file (type pdf)
 <use bilder/kerzers.pdf>
 Package pdftex.def Info: bilder/kerzers.pdf used on input line 71.
 (pdftex.def)             Requested size: 221.07697pt x 164.71255pt.
- [39] [40] [41] [42]) (./karl.tex [43] [44 <./bilder/kerzers.pdf>] [45
+ [39] [40] [41] [42]) (./delphine.tex [43] [44 <./bilder/kerzers.pdf>] [45
 
 
-] [46] [47]) (./pirat.tex [48]
+] [46] [47] [48] [49] [50] [51] [52] [53]
+<bilder/oma1.pdf, id=220, 845.1575pt x 597.23125pt>
+File: bilder/oma1.pdf Graphic file (type pdf)
+ <use bilder/oma1.pdf>
+Package pdftex.def Info: bilder/oma1.pdf used on input line 97.
+(pdftex.def)             Requested size: 221.07697pt x 156.22421pt.
+
+[54 <./bilder/oma1.pdf, page is rotated 90 degrees>]
+Underfull \hbox (badness 1590) in paragraph at lines 114--115
+[]\T1/Quattrocento-TLF/m/sc/12 (+20) ^^S  Maaaaa-maaaa, Maaaaaaaaa-maaaaa! Wo h
+ast du das
+ []
+
+[55] [56] [57] [58] [59] [60] [61]) (./karl.tex [62] [63
+
+
+] [64] [65])
+(./pirat.tex [66]
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <17.28> n
 ot available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
@@ -1618,16 +1654,16 @@ Overfull \hbox (43.39436pt too wide) in paragraph at lines 6--6
 \T1/Quattrocento-TLF/m/sc/12 (-20) Mitspracherecht, 
  []
 
-[49
+[67
 
 
-] [50]
+] [68]
 Overfull \hbox (0.1556pt too wide) in paragraph at lines 21--22
 \T1/Quattrocento-TLF/m/sc/12 (-20) tern ein Floss ge-bas-telt und spiel-ten na-
 tür-lich Pi-rat. Sie spran-
  []
 
-[51]
+[69]
 Overfull \hbox (15.05762pt too wide) in paragraph at lines 37--37
 [][][][]\T1/Quattrocento-TLF/m/sc/12 (-20) Zeitformen 
  []
@@ -1647,25 +1683,25 @@ Overfull \hbox (15.05762pt too wide) in paragraph at lines 37--37
 [][][][]\T1/Quattrocento-TLF/m/sc/12 (-20) Zeitformen 
  []
 
-[52] <bilder/pirat1.pdf, id=219, 845.1575pt x 597.23125pt>
+[70] <bilder/pirat1.pdf, id=278, 845.1575pt x 597.23125pt>
 File: bilder/pirat1.pdf Graphic file (type pdf)
 
 <use bilder/pirat1.pdf>
 Package pdftex.def Info: bilder/pirat1.pdf used on input line 48.
 (pdftex.def)             Requested size: 221.07697pt x 156.22421pt.
- [53 <./bilder/pirat1.pdf>] [54] [55]
+ [71 <./bilder/pirat1.pdf>] [72] [73]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 103.
- [56]
+ [74]
 LaTeX Font Info:    Font shape `U/futs/m/it' in size <12> not available
 (Font)              Font shape `U/futs/m/sl' tried instead on input line 108.
-) [57]
-[58
+) [75]
+[76
 
 
 ]
 Package tocbasic Info: character protrusion at toc deactivated on input line 10
-5.
+8.
  (./binder.toc
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 2.
@@ -1679,40 +1715,40 @@ LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/b/it' will be
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [59] (./binder.aux)
+ [77] (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22605 strings out of 493315
- 422604 string characters out of 6137904
- 512428 words of memory out of 5000000
- 25346 multiletter control sequences out of 15000+600000
- 211809 words of font info for 204 fonts, out of 8000000 for 9000
+ 22769 strings out of 493315
+ 427448 string characters out of 6137904
+ 517485 words of memory out of 5000000
+ 25488 multiletter control sequences out of 15000+600000
+ 222338 words of font info for 210 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 74i,11n,77p,836b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,11n,76p,2156b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_qceur
-4.enc} </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/sku
-ll/skull.864pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento
-/qtrcnt_tevtmb.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattroc
-ento/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/impallar
-i/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/
-type1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/2013/te
-xmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoRegular.pfb></usr/local
-/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans-Bo
-ld.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Q
-uattrocentoSans-BoldItalic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
-impallari/quattrocento/QuattrocentoSans.pfb></usr/local/texlive/2013/texmf-dist
-/fonts/type1/public/initials/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/f
-onts/type1/public/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/
-type1/public/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts
-/type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (59 pages, 3448268 bytes).
+4.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
+lic/skull/skull.864pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quatt
+rocento/qtrcnt_tevtmb.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/q
+uattrocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/i
+mpallari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist
+/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoRegular.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento
+Sans-Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattro
+cento/QuattrocentoSans-BoldItalic.pfb></usr/local/texlive/2013/texmf-dist/fonts
+/type1/impallari/quattrocento/QuattrocentoSans.pfb></usr/local/texlive/2013/tex
+mf-dist/fonts/type1/public/initials/Typocaps.pfb></usr/local/texlive/2013/texmf
+-dist/fonts/type1/public/initials/Zallman.pfb></usr/local/texlive/2013/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist
+/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/public/frcursive/frcr14.pfb>
+Output written on binder.pdf (77 pages, 3968294 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
- 205 compressed objects within 3 object streams
+ 357 PDF objects out of 1000 (max. 8388607)
+ 245 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 33835 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 37936 words of extra memory for PDF output out of 42996 (max. 10000000)
 
