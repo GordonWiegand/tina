@@ -1,0 +1,9 @@
+\select@language {ngerman}
+\contentsline {chapter}{Flieg, Pinarella!}{5}
+\contentsline {chapter}{Der weisse Adler}{11}
+\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{17}
+\contentsline {chapter}{Das Gespenst Jonathan}{25}
+\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{37}
+\contentsline {chapter}{Aus dem Leben des Karl Rebosam}{47}
+\contentsline {chapter}{Der kleine Pirat Winnimon}{51}
+\contentsline {chapter}{Die Maus mit den drei Federn}{61}
