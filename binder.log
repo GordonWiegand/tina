@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.8.22)  11 OCT 2013 09:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.11)  23 OCT 2013 09:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -629,7 +629,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@width=\dimen117
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/mdframed/mdframed.sty
-Package: mdframed 2013/03/09\ 1.8: mdframed
+Package: mdframed 2013/07/01 1.9b: mdframed
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
@@ -648,26 +648,26 @@ Package etexcmds Info: Could not find \expanded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/expl3.sty
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3names.sty
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
-Package: l3bootstrap 2013/01/08 v4420 L3 Experimental bootstrap code
+Package: l3bootstrap 2013/07/28 v4581 L3 Experimental bootstrap code
 )
 Package: l3names 2012/12/07 v4346 L3 Namespace for primitives
 )
-Package: expl3 2013/03/14 v4469 L3 Experimental code bundle wrapper
+Package: expl3 2013/10/08 v4594 L3 Experimental code bundle wrapper
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3basics.sty
-Package: l3basics 2013/01/10 v4428 L3 Basic definitions
+Package: l3basics 2013/07/28 v4581 L3 Basic definitions
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3expan.sty
-Package: l3expan 2013/02/03 v4458 L3 Argument expansion
+Package: l3expan 2013/08/17 v4584 L3 Argument expansion
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3tl.sty
-Package: l3tl 2013/01/08 v4415 L3 Token lists
+Package: l3tl 2013/09/16 v4592 L3 Token lists
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3seq.sty
-Package: l3seq 2013/01/12 v4434 L3 Sequences and stacks
+Package: l3seq 2013/07/28 v4581 L3 Sequences and stacks
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3int.sty
-Package: l3int 2013/01/13 v4444 L3 Integers
+Package: l3int 2013/08/02 v4583 L3 Integers
 \c_max_int=\count102
 \l_tmpa_int=\count103
 \l_tmpb_int=\count104
@@ -675,26 +675,26 @@ Package: l3int 2013/01/13 v4444 L3 Integers
 \g_tmpb_int=\count106
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3quark.sty
-Package: l3quark 2012/11/04 v4268 L3 Quarks
+Package: l3quark 2013/07/21 v4564 L3 Quarks
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prg.sty
-Package: l3prg 2013/02/13 v4459 L3 Control structures
+Package: l3prg 2013/08/25 v4587 L3 Control structures
 \g__prg_map_int=\count107
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3clist.sty
-Package: l3clist 2013/01/08 v4414 L3 Comma separated lists
+Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3token.sty
-Package: l3token 2013/01/10 v4428 L3 Experimental token manipulation
+Package: l3token 2013/08/25 v4587 L3 Experimental token manipulation
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prop.sty
-Package: l3prop 2013/01/09 v4423 L3 Property lists
+Package: l3prop 2013/07/28 v4581 L3 Property lists
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3msg.sty
-Package: l3msg 2013/01/08 v4412 L3 Messages
+Package: l3msg 2013/07/28 v4581 L3 Messages
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3file.sty
-Package: l3file 2013/01/14 v4446 L3 File and I/O operations
+Package: l3file 2013/08/29 v4591 L3 File and I/O operations
 \l_iow_line_count_int=\count108
 \l__iow_target_count_int=\count109
 \l__iow_current_line_int=\count110
@@ -702,7 +702,7 @@ Package: l3file 2013/01/14 v4446 L3 File and I/O operations
 \l__iow_current_indentation_int=\count112
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3skip.sty
-Package: l3skip 2013/01/13 v4444 L3 Dimensions and skips
+Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
 \c_zero_dim=\dimen118
 \c_max_dim=\dimen119
 \l_tmpa_dim=\dimen120
@@ -723,12 +723,12 @@ Package: l3skip 2013/01/13 v4444 L3 Dimensions and skips
 \g_tmpb_muskip=\muskip15
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3keys.sty
-Package: l3keys 2013/02/24 v4461 L3 Experimental key-value interfaces
+Package: l3keys 2013/07/28 v4581 L3 Experimental key-value interfaces
 \g__keyval_level_int=\count113
 \l_keys_choice_int=\count114
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3fp.sty
-Package: l3fp 2013/01/19 v4449 L3 Floating points
+Package: l3fp 2013/07/09 v4521 L3 Floating points
 \c__fp_leading_shift_int=\count115
 \c__fp_middle_shift_int=\count116
 \c__fp_trailing_shift_int=\count117
@@ -740,7 +740,7 @@ Package: l3fp 2013/01/19 v4449 L3 Floating points
 \c__fp_Bigg_trailing_shift_int=\count123
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3box.sty
-Package: l3box 2013/01/08 v4411 L3 Experimental boxes
+Package: l3box 2013/07/28 v4581 L3 Experimental boxes
 \c_empty_box=\box29
 \l_tmpa_box=\box30
 \l_tmpb_box=\box31
@@ -773,12 +773,12 @@ Package: l3coffins 2012/09/09 v4212 L3 Coffin code layer
 Package: l3color 2012/08/29 v4156 L3 Experimental color support
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3luatex.sty
-Package: l3luatex 2012/08/03 v4049 L3 Experimental LuaTeX-specific functions
+Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
 \g__cctab_allocate_int=\count124
 \g__cctab_stack_int=\count125
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3candidates.sty
-Package: l3candidates 2013/03/14 v4468 L3 Experimental additions to l3kernel
+Package: l3candidates 2013/07/24 v4576 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen134
 \l__box_bottom_dim=\dimen135
 \l__box_left_dim=\dimen136
@@ -800,7 +800,7 @@ Package: l3candidates 2013/03/14 v4468 L3 Experimental additions to l3kernel
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 ))
-Package: xparse 2013/03/12 v4467 L3 Experimental document command parser
+Package: xparse 2013/10/08 v4594 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count126
 \l__xparse_m_args_int=\count127
 \l__xparse_mandatory_args_int=\count128
@@ -837,6 +837,9 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 \c@abspage=\count131
 Package zref Info: New property: abspage on input line 62.
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
 \mdf@templength=\skip53
 \c@mdf@globalstyle@cnt=\count132
 \mdf@skipabove@length=\skip54
@@ -858,54 +861,63 @@ Package zref Info: New property: abspage on input line 62.
 \mdf@roundcorner@length=\skip70
 \mdf@footenotedistance@length=\skip71
 \mdf@userdefinedwidth@length=\skip72
-\mdf@frametitleaboveskip@length=\skip73
-\mdf@frametitlebelowskip@length=\skip74
-\mdf@frametitlerulewidth@length=\skip75
-\mdf@frametitleleftmargin@length=\skip76
-\mdf@frametitlerightmargin@length=\skip77
-\mdf@shadowsize@length=\skip78
-\mdf@extratopheight@length=\skip79
-\mdf@subtitleabovelinewidth@length=\skip80
-\mdf@subtitlebelowlinewidth@length=\skip81
-\mdf@subtitleaboveskip@length=\skip82
-\mdf@subtitlebelowskip@length=\skip83
-\mdf@subtitleinneraboveskip@length=\skip84
-\mdf@subtitleinnerbelowskip@length=\skip85
-\mdf@subsubtitleabovelinewidth@length=\skip86
-\mdf@subsubtitlebelowlinewidth@length=\skip87
-\mdf@subsubtitleaboveskip@length=\skip88
-\mdf@subsubtitlebelowskip@length=\skip89
-\mdf@subsubtitleinneraboveskip@length=\skip90
-\mdf@subsubtitleinnerbelowskip@length=\skip91
+\mdf@needspace@length=\skip73
+\mdf@frametitleaboveskip@length=\skip74
+\mdf@frametitlebelowskip@length=\skip75
+\mdf@frametitlerulewidth@length=\skip76
+\mdf@frametitleleftmargin@length=\skip77
+\mdf@frametitlerightmargin@length=\skip78
+\mdf@shadowsize@length=\skip79
+\mdf@extratopheight@length=\skip80
+\mdf@subtitleabovelinewidth@length=\skip81
+\mdf@subtitlebelowlinewidth@length=\skip82
+\mdf@subtitleaboveskip@length=\skip83
+\mdf@subtitlebelowskip@length=\skip84
+\mdf@subtitleinneraboveskip@length=\skip85
+\mdf@subtitleinnerbelowskip@length=\skip86
+\mdf@subsubtitleabovelinewidth@length=\skip87
+\mdf@subsubtitlebelowlinewidth@length=\skip88
+\mdf@subsubtitleaboveskip@length=\skip89
+\mdf@subsubtitlebelowskip@length=\skip90
+\mdf@subsubtitleinneraboveskip@length=\skip91
+\mdf@subsubtitleinnerbelowskip@length=\skip92
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
 \mdf@frametitlebox=\box44
 \mdf@footnotebox=\box45
 \mdf@splitbox@one=\box46
 \mdf@splitbox@two=\box47
 \mdf@splitbox@save=\box48
-\mdfsplitboxwidth=\skip92
-\mdfsplitboxtotalwidth=\skip93
-\mdfsplitboxheight=\skip94
-\mdfsplitboxdepth=\skip95
-\mdfsplitboxtotalheight=\skip96
-\mdfframetitleboxwidth=\skip97
-\mdfframetitleboxtotalwidth=\skip98
-\mdfframetitleboxheight=\skip99
-\mdfframetitleboxdepth=\skip100
-\mdfframetitleboxtotalheight=\skip101
-\mdffootnoteboxwidth=\skip102
-\mdffootnoteboxtotalwidth=\skip103
-\mdffootnoteboxheight=\skip104
-\mdffootnoteboxdepth=\skip105
-\mdffootnoteboxtotalheight=\skip106
-\mdftotallinewidth=\skip107
-\mdfboundingboxwidth=\skip108
-\mdfboundingboxtotalwidth=\skip109
-\mdfboundingboxheight=\skip110
-\mdfboundingboxdepth=\skip111
-\mdfboundingboxtotalheight=\skip112
-\mdf@freevspace@length=\skip113
-\mdf@horizontalwidthofbox@length=\skip114
-\mdf@verticalmarginwhole@length=\skip115
+\mdfsplitboxwidth=\skip93
+\mdfsplitboxtotalwidth=\skip94
+\mdfsplitboxheight=\skip95
+\mdfsplitboxdepth=\skip96
+\mdfsplitboxtotalheight=\skip97
+\mdfframetitleboxwidth=\skip98
+\mdfframetitleboxtotalwidth=\skip99
+\mdfframetitleboxheight=\skip100
+\mdfframetitleboxdepth=\skip101
+\mdfframetitleboxtotalheight=\skip102
+\mdffootnoteboxwidth=\skip103
+\mdffootnoteboxtotalwidth=\skip104
+\mdffootnoteboxheight=\skip105
+\mdffootnoteboxdepth=\skip106
+\mdffootnoteboxtotalheight=\skip107
+\mdftotallinewidth=\skip108
+\mdfboundingboxwidth=\skip109
+\mdfboundingboxtotalwidth=\skip110
+\mdfboundingboxheight=\skip111
+\mdfboundingboxdepth=\skip112
+\mdfboundingboxtotalheight=\skip113
+\mdf@freevspace@length=\skip114
+\mdf@horizontalwidthofbox@length=\skip115
+\mdf@verticalmarginwhole@length=\skip116
+\mdf@horizontalspaceofbox=\skip117
+\mdfsubtitleheight=\skip118
+\mdfsubsubtitleheight=\skip119
+\c@mdfcountframes=\count133
 
 ****** mdframed patching \endmdf@trivlist
 
@@ -915,24 +927,19 @@ Package zref Info: New property: abspage on input line 62.
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \newmdtheoremenv with arg. spec. 'O{} m o m o ' on
-. line 548.
+. line 601.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining document command \mdtheorem with arg. spec. ' O{} m o m o ' on line
-. 639.
+. 701.
 .................................................
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
-File: md-frame-0.mdf 2013/03/09\ 1.8: md-frame-0
-)
-\mdf@envdepth=\count133
-\c@mdf@env@i=\count134
-\c@mdf@env@ii=\count135
-\c@mdf@zref@counter=\count136
-Package zref Info: New property: mdf@pagevalue on input line 840.
-\mdf@horizontalspaceofbox=\skip116
+\mdf@envdepth=\count134
+\c@mdf@env@i=\count135
+\c@mdf@env@ii=\count136
+\c@mdf@zref@counter=\count137
+Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
@@ -972,10 +979,10 @@ ode.tex
 \pgf@yc=\dimen156
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count137
-\c@pgf@countb=\count138
-\c@pgf@countc=\count139
-\c@pgf@countd=\count140
+\c@pgf@counta=\count138
+\c@pgf@countb=\count139
+\c@pgf@countc=\count140
+\c@pgf@countd=\count141
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -993,8 +1000,8 @@ File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count141
-\pgfsyssoftpath@bigbuffer@items=\count142
+\pgfsyssoftpath@smallbuffer@items=\count142
+\pgfsyssoftpath@bigbuffer@items=\count143
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -1024,7 +1031,7 @@ Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen157
-\pgfmath@count=\count143
+\pgfmath@count=\count144
 \pgfmath@box=\box50
 \pgfmath@toks=\toks24
 \pgfmath@stack@operand=\toks25
@@ -1047,7 +1054,7 @@ code.tex)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
 code.tex)))
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count144
+\c@pgfmathroundto@lastzeros=\count145
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
@@ -1085,7 +1092,7 @@ File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 \pgfpic=\box51
 \pgf@hbox=\box52
 \pgf@layerbox@main=\box53
-\pgf@picture@serial@count=\count145
+\pgf@picture@serial@count=\count146
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
@@ -1119,7 +1126,7 @@ File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 e.tex
 File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
 \pgf@max=\dimen180
-\pgf@sys@shading@range@num=\count146
+\pgf@sys@shading@range@num=\count147
 )
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -1178,7 +1185,7 @@ Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count147
+\pgf@plot@mark@count=\count148
 \pgfplotmarksize=\dimen185
 )
 \tikz@lastx=\dimen186
@@ -1189,19 +1196,19 @@ File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
 \tikzsiblingdistance=\dimen191
 \tikz@figbox=\box56
 \tikz@tempbox=\box57
-\tikztreelevel=\count148
-\tikznumberofchildren=\count149
-\tikznumberofcurrentchild=\count150
-\tikz@fig@count=\count151
+\tikztreelevel=\count149
+\tikznumberofchildren=\count150
+\tikznumberofcurrentchild=\count151
+\tikz@fig@count=\count152
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count152
-\pgfmatrixcurrentcolumn=\count153
-\pgf@matrix@numberofcolumns=\count154
+\pgfmatrixcurrentrow=\count153
+\pgfmatrixcurrentcolumn=\count154
+\pgf@matrix@numberofcolumns=\count155
 )
-\tikz@expandcount=\count155
+\tikz@expandcount=\count156
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1223,23 +1230,23 @@ File: pgfmoduleparser.code.tex 2009/01/12 v2.10 (rcs-revision 1.1)
 \pgf@lib@svg@last@y=\dimen193
 \pgf@lib@svg@last@c@x=\dimen194
 \pgf@lib@svg@last@c@y=\dimen195
-\pgf@lib@svg@count=\count156
-\pgf@lib@svg@max@num=\count157
+\pgf@lib@svg@count=\count157
+\pgf@lib@svg@max@num=\count158
 )) (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks29
-\MT@count=\count158
+\MT@count=\count159
 LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen196
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count159
+\MT@listname@count=\count160
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 915.
 LaTeX Info: Redefining \lslig on input line 915.
-\MT@outer@space=\skip117
+\MT@outer@space=\skip120
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -1259,35 +1266,35 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v2.10 (rcs-revision 1.7)
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count160
-\calc@Bcount=\count161
+\calc@Acount=\count161
+\calc@Bcount=\count162
 \calc@Adimen=\dimen197
 \calc@Bdimen=\dimen198
-\calc@Askip=\skip118
-\calc@Bskip=\skip119
+\calc@Askip=\skip121
+\calc@Bskip=\skip122
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count162
-\calc@Cskip=\skip120
+\calc@Ccount=\count163
+\calc@Cskip=\skip123
 )
-\c@@todonotes@numberoftodonotes=\count163
+\c@@todonotes@numberoftodonotes=\count164
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/verse/verse.sty
 Package: verse 2009/09/04 v2.4a verse typesetting
-\c@vslineno=\count164
-\c@poemline=\count165
-\c@fvsline=\count166
-\c@modulo@vs=\count167
-\c@verse@envctr=\count168
-\versewidth=\skip121
-\vgap=\skip122
-\vindent=\skip123
-\stanzaskip=\skip124
-\vleftskip=\skip125
-\vrightskip=\skip126
-\c@chrsinstr=\count169
-\beforepoemtitleskip=\skip127
-\afterpoemtitleskip=\skip128
+\c@vslineno=\count165
+\c@poemline=\count166
+\c@fvsline=\count167
+\c@modulo@vs=\count168
+\c@verse@envctr=\count169
+\versewidth=\skip124
+\vgap=\skip125
+\vindent=\skip126
+\stanzaskip=\skip127
+\vleftskip=\skip128
+\vrightskip=\skip129
+\c@chrsinstr=\count170
+\beforepoemtitleskip=\skip130
+\afterpoemtitleskip=\skip131
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/skull/skull.sty
 Package: skull 2002/01/23 v0.1 (c) Henrik Christian Grove <grove@math.ku.dk>
@@ -1340,20 +1347,20 @@ rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 74.
-\c@mv@tabular=\count170
-\c@mv@boldtabular=\count171
+\c@mv@tabular=\count171
+\c@mv@boldtabular=\count172
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count172
+\scratchcounter=\count173
 \scratchdimen=\dimen199
 \scratchbox=\box58
-\nofMPsegments=\count173
-\nofMParguments=\count174
+\nofMPsegments=\count174
+\nofMParguments=\count175
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count175
+\MPscratchCnt=\count176
 \MPscratchDim=\dimen200
-\MPnumerator=\count176
-\makeMPintoPDFobject=\count177
+\MPnumerator=\count177
+\makeMPintoPDFobject=\count178
 \everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1582,9 +1589,9 @@ Package mdframed Info: mdframed works in twoside mode on input line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 3.
+ line 9.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 3.
+(Font)              scaled to size 10.95pt on input line 9.
  [25
 
 
@@ -1595,18 +1602,24 @@ File: bilder/gespenst1.pdf Graphic file (type pdf)
 <use bilder/gespenst1.pdf>
 Package pdftex.def Info: bilder/gespenst1.pdf used on input line 17.
 (pdftex.def)             Requested size: 221.07697pt x 258.9607pt.
+ [26 <./bilder/gespenst1.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 22.
- [26 <./bilder/gespenst1.pdf>] [27]
+ [27]
 Package mdframed Info: mdframed works in twoside mode on input line 31.
  [28] [29]
 [30] [31]
 Package mdframed Info: mdframed works in twoside mode on input line 69.
  [32] [33] [34]
 Package mdframed Info: mdframed works in twoside mode on input line 100.
- [35]) (./kerzers.tex [36
+ [35]
+
+LaTeX Warning: Reference `mdf@pagelabel-8' on page 36 undefined on input line 1
+04.
+
+) (./kerzers.tex [36] [37
 
 
-] [37] [38] [39] [40]
+] [38] [39] [40]
 <bilder/kerzers.pdf, id=169, 474.50864pt x 353.52817pt>
 File: bilder/kerzers.pdf Graphic file (type pdf)
 
@@ -1707,46 +1720,52 @@ LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 [59] [60
 
 
-] [61] [62] [63] [64] [65] [66]) [67] [68
-
-
-]
+] [61] [62] [63] [64] [65] [66] [67]) [68]
 Package tocbasic Info: character protrusion at toc deactivated on input line 11
 3.
  (./binder.toc)
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [69]
+ [69
+
+
+]
 (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 23034 strings out of 493315
- 429598 string characters out of 6137904
- 520525 words of memory out of 5000000
- 25748 multiletter control sequences out of 15000+600000
+ 23180 strings out of 493311
+ 431565 string characters out of 6137849
+ 528033 words of memory out of 5000000
+ 25894 multiletter control sequences out of 15000+600000
  198718 words of font info for 209 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 65i,11n,76p,2156b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/
-skull/skull.864pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattroce
-nto/qtrcnt_tevtmb.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quatt
-rocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/impal
-lari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist/fon
-ts/type1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/2013
-/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoRegular.pfb></usr/lo
-cal/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans
--Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocent
-o/QuattrocentoSans.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/i
-nitials/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ini
-tials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/
-fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursi
-ve/frcr14.pfb>
-Output written on binder.pdf (69 pages, 3453617 bytes).
+ 65i,11n,76p,2156b,718s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/skull/s
+kull.864pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtr
+cnt_tevtmb.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento
+/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/qu
+attrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
+1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/2013/texmf-
+dist/fonts/type1/impallari/quattrocento/QuattrocentoRegular.pfb></usr/local/tex
+live/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans-Bold.p
+fb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quatt
+rocentoSans.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initials
+/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initials/Z
+allman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/fourier
+-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursive/frcr
+14.pfb>
+Output written on binder.pdf (69 pages, 3454896 bytes).
 PDF statistics:
  324 PDF objects out of 1000 (max. 8388607)
  223 compressed objects within 3 object streams
