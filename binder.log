@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.8)  14 JAN 2014 09:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.8)  21 JAN 2014 09:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1593,10 +1593,7 @@ Underfull \vbox (badness 1622) has occurred while \output is active []
 [24]) (./onta.tex [25] [26] [27
 
 
-] [28]) (./gespenst.tex [29] [30
-
-
-]
+] [28] [29]) (./gespenst.tex [30]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
 vailable
@@ -1604,7 +1601,10 @@ vailable
  line 9.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 9.
- [31]
+ [31
+
+
+]
 <bilder/gespenst1.pdf, id=130, 511.36615pt x 598.99376pt>
 File: bilder/gespenst1.pdf Graphic file (type pdf)
 
@@ -1779,7 +1779,7 @@ tials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/
 fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursi
 ve/frcr14.pfb>
-Output written on binder.pdf (97 pages, 3994841 bytes).
+Output written on binder.pdf (97 pages, 3995453 bytes).
 PDF statistics:
  416 PDF objects out of 1000 (max. 8388607)
  285 compressed objects within 3 object streams
