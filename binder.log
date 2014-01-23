@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.8)  21 JAN 2014 09:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.8)  23 JAN 2014 10:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1720,28 +1720,28 @@ Package pdftex.def Info: bilder/pirat1.pdf used on input line 48.
  [61 <./bilder/pirat1.pdf>] [62] [63]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 100.
- [64] [65] [66])
-(./delphine.tex [67] [68
+ [64] [65] [66]
+[67] [68] [69] [70] [71]) (./delphine.tex [72] [73
 
 
-] [69] [70] [71] [72] [73] [74] [75] [76] [77]
-<bilder/oma1.pdf, id=307, 845.1575pt x 597.23125pt>
+] [74] [75] [76] [77]
+[78] [79] [80] [81] <bilder/oma1.pdf, id=320, 845.1575pt x 597.23125pt>
 File: bilder/oma1.pdf Graphic file (type pdf)
- <use bilder/oma1.pdf>
+
+<use bilder/oma1.pdf>
 Package pdftex.def Info: bilder/oma1.pdf used on input line 97.
 (pdftex.def)             Requested size: 221.07697pt x 156.22421pt.
-
-[78 <./bilder/oma1.pdf, page is rotated 90 degrees>]
+ [82 <./bilder/oma1.pdf, page is rotated 90 degrees>]
 Underfull \hbox (badness 1590) in paragraph at lines 114--115
 []\T1/Quattrocento-TLF/m/sc/12 (+20) ^^S  Maaaaa-maaaa, Maaaaaaaaa-maaaaa! Wo h
 ast du das
  []
 
-[79] [80] [81] [82] [83] [84] [85]) (./maus.tex [86] [87
+[83] [84] [85] [86] [87] [88] [89]) (./maus.tex [90] [91
 
 
-] [88] [89] [90]
-[91] [92] [93] [94]) [95] [96
+] [92] [93] [94]
+[95] [96] [97] [98]) [99] [100
 
 
 ]
@@ -1751,7 +1751,7 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 11
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [97] (./binder.aux)
+ [101] (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1779,10 +1779,10 @@ tials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/
 fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursi
 ve/frcr14.pfb>
-Output written on binder.pdf (97 pages, 3995453 bytes).
+Output written on binder.pdf (101 pages, 4003512 bytes).
 PDF statistics:
- 416 PDF objects out of 1000 (max. 8388607)
- 285 compressed objects within 3 object streams
+ 428 PDF objects out of 1000 (max. 8388607)
+ 293 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  35376 words of extra memory for PDF output out of 35830 (max. 10000000)
 
