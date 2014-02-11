@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.8)  10 FEB 2014 14:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.8)  11 FEB 2014 14:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1554,49 +1554,65 @@ Package microtype Info: Character `029' is missing
 [3
 
 
-]) (./schneekoenigin.tex [4] [5] [6
+]) (./clown.tex [4] [5] [6
 
 
-] [7] [8]) (./pinarella.tex [9] [10
+] [7]
+<bilder/clown.pdf, id=36, 845.1575pt x 597.23125pt>
+File: bilder/clown.pdf Graphic file (type pdf)
+ <use bilder/clown.pdf>
+Package pdftex.def Info: bilder/clown.pdf used on input line 18.
+(pdftex.def)             Requested size: 315.82562pt x 223.17744pt.
+
+[8] [9 <./bilder/clown.pdf>] [10]) (./pinarella.tex [11] [12
 
 
 ]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 1.
-
-[11] <bilder/pinarella.pdf, id=48, 416.51729pt x 418.47403pt>
+ [13]
+<bilder/pinarella.pdf, id=64, 416.51729pt x 418.47403pt>
 File: bilder/pinarella.pdf Graphic file (type pdf)
 
 <use bilder/pinarella.pdf>
 Package pdftex.def Info: bilder/pinarella.pdf used on input line 14.
 (pdftex.def)             Requested size: 315.82562pt x 317.31561pt.
- [12] [13 <./bilder/pinarella.pdf>] [14] [15])
-(./adler.tex [16] [17
+ [14] [15 <./bilder/pinarella.pdf>] [16] [17])
+(./schneekoenigin.tex [18]
+<bilder/schneekoenigin.pdf, id=88, 845.1575pt x 597.23125pt>
+File: bilder/schneekoenigin.pdf Graphic file (type pdf)
+
+<use bilder/schneekoenigin.pdf>
+Package pdftex.def Info: bilder/schneekoenigin.pdf used on input line 12.
+(pdftex.def)             Requested size: 315.82562pt x 223.17744pt.
+ [19
+
+
+] [20 <./bilder/schneekoenigin.pdf>])
+(./delphine.tex [21] [22] [23
+
+
+] [24] [25] [26] [27] [28] [29] [30] [31]
+<bilder/oma1.pdf, id=139, 845.1575pt x 597.23125pt>
+File: bilder/oma1.pdf Graphic file (type pdf)
+ <use bilder/oma1.pdf>
+Package pdftex.def Info: bilder/oma1.pdf used on input line 97.
+(pdftex.def)             Requested size: 221.07697pt x 156.22421pt.
+
+[32 <./bilder/oma1.pdf, page is rotated 90 degrees>]
+Underfull \hbox (badness 1590) in paragraph at lines 114--115
+[]\T1/Quattrocento-TLF/m/sc/12 (+20) ^^S  Maaaaa-maaaa, Maaaaaaaaa-maaaaa! Wo h
+ast du das
+ []
+
+[33] [34] [35] [36] [37] [38] [39]) (./maus.tex [40] [41
+
+
+] [42] [43] [44]
+[45] [46] [47] [48]) (./gespenst.tex [49] [50
 
 
 ]
-Overfull \hbox (0.17935pt too wide) in paragraph at lines 11--12
-\T1/Quattrocento-TLF/m/sc/12 (-20) wollte. Nicht dass er das sehr ausgenutzt hä
-tte. Eigentlich war
- []
-
-<bilder/adler.pdf, id=76, 355.78352pt x 199.09592pt>
-File: bilder/adler.pdf Graphic file (type pdf)
- <use bilder/adler.pdf>
-Package pdftex.def Info: bilder/adler.pdf used on input line 17.
-(pdftex.def)             Requested size: 221.07697pt x 123.71463pt.
-
-[18]
-Underfull \vbox (badness 1622) has occurred while \output is active []
-
- [19 <./bilder/adler.pdf>] [20]) (./menschen.tex [21] [22
-
-
-] [23] [24] [25] [26] [27]
-[28]) (./onta.tex [29] [30] [31
-
-
-] [32] [33]) (./gespenst.tex [34]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
 vailable
@@ -1604,39 +1620,23 @@ vailable
  line 9.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 9.
- [35
-
-
-]
-<bilder/gespenst1.pdf, id=142, 511.36615pt x 598.99376pt>
+ [51]
+<bilder/gespenst1.pdf, id=205, 511.36615pt x 598.99376pt>
 File: bilder/gespenst1.pdf Graphic file (type pdf)
 
 <use bilder/gespenst1.pdf>
 Package pdftex.def Info: bilder/gespenst1.pdf used on input line 17.
 (pdftex.def)             Requested size: 221.07697pt x 258.9607pt.
- [36 <./bilder/gespenst1.pdf>]
+ [52 <./bilder/gespenst1.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 22.
- [37]
+ [53]
 Package mdframed Info: mdframed works in twoside mode on input line 31.
- [38] [39]
-[40] [41]
+ [54] [55]
+[56] [57]
 Package mdframed Info: mdframed works in twoside mode on input line 69.
- [42] [43] [44]
+ [58] [59] [60]
 Package mdframed Info: mdframed works in twoside mode on input line 100.
- [45]) (./kerzers.tex [46] [47
-
-
-] [48] [49] [50]
-<bilder/kerzers.pdf, id=202, 474.50864pt x 353.52817pt>
-File: bilder/kerzers.pdf Graphic file (type pdf)
-
-<use bilder/kerzers.pdf>
-Package pdftex.def Info: bilder/kerzers.pdf used on input line 71.
-(pdftex.def)             Requested size: 221.07697pt x 164.71255pt.
- [51] [52] [53] [54]) (./karl.tex [55] [56 <./bilder/kerzers.pdf>] [57
-
-
-] [58] [59]) (./pirat.tex [60]
+ [61]) (./pirat.tex [62]
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/n' in size <17.28> n
 ot available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/n' tried instead on i
@@ -1685,16 +1685,16 @@ Overfull \hbox (43.39436pt too wide) in paragraph at lines 6--6
 \T1/Quattrocento-TLF/m/sc/12 (-20) Mitspracherecht, 
  []
 
-[61
+[63
 
 
-] [62]
+] [64]
 Overfull \hbox (0.1556pt too wide) in paragraph at lines 21--22
 \T1/Quattrocento-TLF/m/sc/12 (-20) tern ein Floss ge-bas-telt und spiel-ten na-
 tür-lich Pi-rat. Sie spran-
  []
 
-[63]
+[65]
 Overfull \hbox (15.05762pt too wide) in paragraph at lines 37--37
 [][][][]\T1/Quattrocento-TLF/m/sc/12 (-20) Zeitformen 
  []
@@ -1714,67 +1714,84 @@ Overfull \hbox (15.05762pt too wide) in paragraph at lines 37--37
 [][][][]\T1/Quattrocento-TLF/m/sc/12 (-20) Zeitformen 
  []
 
-[64] <bilder/pirat1.pdf, id=257, 845.1575pt x 597.23125pt>
+[66] <bilder/pirat1.pdf, id=263, 845.1575pt x 597.23125pt>
 File: bilder/pirat1.pdf Graphic file (type pdf)
 
 <use bilder/pirat1.pdf>
 Package pdftex.def Info: bilder/pirat1.pdf used on input line 48.
 (pdftex.def)             Requested size: 221.07697pt x 156.22421pt.
- [65 <./bilder/pirat1.pdf>] [66] [67]
+ [67 <./bilder/pirat1.pdf>] [68] [69]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 100.
- [68] [69] [70]
-[71] [72] [73] [74] [75] [76] [77] [78]) (./delphine.tex [79] [80
+ [70] [71] [72]
+[73] [74] [75] [76] [77] [78] [79] [80]) (./adler.tex [81] [82
 
 
-] [81]
-[82] [83] [84] [85] [86] [87] [88] [89]
-<bilder/oma1.pdf, id=346, 845.1575pt x 597.23125pt>
-File: bilder/oma1.pdf Graphic file (type pdf)
- <use bilder/oma1.pdf>
-Package pdftex.def Info: bilder/oma1.pdf used on input line 97.
-(pdftex.def)             Requested size: 221.07697pt x 156.22421pt.
-
-[90 <./bilder/oma1.pdf, page is rotated 90 degrees>]
-Underfull \hbox (badness 1590) in paragraph at lines 114--115
-[]\T1/Quattrocento-TLF/m/sc/12 (+20) ^^S  Maaaaa-maaaa, Maaaaaaaaa-maaaaa! Wo h
-ast du das
+] [83]
+Overfull \hbox (0.17935pt too wide) in paragraph at lines 11--12
+\T1/Quattrocento-TLF/m/sc/12 (-20) wollte. Nicht dass er das sehr ausgenutzt hä
+tte. Eigentlich war
  []
 
-[91] [92] [93] [94] [95] [96] [97]) (./henna.tex [98] [99
+<bilder/adler.pdf, id=326, 355.78352pt x 199.09592pt>
+File: bilder/adler.pdf Graphic file (type pdf)
+ <use bilder/adler.pdf>
+Package pdftex.def Info: bilder/adler.pdf used on input line 17.
+(pdftex.def)             Requested size: 221.07697pt x 123.71463pt.
+
+[84]
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [85 <./bilder/adler.pdf>] [86]) (./menschen.tex [87] [88
 
 
-] [100] [101] [102]
-[103] [104]) (./maus.tex [105] [106
+] [89] [90] [91] [92] [93]
+[94]) (./onta.tex [95] [96] [97
 
 
-] [107] [108] [109] [110] [111] [112]
-[113] [114]) [115] [116
+] [98] [99]) (./kerzers.tex [100] [101
 
 
-]
+] [102]
+[103] [104] <bilder/kerzers.pdf, id=404, 474.50864pt x 353.52817pt>
+File: bilder/kerzers.pdf Graphic file (type pdf)
+
+<use bilder/kerzers.pdf>
+Package pdftex.def Info: bilder/kerzers.pdf used on input line 71.
+(pdftex.def)             Requested size: 221.07697pt x 164.71255pt.
+ [105] [106] [107] [108]) (./henna.tex [109] [110 <./bilder/kerzers.pdf>] [111
+
+
+] [112] [113] [114] [115] [116]) (./karl.tex [117]
+[118
+
+
+] [119] [120] [121]) [122]
 Package tocbasic Info: character protrusion at toc deactivated on input line 11
-7.
+8.
  (./binder.toc)
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [117] (./binder.aux)
+ [123
+
+
+] [124] (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23266 strings out of 493308
- 433325 string characters out of 6137816
- 531853 words of memory out of 5000000
- 25964 multiletter control sequences out of 15000+600000
+ 23280 strings out of 493308
+ 433601 string characters out of 6137816
+ 528346 words of memory out of 5000000
+ 25975 multiletter control sequences out of 15000+600000
  199202 words of font info for 211 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 65i,11n,76p,2156b,718s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/
-skull/skull.864pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattroce
-nto/qtrcnt_tevtmb.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quatt
+ 65i,11n,76p,2156b,716s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_tevtm
+b.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
+lic/skull/skull.864pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quatt
 rocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/impal
 lari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist/fon
 ts/type1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/2013
@@ -1787,10 +1804,10 @@ tials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/
 fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursi
 ve/frcr14.pfb>
-Output written on binder.pdf (117 pages, 4035466 bytes).
+Output written on binder.pdf (124 pages, 5426115 bytes).
 PDF statistics:
- 481 PDF objects out of 1000 (max. 8388607)
- 329 compressed objects within 4 object streams
+ 521 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 35376 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 35386 words of extra memory for PDF output out of 35830 (max. 10000000)
 

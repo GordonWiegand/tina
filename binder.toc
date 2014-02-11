@@ -1,14 +1,15 @@
 \select@language {ngerman}
 \contentsline {chapter}{L\IeC {\"o}wenalarm}{3}
-\contentsline {chapter}{Milch und Eis}{7}
-\contentsline {chapter}{Flieg, Pinarella!}{11}
-\contentsline {chapter}{Der weisse Adler}{17}
-\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{23}
-\contentsline {chapter}{Das schwarze Licht}{31}
-\contentsline {chapter}{Das Gespenst Jonathan}{35}
-\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{47}
-\contentsline {chapter}{Aus dem Leben des Karl Rebosam}{57}
-\contentsline {chapter}{Der kleine Pirat Winnimon}{61}
-\contentsline {chapter}{Nina und die rosa Delphine}{81}
-\contentsline {chapter}{Meine Freundin Henna}{99}
-\contentsline {chapter}{Die Maus mit den drei Federn}{107}
+\contentsline {chapter}{Der grosse Clown kann fliegen}{7}
+\contentsline {chapter}{Flieg, Pinarella!}{13}
+\contentsline {chapter}{Milch und Eis}{19}
+\contentsline {chapter}{Nina und die rosa Delphine}{23}
+\contentsline {chapter}{Die Maus mit den drei Federn}{41}
+\contentsline {chapter}{Das Gespenst Jonathan}{51}
+\contentsline {chapter}{Der kleine Pirat Winnimon}{63}
+\contentsline {chapter}{Der weisse Adler}{83}
+\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{89}
+\contentsline {chapter}{Das schwarze Licht}{97}
+\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{101}
+\contentsline {chapter}{Meine Freundin Henna}{111}
+\contentsline {chapter}{Aus dem Leben des Karl Rebosam}{119}
