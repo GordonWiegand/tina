@@ -3,12 +3,12 @@
 %Schrift Quattrocento
 \usepackage{quattrocento}
 \usepackage[T1]{fontenc}
-%Schweizer Anführungszeichen
-\usepackage[german=swiss]{csquotes}
 %Erlaubt Einsatz von Farbe
 \usepackage{color}
 %UTF 8
 \usepackage[utf8]{inputenc}
+%Schweizer Anführungszeichen
+\usepackage[german=swiss]{csquotes}
 %Ermöglicht Zierkapitälchen zum Anbsatzanfang
 \usepackage{lettrine}
 %Fourier Ornamente für Seitenkopf
@@ -19,7 +19,7 @@
 %Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Zeichen in der Mitte
 \chead{\color{red}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
 %Kapitelüberschriften in Schriftart des Deckblatts
-\addtokomafont{chapter}{\color{red}\rmfamily\Huge\centering\it}
+\addtokomafont{chapter}{\color{red}\rmfamily\Huge\centering\itshape}
 %Schriftart für grosse Anfangsbuchstaben
 \input Zallman.fd
 \renewcommand{\LettrineFontHook}{\usefont{U}{Zallman}{xl}{n}}
@@ -85,7 +85,7 @@ frametitleaboveskip=\dimexpr-\ht\strutbox\relax
 	\begin{center}
 		\begin{tabular}{p{7cm}p{5cm}}
 			\textbf{\large \color{red} Gordon Wiegand} & \textbf{\large \color{red}  Linda Wiegand}\\
-			\textbf{\large \color{red}\it Texte} & \textbf{\large \color{red}\it Illustrationen}\\
+			\textbf{\large \color{red}\itshape Texte} & \textbf{\large \color{red}\itshape Illustrationen}\\
 		\end{tabular}
 
 	\end{center}

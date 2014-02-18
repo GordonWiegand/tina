@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.17)  17 FEB 2014 16:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.17)  18 FEB 2014 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -249,37 +249,6 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count91
-)
-\etb@tempcnta=\count92
-)
-\csq@reset=\count93
-\csq@gtype=\count94
-\csq@glevel=\count95
-\csq@qlevel=\count96
-\csq@maxlvl=\count97
-\csq@tshold=\count98
-\csq@ltx@everypar=\toks17
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2011/10/22 v5.1d csquotes generic definitions
-)
-Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
-Package csquotes Info: ... configuration file loaded successfully.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.cfg
-File: csquotes.cfg 
-)
-Package csquotes Info: Redefining alias 'german' -> 'german/swiss'.
-)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
@@ -297,12 +266,12 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count99
+\Gread@gobject=\count91
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks18
-\inpenc@posthook=\toks19
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
@@ -591,6 +560,37 @@ File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2011/10/22 v5.1d context-sensitive quotations
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count92
+)
+\etb@tempcnta=\count93
+)
+\csq@reset=\count94
+\csq@gtype=\count95
+\csq@glevel=\count96
+\csq@qlevel=\count97
+\csq@maxlvl=\count98
+\csq@tshold=\count99
+\csq@ltx@everypar=\toks19
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2011/10/22 v5.1d csquotes generic definitions
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Redefining alias 'german' -> 'german/swiss'.
+)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2013/03/14 v1.64 (Daniel Flipo)
 \c@DefaultLines=\count100
@@ -1343,13 +1343,11 @@ LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 (/usr/local/texlive/2013/texmf-dist/tex/latex/initials/Typocaps.fd
 File: Typocaps.fd 2003/04/02 Font definition file for U/Typocaps
 )
-
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 76.
-
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
+
 (./binder.aux)
 \openout1 = `binder.aux'.
 
@@ -1507,44 +1505,19 @@ ailable
  line 87.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 87.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 88.
-
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/it' in size <14.4> not a
+vailable
+(Font)              Font shape `T1/Quattrocento-TLF/b/it' tried instead on inpu
+t line 88.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/it' will be
 (Font)              scaled to size 14.4pt on input line 88.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 88.
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 88.
-
 
 Overfull \hbox (49.60744pt too wide) in paragraph at lines 86--90
  [] 
  []
 
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 94.
 [1
 
 
@@ -1600,38 +1573,12 @@ vailable
  line 1.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/it' in size <24.88> not 
+available
+(Font)              Font shape `T1/Quattrocento-TLF/b/it' tried instead on inpu
+t line 1.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/it' will be
 (Font)              scaled to size 24.88pt on input line 1.
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 24.88pt on input line 1.
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
 
 
 LaTeX Font Warning: Font shape `T1/Quattrocento-TLF/m/sc' undefined
@@ -1648,36 +1595,8 @@ Package microtype Info: Character `029' is missing
 ]) (./clown.tex [4] [5] [6
 
 
-]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-[7] <bilder/clown.pdf, id=36, 845.1575pt x 597.23125pt>
+] [7]
+<bilder/clown.pdf, id=36, 845.1575pt x 597.23125pt>
 File: bilder/clown.pdf Graphic file (type pdf)
  <use bilder/clown.pdf>
 Package pdftex.def Info: bilder/clown.pdf used on input line 18.
@@ -1687,101 +1606,22 @@ Package pdftex.def Info: bilder/clown.pdf used on input line 18.
 
 
 ]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/it' in size <10.95> not 
+available
+(Font)              Font shape `T1/Quattrocento-TLF/b/it' tried instead on inpu
+t line 1.
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/it' will be
 (Font)              scaled to size 10.95pt on input line 1.
-[13] <bilder/pinarella.pdf, id=64, 416.51729pt x 418.47403pt>
+ [13]
+<bilder/pinarella.pdf, id=64, 416.51729pt x 418.47403pt>
 File: bilder/pinarella.pdf Graphic file (type pdf)
 
 <use bilder/pinarella.pdf>
 Package pdftex.def Info: bilder/pinarella.pdf used on input line 14.
 (pdftex.def)             Requested size: 315.82562pt x 317.31561pt.
- [14] [15 <./bilder/pinarella.pdf>] [16]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 39.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 41.
-
-[17]) (./schneekoenigin.tex [18]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-<bilder/schneekoenigin.pdf, id=88, 845.1575pt x 597.23125pt>
+ [14] [15 <./bilder/pinarella.pdf>] [16] [17])
+(./schneekoenigin.tex [18]
+<bilder/schneekoenigin.pdf, id=89, 845.1575pt x 597.23125pt>
 File: bilder/schneekoenigin.pdf Graphic file (type pdf)
 
 <use bilder/schneekoenigin.pdf>
@@ -1790,55 +1630,15 @@ Package pdftex.def Info: bilder/schneekoenigin.pdf used on input line 12.
  [19
 
 
-] [20 <./bilder/schneekoenigin.pdf>]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 23.
-
-) (./delphine.tex [21] [22]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
+] [20 <./bilder/schneekoenigin.pdf>])
+(./delphine.tex [21] [22] [23
 
 
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-[23
-
-
-] [24] [25] [26] [27] [28] [29] [30] [31]
-<bilder/oma1.pdf, id=139, 845.1575pt x 597.23125pt>
+]
+LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 22.
+ [24] [25] [26] [27] [28] [29] [30] [31]
+<bilder/oma1.pdf, id=140, 845.1575pt x 597.23125pt>
 File: bilder/oma1.pdf Graphic file (type pdf)
  <use bilder/oma1.pdf>
 Package pdftex.def Info: bilder/oma1.pdf used on input line 97.
@@ -1850,57 +1650,13 @@ Underfull \hbox (badness 1590) in paragraph at lines 114--115
 ast du das
  []
 
-[33] [34]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 134.
-
-[35] [36] [37] [38] [39]) (./maus.tex [40]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
+[33] [34] [35] [36] [37] [38] [39]) (./maus.tex [40] [41
 
 
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-[41
-
-
-] <bilder/maus_2.jpg, id=172, 437.9562pt x 596.7093pt>
+]
+<bilder/maus_2.jpg, id=173, 437.9562pt x 596.7093pt>
 File: bilder/maus_2.jpg Graphic file (type jpg)
-
-<use bilder/maus_2.jpg>
+ <use bilder/maus_2.jpg>
 Package pdftex.def Info: bilder/maus_2.jpg used on input line 15.
 (pdftex.def)             Requested size: 157.91281pt x 215.15207pt.
 
@@ -1941,41 +1697,16 @@ Underfull \hbox (badness 2644) in paragraph at lines 20--21
  []
 
 [43 <./bilder/maus_2.jpg>] [44] [45] [46]
-<bilder/maus_1.pdf, id=190, 597.23125pt x 845.1575pt>
+<bilder/maus_1.pdf, id=191, 597.23125pt x 845.1575pt>
 File: bilder/maus_1.pdf Graphic file (type pdf)
  <use bilder/maus_1.pdf>
 Package pdftex.def Info: bilder/maus_1.pdf used on input line 65.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-[47] [48]) (./gespenst.tex [49] [50 <./bilder/maus_1.pdf>]
 
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
+[47] [48 <./bilder/maus_1.pdf>] [49]) (./gespenst.tex [50]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
 vailable
@@ -1983,10 +1714,11 @@ vailable
  line 9.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 9.
-[51
+ [51
 
 
-] <bilder/gespenst1.pdf, id=208, 511.36615pt x 598.99376pt>
+]
+<bilder/gespenst1.pdf, id=209, 511.36615pt x 598.99376pt>
 File: bilder/gespenst1.pdf Graphic file (type pdf)
 
 <use bilder/gespenst1.pdf>
@@ -2001,103 +1733,11 @@ Package mdframed Info: mdframed works in twoside mode on input line 31.
 Package mdframed Info: mdframed works in twoside mode on input line 69.
  [58] [59] [60]
 Package mdframed Info: mdframed works in twoside mode on input line 100.
- [61]) (./pirat.tex [62]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <24.88> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 4.
-[63
+ [61]) (./pirat.tex [62] [63
 
 
 ] [64] [65] [66] [67]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 73.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 73.
-
-[68] [69] [70] [71]) (./adler.tex [72]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-[73
+[68] [69] [70] [71]) (./adler.tex [72] [73
 
 
 ]
@@ -2106,7 +1746,7 @@ Overfull \hbox (0.17935pt too wide) in paragraph at lines 11--12
 tte. Eigentlich war
  []
 
-<bilder/adler.pdf, id=288, 355.78352pt x 199.09592pt>
+<bilder/adler.pdf, id=289, 355.78352pt x 199.09592pt>
 File: bilder/adler.pdf Graphic file (type pdf)
  <use bilder/adler.pdf>
 Package pdftex.def Info: bilder/adler.pdf used on input line 17.
@@ -2118,262 +1758,72 @@ Underfull \vbox (badness 1622) has occurred while \output is active []
  [75 <./bilder/adler.pdf>] [76]) (./menschen.tex [77] [78
 
 
-]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
+] [79] [80] [81] [82] [83]
+[84]) (./onta.tex [85] [86] [87
 
 
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-[79] [80] [81] [82] [83] [84]) (./onta.tex [85] [86]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
+] [88] [89]) (./kerzers.tex [90] [91
 
 
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-[87
+] [92]
+[93] [94] [95] [96] [97] [98]) (./henna.tex [99] [100
 
 
-] [88] [89]) (./kerzers.tex [90]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-[91
-
-
-] [92] [93] [94] <bilder/kerzers.pdf, id=366, 474.50864pt x 353.52817pt>
-File: bilder/kerzers.pdf Graphic file (type pdf)
-
-<use bilder/kerzers.pdf>
-Package pdftex.def Info: bilder/kerzers.pdf used on input line 71.
-(pdftex.def)             Requested size: 221.07697pt x 164.71255pt.
- [95] [96] [97] [98]) (./henna.tex [99] [100 <./bilder/kerzers.pdf>]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-[101
-
-
-] [102] [103] [104]
-<bilder/prinzessin.pdf, id=407, 597.23125pt x 845.1575pt>
+] [101] [102] [103]
+[104] <bilder/prinzessin.pdf, id=399, 597.23125pt x 845.1575pt>
 File: bilder/prinzessin.pdf Graphic file (type pdf)
 
 <use bilder/prinzessin.pdf>
 Package pdftex.def Info: bilder/prinzessin.pdf used on input line 35.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
  [105 <./bilder/prinzessin.pdf>] [106] [107])
-(./karl.tex [108]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
+(./karl.tex [108] [109
 
 
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 1.
-
-[109
-
-
-] [110]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 35.
-
-[111]) [112]
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 120.
-
-
-Class scrbook Warning: Usage of deprecated font command `\it'!
-(scrbook)              You should note, that in 1994 font command `\it' has
-(scrbook)              been defined for compatiblitiy to Script 2.0 only.
-(scrbook)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrbook)              shouldn't use such commands any longer and within
-(scrbook)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrbook)              See `fntguide.pdf' for more information about
-(scrbook)              recommended font commands.
-(scrbook)              Note also, that KOMA-Script will remove the definition
-(scrbook)              of `\it' anytime until release of about version 3.20.
-(scrbook)              But for now, KOMA-Script will replace deprecated `\it'
-(scrbook)              by `\normalfont \itshape ' on input line 120.
-
+] [110] [111]) [112]
 Package tocbasic Info: character protrusion at toc deactivated on input line 12
 0.
-(./binder.toc)
+ (./binder.toc)
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
  [113
 
 
-] [114] (./binder.aux)
+] [114]
+(./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23592 strings out of 493308
- 449889 string characters out of 6137816
- 555730 words of memory out of 5000000
- 26287 multiletter control sequences out of 15000+600000
- 181739 words of font info for 213 fonts, out of 8000000 for 9000
+ 23536 strings out of 493308
+ 448554 string characters out of 6137816
+ 555760 words of memory out of 5000000
+ 26250 multiletter control sequences out of 15000+600000
+ 177036 words of font info for 188 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  65i,11n,71p,10441b,716s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_tevtm
 b.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
-lic/skull/skull.1244pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quat
-trocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/impa
-llari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist/fo
-nts/type1/impallari/quattrocento/QuattrocentoItalic.pfb></usr/local/texlive/201
-3/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoRegular.pfb></usr/l
-ocal/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSan
-s-Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocen
-to/QuattrocentoSans.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
-initials/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/in
-itials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier
-/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcurs
-ive/frcr14.pfb>
-Output written on binder.pdf (114 pages, 7770388 bytes).
+lic/skull/skull.600pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quatt
+rocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/impal
+lari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2013/texmf-dist/fon
+ts/type1/impallari/quattrocento/Quattrocento-BoldItalic.pfb></usr/local/texlive
+/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento
+Regular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattroce
+nto/QuattrocentoSans-Bold.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/i
+mpallari/quattrocento/QuattrocentoSans.pfb></usr/local/texlive/2013/texmf-dist/
+fonts/type1/public/initials/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/fo
+nts/type1/public/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
+ype1/public/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/
+type1/public/frcursive/frcr14.pfb>
+Output written on binder.pdf (114 pages, 7330237 bytes).
 PDF statistics:
- 485 PDF objects out of 1000 (max. 8388607)
- 328 compressed objects within 4 object streams
+ 480 PDF objects out of 1000 (max. 8388607)
+ 325 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 34884 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 26175 words of extra memory for PDF output out of 29859 (max. 10000000)
 
