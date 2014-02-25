@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.17)  18 FEB 2014 15:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.17)  25 FEB 2014 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1340,9 +1340,38 @@ Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
 LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 (Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/archaic/hieroglf.sty
+Package: hieroglf 2000/09/23 v1.2 package for poor mans hieroglyphs
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/archaic/oands.sty
+Package: oands 2000/08/19 v1.0 package for OandS fonts
+)
+\c@rthm=\skip133
+\c@rtbox=\box61
+\c@rtht=\dimen261
+)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/initials/Typocaps.fd
 File: Typocaps.fd 2003/04/02 Font definition file for U/Typocaps
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip134
+\LTright=\skip135
+\LTpre=\skip136
+\LTpost=\skip137
+\LTchunksize=\count178
+\LTcapwidth=\dimen262
+\LT@head=\box62
+\LT@firsthead=\box63
+\LT@foot=\box64
+\LT@lastfoot=\box65
+\LT@cols=\count179
+\LT@rows=\count180
+\c@LT@tables=\count181
+\c@LT@chunks=\count182
+\LT@p@ftn=\toks31
+)
+Class scrbook Info: longtable captions redefined on input line 80.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1351,26 +1380,26 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 (./binder.aux)
 \openout1 = `binder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 80.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    ... okay on input line 80.
 LaTeX Font Info:    Try loading font information for T1+Quattrocento-TLF on inp
-ut line 76.
+ut line 80.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/quattrocento/T1Quattrocento-TLF.f
 d
@@ -1378,22 +1407,22 @@ File: T1Quattrocento-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Quatt
 rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 76.
-\c@mv@tabular=\count178
-\c@mv@boldtabular=\count179
+(Font)              scaled to size 12.0pt on input line 80.
+\c@mv@tabular=\count183
+\c@mv@boldtabular=\count184
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count180
-\scratchdimen=\dimen261
-\scratchbox=\box61
-\nofMPsegments=\count181
-\nofMParguments=\count182
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count183
-\MPscratchDim=\dimen262
-\MPnumerator=\count184
-\makeMPintoPDFobject=\count185
-\everyMPtoPDFconversion=\toks32
+\scratchcounter=\count185
+\scratchdimen=\dimen263
+\scratchbox=\box66
+\nofMPsegments=\count186
+\nofMParguments=\count187
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count188
+\MPscratchDim=\dimen264
+\MPnumerator=\count189
+\makeMPintoPDFobject=\count190
+\everyMPtoPDFconversion=\toks33
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1409,10 +1438,10 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box62
+\AtBeginShipoutBox=\box67
 
 ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 76.
+LaTeX Info: Redefining \microtypecontext on input line 80.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1426,7 +1455,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `Quattrocento-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for T1+frc on input line 81.
+LaTeX Font Info:    Try loading font information for T1+frc on input line 85.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/frcursive/t1frc.fd
 File: t1frc.fd 2004/06/12 French Cursive font definition
@@ -1483,12 +1512,12 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 86.
+(Font)              <12> on input line 90.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 86.
+(Font)              <8> on input line 90.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 86.
-LaTeX Font Info:    Try loading font information for U+wasy on input line 86.
+(Font)              <6> on input line 90.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 90.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
@@ -1496,28 +1525,28 @@ File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <12> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 87.
+ line 91.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 87.
+(Font)              scaled to size 12.0pt on input line 91.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <14.4> not av
 ailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
- line 87.
+ line 91.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 87.
+(Font)              scaled to size 14.4pt on input line 91.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/it' in size <14.4> not a
 vailable
 (Font)              Font shape `T1/Quattrocento-TLF/b/it' tried instead on inpu
-t line 88.
+t line 92.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/it' will be
-(Font)              scaled to size 14.4pt on input line 88.
+(Font)              scaled to size 14.4pt on input line 92.
 
-Overfull \hbox (49.60744pt too wide) in paragraph at lines 86--90
+Overfull \hbox (49.60744pt too wide) in paragraph at lines 90--94
  [] 
  []
 
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 94.
+(Font)              scaled to size 14.4pt on input line 98.
 [1
 
 
@@ -1526,10 +1555,10 @@ LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 <bilder/titel.jpg, id=13, 601.2864pt x 840.2592pt>
 File: bilder/titel.jpg Graphic file (type jpg)
  <use bilder/titel.jpg>
-Package pdftex.def Info: bilder/titel.jpg used on input line 101.
+Package pdftex.def Info: bilder/titel.jpg used on input line 105.
 (pdftex.def)             Requested size: 315.82562pt x 441.34784pt.
 
-(./stift.tex
+(./schlange.tex
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/m/it' tried instead on inpu
@@ -1539,8 +1568,7 @@ LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
 LaTeX Font Info:    Try loading font information for U+futs on input line 1.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/ufuts.fd
 File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
-)
-[2 <./bilder/titel.jpg>]
+) [2 <./bilder/titel.jpg>]
 LaTeX Font Info:    Try loading font information for T1+QuattrocentoSans-TLF on
  input line 1.
 
@@ -1579,7 +1607,28 @@ available
 t line 1.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/it' will be
 (Font)              scaled to size 24.88pt on input line 1.
+LaTeX Font Info:    Try loading font information for OT1+pmhg on input line 11.
 
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/archaic/ot1pmhg.fd
+File: ot1pmhg.fd 2000/08/19 v1.0 PM Hieroglyphic font definitions
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `pmhg' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+Package microtype Warning: Font `OT1/pmhg/m/n/12' does not specify its
+(microtype)                \fontdimen 6 (width of an `em')! Therefore,
+(microtype)                protrusion will not work with this font.
+
+) (./stift.tex [3
+
+
+] [4
+
+
+]
 
 LaTeX Font Warning: Font shape `T1/Quattrocento-TLF/m/sc' undefined
 (Font)              using `T1/Quattrocento-TLF/m/n' instead on input line 3.
@@ -1589,20 +1638,17 @@ LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/sc' will be
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/Quattrocento-TLF/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-[3
+[5]) (./clown.tex [6] [7] [8
 
 
-]) (./clown.tex [4] [5] [6
-
-
-] [7]
-<bilder/clown.pdf, id=36, 845.1575pt x 597.23125pt>
+] [9]
+<bilder/clown.pdf, id=43, 845.1575pt x 597.23125pt>
 File: bilder/clown.pdf Graphic file (type pdf)
  <use bilder/clown.pdf>
 Package pdftex.def Info: bilder/clown.pdf used on input line 18.
 (pdftex.def)             Requested size: 315.82562pt x 223.17744pt.
 
-[8] [9 <./bilder/clown.pdf>] [10]) (./pinarella.tex [11] [12
+[10] [11 <./bilder/clown.pdf>] [12]) (./pinarella.tex [13] [14
 
 
 ]
@@ -1612,49 +1658,49 @@ available
 t line 1.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/it' will be
 (Font)              scaled to size 10.95pt on input line 1.
- [13]
-<bilder/pinarella.pdf, id=64, 416.51729pt x 418.47403pt>
+ [15]
+<bilder/pinarella.pdf, id=71, 416.51729pt x 418.47403pt>
 File: bilder/pinarella.pdf Graphic file (type pdf)
 
 <use bilder/pinarella.pdf>
 Package pdftex.def Info: bilder/pinarella.pdf used on input line 14.
 (pdftex.def)             Requested size: 315.82562pt x 317.31561pt.
- [14] [15 <./bilder/pinarella.pdf>] [16] [17])
-(./schneekoenigin.tex [18]
-<bilder/schneekoenigin.pdf, id=89, 845.1575pt x 597.23125pt>
+ [16] [17 <./bilder/pinarella.pdf>] [18] [19])
+(./schneekoenigin.tex [20]
+<bilder/schneekoenigin.pdf, id=97, 845.1575pt x 597.23125pt>
 File: bilder/schneekoenigin.pdf Graphic file (type pdf)
 
 <use bilder/schneekoenigin.pdf>
 Package pdftex.def Info: bilder/schneekoenigin.pdf used on input line 12.
 (pdftex.def)             Requested size: 315.82562pt x 223.17744pt.
- [19
+ [21
 
 
-] [20 <./bilder/schneekoenigin.pdf>])
-(./delphine.tex [21] [22] [23
+] [22 <./bilder/schneekoenigin.pdf>])
+(./delphine.tex [23] [24] [25
 
 
 ]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 22.
- [24] [25] [26] [27] [28] [29] [30] [31]
-<bilder/oma1.pdf, id=140, 845.1575pt x 597.23125pt>
+ [26] [27] [28] [29] [30] [31] [32] [33]
+<bilder/oma1.pdf, id=147, 845.1575pt x 597.23125pt>
 File: bilder/oma1.pdf Graphic file (type pdf)
  <use bilder/oma1.pdf>
 Package pdftex.def Info: bilder/oma1.pdf used on input line 97.
 (pdftex.def)             Requested size: 221.07697pt x 156.22421pt.
 
-[32 <./bilder/oma1.pdf, page is rotated 90 degrees>]
+[34 <./bilder/oma1.pdf, page is rotated 90 degrees>]
 Underfull \hbox (badness 1590) in paragraph at lines 114--115
 []\T1/Quattrocento-TLF/m/sc/12 (+20) ^^S  Maaaaa-maaaa, Maaaaaaaaa-maaaaa! Wo h
 ast du das
  []
 
-[33] [34] [35] [36] [37] [38] [39]) (./maus.tex [40] [41
+[35] [36] [37] [38] [39] [40] [41]) (./maus.tex [42] [43
 
 
 ]
-<bilder/maus_2.jpg, id=173, 437.9562pt x 596.7093pt>
+<bilder/maus_2.jpg, id=182, 437.9562pt x 596.7093pt>
 File: bilder/maus_2.jpg Graphic file (type jpg)
  <use bilder/maus_2.jpg>
 Package pdftex.def Info: bilder/maus_2.jpg used on input line 15.
@@ -1669,8 +1715,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-[42]
-floatflt Message: Flt. fig. 1 set on page 43, shifted 1 par(s) forward.
+[44]
+floatflt Message: Flt. fig. 1 set on page 45, shifted 1 par(s) forward.
 
 Underfull \hbox (badness 1048) in paragraph at lines 20--21
 []|\T1/Quattrocento-TLF/m/sc/12 (+20) Die Maus wuss-te zu-
@@ -1696,8 +1742,8 @@ Underfull \hbox (badness 2644) in paragraph at lines 20--21
 \T1/Quattrocento-TLF/m/sc/12 (+20) kann? Aber dann kam
  []
 
-[43 <./bilder/maus_2.jpg>] [44] [45] [46]
-<bilder/maus_1.pdf, id=191, 597.23125pt x 845.1575pt>
+[45 <./bilder/maus_2.jpg>] [46] [47] [48]
+<bilder/maus_1.pdf, id=198, 597.23125pt x 845.1575pt>
 File: bilder/maus_1.pdf Graphic file (type pdf)
  <use bilder/maus_1.pdf>
 Package pdftex.def Info: bilder/maus_1.pdf used on input line 65.
@@ -1706,7 +1752,7 @@ Package pdftex.def Info: bilder/maus_1.pdf used on input line 65.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[47] [48 <./bilder/maus_1.pdf>] [49]) (./gespenst.tex [50]
+[49] [50 <./bilder/maus_1.pdf>] [51]) (./gespenst.tex [52]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <10.95> not a
 vailable
@@ -1714,30 +1760,30 @@ vailable
  line 9.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 9.
- [51
+ [53
 
 
 ]
-<bilder/gespenst1.pdf, id=209, 511.36615pt x 598.99376pt>
+<bilder/gespenst1.pdf, id=216, 511.36615pt x 598.99376pt>
 File: bilder/gespenst1.pdf Graphic file (type pdf)
 
 <use bilder/gespenst1.pdf>
 Package pdftex.def Info: bilder/gespenst1.pdf used on input line 17.
 (pdftex.def)             Requested size: 221.07697pt x 258.9607pt.
- [52 <./bilder/gespenst1.pdf>]
+ [54 <./bilder/gespenst1.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 22.
- [53]
+ [55]
 Package mdframed Info: mdframed works in twoside mode on input line 31.
- [54] [55]
-[56] [57]
+ [56] [57]
+[58] [59]
 Package mdframed Info: mdframed works in twoside mode on input line 69.
- [58] [59] [60]
+ [60] [61] [62]
 Package mdframed Info: mdframed works in twoside mode on input line 100.
- [61]) (./pirat.tex [62] [63
+ [63]) (./pirat.tex [64] [65
 
 
-] [64] [65] [66] [67]
-[68] [69] [70] [71]) (./adler.tex [72] [73
+] [66] [67] [68] [69]
+[70] [71] [72] [73]) (./adler.tex [74] [75
 
 
 ]
@@ -1746,62 +1792,62 @@ Overfull \hbox (0.17935pt too wide) in paragraph at lines 11--12
 tte. Eigentlich war
  []
 
-<bilder/adler.pdf, id=289, 355.78352pt x 199.09592pt>
+<bilder/adler.pdf, id=296, 355.78352pt x 199.09592pt>
 File: bilder/adler.pdf Graphic file (type pdf)
  <use bilder/adler.pdf>
 Package pdftex.def Info: bilder/adler.pdf used on input line 17.
 (pdftex.def)             Requested size: 221.07697pt x 123.71463pt.
 
-[74]
+[76]
 Underfull \vbox (badness 1622) has occurred while \output is active []
 
- [75 <./bilder/adler.pdf>] [76]) (./menschen.tex [77] [78
+ [77 <./bilder/adler.pdf>] [78]) (./menschen.tex [79] [80
 
 
-] [79] [80] [81] [82] [83]
-[84]) (./onta.tex [85] [86] [87
+] [81] [82] [83] [84] [85]
+[86]) (./onta.tex [87] [88] [89
 
 
-] [88] [89]) (./kerzers.tex [90] [91
+] [90] [91]) (./kerzers.tex [92] [93
 
 
-] [92]
-[93] [94] [95] [96] [97] [98]) (./henna.tex [99] [100
+] [94]
+[95] [96] [97] [98] [99] [100]) (./henna.tex [101] [102
 
 
-] [101] [102] [103]
-[104] <bilder/prinzessin.pdf, id=399, 597.23125pt x 845.1575pt>
+] [103] [104] [105]
+[106] <bilder/prinzessin.pdf, id=406, 597.23125pt x 845.1575pt>
 File: bilder/prinzessin.pdf Graphic file (type pdf)
 
 <use bilder/prinzessin.pdf>
 Package pdftex.def Info: bilder/prinzessin.pdf used on input line 35.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
- [105 <./bilder/prinzessin.pdf>] [106] [107])
-(./karl.tex [108] [109
+ [107 <./bilder/prinzessin.pdf>] [108] [109])
+(./karl.tex [110] [111
 
 
-] [110] [111]) [112]
+] [112] [113]) [114]
 Package tocbasic Info: character protrusion at toc deactivated on input line 12
-0.
- (./binder.toc)
+5.
+ (./binder.toc [115
+
+
+])
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [113
-
-
-] [114]
+ [116]
 (./binder.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23536 strings out of 493308
- 448554 string characters out of 6137816
- 555760 words of memory out of 5000000
- 26250 multiletter control sequences out of 15000+600000
- 177036 words of font info for 188 fonts, out of 8000000 for 9000
+ 23873 strings out of 493308
+ 451742 string characters out of 6137816
+ 559212 words of memory out of 5000000
+ 26569 multiletter control sequences out of 15000+600000
+ 177255 words of font info for 189 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  65i,11n,71p,10441b,716s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_tevtm
@@ -1819,11 +1865,12 @@ fonts/type1/public/initials/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/fo
 nts/type1/public/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
 ype1/public/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/
-type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (114 pages, 7330237 bytes).
+type1/public/frcursive/frcr14.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
+e1/public/archaic/pmhg.pfb>
+Output written on binder.pdf (116 pages, 7339753 bytes).
 PDF statistics:
- 480 PDF objects out of 1000 (max. 8388607)
- 325 compressed objects within 4 object streams
+ 491 PDF objects out of 1000 (max. 8388607)
+ 333 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  26175 words of extra memory for PDF output out of 29859 (max. 10000000)
 

@@ -1,15 +1,16 @@
 \select@language {ngerman}
-\contentsline {chapter}{L\IeC {\"o}wenalarm}{3}
-\contentsline {chapter}{Der grosse Clown kann fliegen}{7}
-\contentsline {chapter}{Flieg, Pinarella!}{13}
-\contentsline {chapter}{Milch und Eis}{19}
-\contentsline {chapter}{Nina und die rosa Delphine}{23}
-\contentsline {chapter}{Die Maus mit den drei Federn}{41}
-\contentsline {chapter}{Das Gespenst Jonathan}{51}
-\contentsline {chapter}{Die Papageieninsel}{63}
-\contentsline {chapter}{Der weisse Adler}{73}
-\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{79}
-\contentsline {chapter}{Das schwarze Licht}{87}
-\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{91}
-\contentsline {chapter}{Meine Freundin Henna}{101}
-\contentsline {chapter}{Aus dem Leben des Karl Rebosam}{109}
+\contentsline {chapter}{Die Papageieninsel}{3}
+\contentsline {chapter}{L\IeC {\"o}wenalarm}{5}
+\contentsline {chapter}{Der grosse Clown kann fliegen}{9}
+\contentsline {chapter}{Flieg, Pinarella!}{15}
+\contentsline {chapter}{Milch und Eis}{21}
+\contentsline {chapter}{Nina und die rosa Delphine}{25}
+\contentsline {chapter}{Die Maus mit den drei Federn}{43}
+\contentsline {chapter}{Das Gespenst Jonathan}{53}
+\contentsline {chapter}{Die Papageieninsel}{65}
+\contentsline {chapter}{Der weisse Adler}{75}
+\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{81}
+\contentsline {chapter}{Das schwarze Licht}{89}
+\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{93}
+\contentsline {chapter}{Meine Freundin Henna}{103}
+\contentsline {chapter}{Aus dem Leben des Karl Rebosam}{111}

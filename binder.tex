@@ -69,9 +69,13 @@ frametitleaboveskip=\dimexpr-\ht\strutbox\relax
 \usepackage{skull}            
 %Noten
 \usepackage{wasysym}            
+%Vogel und Schlange aus Hyroglyphen
+\usepackage{hieroglf}            
 %Initialen Titelseite (Pseudologo "W")
 \input Typocaps.fd
 \def\FontI{\color{red}\fontsize{20pt}{0mm}\usefont{U}{Typocaps}{xl}{n}}
+%Für Kapitel Schlange werden Longtables benötigt
+\usepackage{longtable}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %titelseite
@@ -101,6 +105,7 @@ frametitleaboveskip=\dimexpr-\ht\strutbox\relax
 \includegraphics[width=\textwidth]{bilder/titel.jpg}
 \end{figure}
 %Kapitel einfügen
+\input{schlange}
 \input{stift}
 \input{clown}
 \input{pinarella}
