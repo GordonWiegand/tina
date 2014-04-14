@@ -1,33 +1,34 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.2.17)  7 APR 2014 10:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.11)  14 APR 2014 22:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **binder
 (./binder.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrartcl.cls
-Document Class: scrartcl 2013/12/19 v3.12 KOMA-Script document class (article)
+Document Class: scrartcl 2012/07/29 v3.11b KOMA-Script document class (article)
+
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-dependent b
-asics and keyval usage)
+Package: scrkbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2013/12/19 v3.12 KOMA-Script package (KOMA-Script-independent 
-basics and keyval usage)
+Package: scrbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2013/12/19 v3.12 KOMA-Script package (loading files)
+Package: scrlfile 2012/06/15 v3.12 KOMA-Script package (loading files)
 
-Package scrlfile, 2013/12/19 v3.12 KOMA-Script package (loading files)
+Package scrlfile, 2012/06/15 v3.12 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
 ))) (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2013/12/19 v3.12 KOMA-Script package (handling toc-files)
+Package: tocbasic 2012/04/04 v3.10b KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
@@ -38,40 +39,30 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 117.
-
-
-Package scrartcl Warning: You've used obsolete option `13pt'.
-(scrartcl)                Usage of this option indicates an old document and
-(scrartcl)                is deprecated.
-(scrartcl)                You should simply replace
-(scrartcl)                usage of option `13pt' by `fontsize=13pt'.
-
-Class scrartcl Info: Switching compatibility level to `first'.
+Package scrartcl Info: You've used obsolete option `13pt'.
+(scrartcl)             \KOMAExecuteOptions{fontsize=13pt} will be
+(scrartcl)             used instead.
+(scrartcl)             You may simply replace `13pt'
+(scrartcl)             by `fontsize=13pt'.
 Class scrartcl Info: You've used standard option `oneside'.
 (scrartcl)           This is correct!
 (scrartcl)           Internally I'm using `twoside=false'.
 (scrartcl)           If you'd like to set the option with \KOMAoptions,
 (scrartcl)           you'd have to use `twoside=false' there
 (scrartcl)           instead of `oneside', too.
-Package scrbase Info: Unknown processing state.
-(scrbase)             Processing option `twoside=false'
-(scrbase)             of member `.scrartcl.cls'
-(scrbase)             of family `KOMA'
-(scrbase)             doesn't set a valid state.
-(scrbase)             This will be interpreted
-(scrbase)             as \FamilyKeyStateProcessed on input line 1150.
+
 
 Class scrartcl Warning: Using fallback calculation to setup font sizes
-(scrartcl)              for basic size `13pt' on input line 1531.
+(scrartcl)              for basic size `13pt' on input line 1267.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 1531.
+(Font)              size <12> substituted on input line 1267.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2013/12/19 v3.12 KOMA-Script package (type area)
+Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
 
-Package typearea, 2013/12/19 v3.12 KOMA-Script package (type area)
+Package typearea, 2012/07/29 v3.11b KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -92,7 +83,6 @@ Package typearea Info: You've used standard option `oneside'.
 \ta@hblk=\skip42
 \ta@vblk=\skip43
 \ta@temp=\skip44
-\footheight=\skip45
 
 Package typearea Warning: DIV for 13.0pt and used papersize
 (typearea)                not defined!
@@ -113,9 +103,9 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \headheight     = 19.49994pt
 (typearea)              \headsep        = 23.39993pt
 (typearea)              \topskip        = 13.0pt
-(typearea)              \footskip       = 54.59984pt
+(typearea)              \footskip       = 54.59985pt
 (typearea)              \baselineskip   = 15.59996pt
-(typearea)              on input line 1330.
+(typearea)              on input line 1213.
 )
 \c@part=\count80
 \c@section=\count81
@@ -123,26 +113,25 @@ Package typearea Info: These are the values describing the layout:
 \c@subsubsection=\count83
 \c@paragraph=\count84
 \c@subparagraph=\count85
-\abovecaptionskip=\skip46
-\belowcaptionskip=\skip47
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
 \c@pti@nb@sid@b@x=\box26
 \c@figure=\count86
 \c@table=\count87
 \bibindent=\dimen102
 ) (/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2013/12/03 3.9h The Babel package
+Package: babel 2013/05/16 v3.9f The Babel package
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2013/12/03 3.9h Babel common definitions
+File: babel.def 2013/05/16 v3.9f Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
 \l@naustrian = a dialect from \language\l@ngerman 
-\l@nswissgerman = a dialect from \language\l@ngerman 
-Package babel Info: Making " an active character on input line 88.
+Package babel Info: Making " an active character on input line 92.
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/quattrocento/quattrocento.sty
 Package: quattrocento 2012/11/24 (Bob Tennent) Supports Quattrocento(Sans) font
@@ -633,8 +622,8 @@ Loading lettrine.cfg
 Package: fourier-orns 2004/01/30 1.1 fourier-ornaments package
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/koma-script/scrpage2.sty
-Package: scrpage2 2013/12/19 v3.12 KOMA-Script package (page head and foot)
-LaTeX Info: Redefining \pagemark on input line 174.
+Package: scrpage2 2010/04/22 v2.5 LaTeX2e KOMA-Script package
+LaTeX Info: Redefining \pagemark on input line 176.
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/initials/Zallman.fd
 File: Zallman.fd 2003/04/02 Font definition file for U/Zallman
@@ -676,23 +665,23 @@ Package etexcmds Info: Could not find \expanded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/expl3.sty
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3names.sty
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
-Package: l3bootstrap 2014/01/04 v4640 L3 Experimental bootstrap code
+Package: l3bootstrap 2013/07/28 v4581 L3 Experimental bootstrap code
 )
-Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
+Package: l3names 2012/12/07 v4346 L3 Namespace for primitives
 )
-Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
+Package: expl3 2013/10/08 v4594 L3 Experimental code bundle wrapper
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3basics.sty
-Package: l3basics 2014/01/04 v4642 L3 Basic definitions
+Package: l3basics 2013/07/28 v4581 L3 Basic definitions
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3expan.sty
-Package: l3expan 2014/01/04 v4642 L3 Argument expansion
+Package: l3expan 2013/08/17 v4584 L3 Argument expansion
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3tl.sty
-Package: l3tl 2013/12/27 v4625 L3 Token lists
+Package: l3tl 2013/09/16 v4592 L3 Token lists
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3seq.sty
-Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
+Package: l3seq 2013/07/28 v4581 L3 Sequences and stacks
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3int.sty
 Package: l3int 2013/08/02 v4583 L3 Integers
@@ -703,10 +692,10 @@ Package: l3int 2013/08/02 v4583 L3 Integers
 \g_tmpb_int=\count105
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3quark.sty
-Package: l3quark 2013/12/14 v4623 L3 Quarks
+Package: l3quark 2013/07/21 v4564 L3 Quarks
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prg.sty
-Package: l3prg 2014/01/04 v4642 L3 Control structures
+Package: l3prg 2013/08/25 v4587 L3 Control structures
 \g__prg_map_int=\count106
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3clist.sty
@@ -716,13 +705,13 @@ Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
 Package: l3token 2013/08/25 v4587 L3 Experimental token manipulation
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prop.sty
-Package: l3prop 2013/12/14 v4623 L3 Property lists
+Package: l3prop 2013/07/28 v4581 L3 Property lists
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3msg.sty
 Package: l3msg 2013/07/28 v4581 L3 Messages
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3file.sty
-Package: l3file 2013/10/13 v4596 L3 File and I/O operations
+Package: l3file 2013/08/29 v4591 L3 File and I/O operations
 \l_iow_line_count_int=\count107
 \l__iow_target_count_int=\count108
 \l__iow_current_line_int=\count109
@@ -737,12 +726,12 @@ Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
 \l_tmpb_dim=\dimen121
 \g_tmpa_dim=\dimen122
 \g_tmpb_dim=\dimen123
-\c_zero_skip=\skip48
-\c_max_skip=\skip49
-\l_tmpa_skip=\skip50
-\l_tmpb_skip=\skip51
-\g_tmpa_skip=\skip52
-\g_tmpb_skip=\skip53
+\c_zero_skip=\skip47
+\c_max_skip=\skip48
+\l_tmpa_skip=\skip49
+\l_tmpb_skip=\skip50
+\g_tmpa_skip=\skip51
+\g_tmpb_skip=\skip52
 \c_zero_muskip=\muskip10
 \c_max_muskip=\muskip11
 \l_tmpa_muskip=\muskip12
@@ -751,12 +740,12 @@ Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
 \g_tmpb_muskip=\muskip15
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3keys.sty
-Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
+Package: l3keys 2013/07/28 v4581 L3 Experimental key-value interfaces
 \g__keyval_level_int=\count112
 \l_keys_choice_int=\count113
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3fp.sty
-Package: l3fp 2014/01/04 v4642 L3 Floating points
+Package: l3fp 2013/07/09 v4521 L3 Floating points
 \c__fp_leading_shift_int=\count114
 \c__fp_middle_shift_int=\count115
 \c__fp_trailing_shift_int=\count116
@@ -776,7 +765,7 @@ Package: l3box 2013/07/28 v4581 L3 Experimental boxes
 \g_tmpb_box=\box33
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3coffins.sty
-Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
+Package: l3coffins 2012/09/09 v4212 L3 Coffin code layer
 \l__coffin_internal_box=\box34
 \l__coffin_internal_dim=\dimen124
 \l__coffin_offset_x_dim=\dimen125
@@ -806,7 +795,7 @@ Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
 \g__cctab_stack_int=\count124
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3candidates.sty
-Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
+Package: l3candidates 2013/07/24 v4576 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen134
 \l__box_bottom_dim=\dimen135
 \l__box_left_dim=\dimen136
@@ -828,7 +817,7 @@ Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 ))
-Package: xparse 2013/12/31 v4634 L3 Experimental document command parser
+Package: xparse 2013/10/08 v4594 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count125
 \l__xparse_m_args_int=\count126
 \l__xparse_mandatory_args_int=\count127
@@ -868,47 +857,47 @@ Package zref Info: New property: abspage on input line 62.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\mdf@templength=\skip54
+\mdf@templength=\skip53
 \c@mdf@globalstyle@cnt=\count131
-\mdf@skipabove@length=\skip55
-\mdf@skipbelow@length=\skip56
-\mdf@leftmargin@length=\skip57
-\mdf@rightmargin@length=\skip58
-\mdf@innerleftmargin@length=\skip59
-\mdf@innerrightmargin@length=\skip60
-\mdf@innertopmargin@length=\skip61
-\mdf@innerbottommargin@length=\skip62
-\mdf@splittopskip@length=\skip63
-\mdf@splitbottomskip@length=\skip64
-\mdf@outermargin@length=\skip65
-\mdf@innermargin@length=\skip66
-\mdf@linewidth@length=\skip67
-\mdf@innerlinewidth@length=\skip68
-\mdf@middlelinewidth@length=\skip69
-\mdf@outerlinewidth@length=\skip70
-\mdf@roundcorner@length=\skip71
-\mdf@footenotedistance@length=\skip72
-\mdf@userdefinedwidth@length=\skip73
-\mdf@needspace@length=\skip74
-\mdf@frametitleaboveskip@length=\skip75
-\mdf@frametitlebelowskip@length=\skip76
-\mdf@frametitlerulewidth@length=\skip77
-\mdf@frametitleleftmargin@length=\skip78
-\mdf@frametitlerightmargin@length=\skip79
-\mdf@shadowsize@length=\skip80
-\mdf@extratopheight@length=\skip81
-\mdf@subtitleabovelinewidth@length=\skip82
-\mdf@subtitlebelowlinewidth@length=\skip83
-\mdf@subtitleaboveskip@length=\skip84
-\mdf@subtitlebelowskip@length=\skip85
-\mdf@subtitleinneraboveskip@length=\skip86
-\mdf@subtitleinnerbelowskip@length=\skip87
-\mdf@subsubtitleabovelinewidth@length=\skip88
-\mdf@subsubtitlebelowlinewidth@length=\skip89
-\mdf@subsubtitleaboveskip@length=\skip90
-\mdf@subsubtitlebelowskip@length=\skip91
-\mdf@subsubtitleinneraboveskip@length=\skip92
-\mdf@subsubtitleinnerbelowskip@length=\skip93
+\mdf@skipabove@length=\skip54
+\mdf@skipbelow@length=\skip55
+\mdf@leftmargin@length=\skip56
+\mdf@rightmargin@length=\skip57
+\mdf@innerleftmargin@length=\skip58
+\mdf@innerrightmargin@length=\skip59
+\mdf@innertopmargin@length=\skip60
+\mdf@innerbottommargin@length=\skip61
+\mdf@splittopskip@length=\skip62
+\mdf@splitbottomskip@length=\skip63
+\mdf@outermargin@length=\skip64
+\mdf@innermargin@length=\skip65
+\mdf@linewidth@length=\skip66
+\mdf@innerlinewidth@length=\skip67
+\mdf@middlelinewidth@length=\skip68
+\mdf@outerlinewidth@length=\skip69
+\mdf@roundcorner@length=\skip70
+\mdf@footenotedistance@length=\skip71
+\mdf@userdefinedwidth@length=\skip72
+\mdf@needspace@length=\skip73
+\mdf@frametitleaboveskip@length=\skip74
+\mdf@frametitlebelowskip@length=\skip75
+\mdf@frametitlerulewidth@length=\skip76
+\mdf@frametitleleftmargin@length=\skip77
+\mdf@frametitlerightmargin@length=\skip78
+\mdf@shadowsize@length=\skip79
+\mdf@extratopheight@length=\skip80
+\mdf@subtitleabovelinewidth@length=\skip81
+\mdf@subtitlebelowlinewidth@length=\skip82
+\mdf@subtitleaboveskip@length=\skip83
+\mdf@subtitlebelowskip@length=\skip84
+\mdf@subtitleinneraboveskip@length=\skip85
+\mdf@subtitleinnerbelowskip@length=\skip86
+\mdf@subsubtitleabovelinewidth@length=\skip87
+\mdf@subsubtitlebelowlinewidth@length=\skip88
+\mdf@subsubtitleaboveskip@length=\skip89
+\mdf@subsubtitlebelowskip@length=\skip90
+\mdf@subsubtitleinneraboveskip@length=\skip91
+\mdf@subsubtitleinnerbelowskip@length=\skip92
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
@@ -918,33 +907,33 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdf@splitbox@one=\box46
 \mdf@splitbox@two=\box47
 \mdf@splitbox@save=\box48
-\mdfsplitboxwidth=\skip94
-\mdfsplitboxtotalwidth=\skip95
-\mdfsplitboxheight=\skip96
-\mdfsplitboxdepth=\skip97
-\mdfsplitboxtotalheight=\skip98
-\mdfframetitleboxwidth=\skip99
-\mdfframetitleboxtotalwidth=\skip100
-\mdfframetitleboxheight=\skip101
-\mdfframetitleboxdepth=\skip102
-\mdfframetitleboxtotalheight=\skip103
-\mdffootnoteboxwidth=\skip104
-\mdffootnoteboxtotalwidth=\skip105
-\mdffootnoteboxheight=\skip106
-\mdffootnoteboxdepth=\skip107
-\mdffootnoteboxtotalheight=\skip108
-\mdftotallinewidth=\skip109
-\mdfboundingboxwidth=\skip110
-\mdfboundingboxtotalwidth=\skip111
-\mdfboundingboxheight=\skip112
-\mdfboundingboxdepth=\skip113
-\mdfboundingboxtotalheight=\skip114
-\mdf@freevspace@length=\skip115
-\mdf@horizontalwidthofbox@length=\skip116
-\mdf@verticalmarginwhole@length=\skip117
-\mdf@horizontalspaceofbox=\skip118
-\mdfsubtitleheight=\skip119
-\mdfsubsubtitleheight=\skip120
+\mdfsplitboxwidth=\skip93
+\mdfsplitboxtotalwidth=\skip94
+\mdfsplitboxheight=\skip95
+\mdfsplitboxdepth=\skip96
+\mdfsplitboxtotalheight=\skip97
+\mdfframetitleboxwidth=\skip98
+\mdfframetitleboxtotalwidth=\skip99
+\mdfframetitleboxheight=\skip100
+\mdfframetitleboxdepth=\skip101
+\mdfframetitleboxtotalheight=\skip102
+\mdffootnoteboxwidth=\skip103
+\mdffootnoteboxtotalwidth=\skip104
+\mdffootnoteboxheight=\skip105
+\mdffootnoteboxdepth=\skip106
+\mdffootnoteboxtotalheight=\skip107
+\mdftotallinewidth=\skip108
+\mdfboundingboxwidth=\skip109
+\mdfboundingboxtotalwidth=\skip110
+\mdfboundingboxheight=\skip111
+\mdfboundingboxdepth=\skip112
+\mdfboundingboxtotalheight=\skip113
+\mdf@freevspace@length=\skip114
+\mdf@horizontalwidthofbox@length=\skip115
+\mdf@verticalmarginwhole@length=\skip116
+\mdf@horizontalspaceofbox=\skip117
+\mdfsubtitleheight=\skip118
+\mdfsubsubtitleheight=\skip119
 \c@mdfcountframes=\count132
 
 ****** mdframed patching \endmdf@trivlist
@@ -983,7 +972,7 @@ File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 915.
 LaTeX Info: Redefining \lslig on input line 915.
-\MT@outer@space=\skip121
+\MT@outer@space=\skip120
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -1281,12 +1270,12 @@ Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count159
 \calc@Adimen=\dimen193
 \calc@Bdimen=\dimen194
-\calc@Askip=\skip122
-\calc@Bskip=\skip123
+\calc@Askip=\skip121
+\calc@Bskip=\skip122
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count160
-\calc@Cskip=\skip124
+\calc@Cskip=\skip123
 )
 \c@@todonotes@numberoftodonotes=\count161
 )
@@ -1452,7 +1441,7 @@ ABD: EveryShipout initializing macros
 * \headheight=19.49994pt
 * \headsep=23.39993pt
 * \topskip=13.0pt
-* \footskip=54.59984pt
+* \footskip=54.59985pt
 * \marginparwidth=66.38977pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
@@ -1505,27 +1494,12 @@ t available
  line 13.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 32.34409pt on input line 13.
-
-
-Class scrartcl Warning: Usage of deprecated font command `\it'!
-(scrartcl)              You should note, that in 1994 font command `\it' has
-(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
-(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrartcl)              shouldn't use such commands any longer and within
-(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
-(scrartcl)              See `fntguide.pdf' for more information about
-(scrartcl)              recommended font commands.
-(scrartcl)              Note also, that KOMA-Script will remove the definition
-(scrartcl)              of `\it' anytime until release of about version 3.20.
-(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
-(scrartcl)              by `\normalfont \itshape ' on input line 13.
-
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 32.34409pt on input line 13.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
 (Font)              scaled to size 32.34409pt on input line 13.
 LaTeX Font Info:    Try loading font information for T1+frc on input line 13.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/frcursive/t1frc.fd
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/frcursive/t1frc.fd
 File: t1frc.fd 2004/06/12 French Cursive font definition
 )
 Package microtype Info: Loading generic settings for font family
@@ -1579,20 +1553,6 @@ LaTeX Font Info:    Try loading font information for U+ding on input line 15.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
-
-Class scrartcl Warning: Usage of deprecated font command `\bf'!
-(scrartcl)              You should note, that in 1994 font command `\bf' has
-(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
-(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrartcl)              shouldn't use such commands any longer and within
-(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
-(scrartcl)              See `fntguide.pdf' for more information about
-(scrartcl)              recommended font commands.
-(scrartcl)              Note also, that KOMA-Script will remove the definition
-(scrartcl)              of `\bf' anytime until release of about version 3.20.
-(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
-(scrartcl)              by `\normalfont \bfseries ' on input line 17.
-
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <13> not avai
 lable
 (Font)              Font shape `T1/Quattrocento-TLF/b/n' tried instead on input
@@ -1605,20 +1565,6 @@ t available
  line 17.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 15.59996pt on input line 17.
-
-Class scrartcl Warning: Usage of deprecated font command `\bf'!
-(scrartcl)              You should note, that in 1994 font command `\bf' has
-(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
-(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
-(scrartcl)              shouldn't use such commands any longer and within
-(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
-(scrartcl)              See `fntguide.pdf' for more information about
-(scrartcl)              recommended font commands.
-(scrartcl)              Note also, that KOMA-Script will remove the definition
-(scrartcl)              of `\bf' anytime until release of about version 3.20.
-(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
-(scrartcl)              by `\normalfont \bfseries ' on input line 19.
-
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 26.96207pt on input line 21.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
@@ -1635,7 +1581,7 @@ LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 8.66673pt on input line 35.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 6.5pt on input line 37.
-[1
+ [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
@@ -1700,14 +1646,8 @@ File: bilder/opa2.pdf Graphic file (type pdf)
 <use bilder/opa2.pdf>
 Package pdftex.def Info: bilder/opa2.pdf used on input line 84.
 (pdftex.def)             Requested size: 398.3386pt x 281.49155pt.
- [4 <./bilder/opa2.pdf>]
-<bilder/opa3.pdf, id=55, 463.92221pt x 518.71379pt>
-File: bilder/opa3.pdf Graphic file (type pdf)
- <use bilder/opa3.pdf>
-Package pdftex.def Info: bilder/opa3.pdf used on input line 111.
-(pdftex.def)             Requested size: 219.08743pt x 244.96692pt.
-
-[5] [6] [7] [8]) [9] [10 <./bilder/opa3.pdf>] (./binder.aux)
+ [4 <./bilder/opa2.pdf>] [5] [6] [7] [8]) [9]
+(./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1717,38 +1657,37 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23521 strings out of 493308
- 447751 string characters out of 6137816
- 556341 words of memory out of 5000000
- 26327 multiletter control sequences out of 15000+600000
- 214900 words of font info for 163 fonts, out of 8000000 for 9000
+ 23244 strings out of 493311
+ 431509 string characters out of 6137849
+ 530747 words of memory out of 5000000
+ 26053 multiletter control sequences out of 15000+600000
+ 214148 words of font info for 159 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 74i,11n,77p,10441b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,11n,77p,2156b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_e45lg
-2.enc} </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pub
-lic/bbding/bbding10.390pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var
-/fonts/pk/ljfour/public/bbding/bbding10.520pk> </Users/gordonwiegand/Library/te
-xlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.650pk> </Users/gord
-onwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10
-.712pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/pu
-blic/bbding/bbding10.780pk> </Users/gordonwiegand/Library/texlive/2013/texmf-va
-r/fonts/pk/ljfour/public/bbding/bbding10.936pk> </Users/gordonwiegand/Library/t
-exlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.1123pk> </Users/go
-rdonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding
-10.1348pk> </Users/gordonwiegand/Library/texlive/2013/texmf-var/fonts/pk/ljfour
-/public/bbding/bbding10.1618pk> </Users/gordonwiegand/Library/texlive/2013/texm
-f-var/fonts/pk/ljfour/public/bbding/bbding10.1941pk></usr/local/texlive/2013/te
-xmf-dist/fonts/type1/impallari/quattrocento/Quattrocento-Bold.pfb></usr/local/t
-exlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pf
-b></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattr
-ocentoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/initia
-ls/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/f
-ourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursiv
-e/frcr14.pfb>
-Output written on binder.pdf (11 pages, 2254557 bytes).
+2.enc} </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbd
+ing/bbding10.390pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfo
+ur/public/bbding/bbding10.520pk> </Users/gordon/Library/texlive/2013/texmf-var/
+fonts/pk/ljfour/public/bbding/bbding10.650pk> </Users/gordon/Library/texlive/20
+13/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.712pk> </Users/gordon/Libra
+ry/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.780pk> </Users
+/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.9
+36pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/bbdi
+ng/bbding10.1123pk> </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfo
+ur/public/bbding/bbding10.1348pk> </Users/gordon/Library/texlive/2013/texmf-var
+/fonts/pk/ljfour/public/bbding/bbding10.1618pk> </Users/gordon/Library/texlive/
+2013/texmf-var/fonts/pk/ljfour/public/bbding/bbding10.1941pk></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento-Bold.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento
+Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/impallari/quattrocen
+to/QuattrocentoRegular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
+ic/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
+/frcursive/frcr14.pfb>
+Output written on binder.pdf (10 pages, 1790023 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
+ 133 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 27676 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 27671 words of extra memory for PDF output out of 29859 (max. 10000000)
 
