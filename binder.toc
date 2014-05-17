@@ -11,8 +11,8 @@
 \contentsline {chapter}{Die Papageieninsel}{69}
 \contentsline {chapter}{Der weisse Adler}{79}
 \contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{85}
-\contentsline {chapter}{Erdbeeren}{}
-\contentsline {chapter}{Das schwarze Licht}{13}
-\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{19}
-\contentsline {chapter}{Meine Freundin Henna}{29}
-\contentsline {chapter}{Aus dem Leben des Karl Rebosam}{37}
+\contentsline {chapter}{Erdbeeren}{93}
+\contentsline {chapter}{Das schwarze Licht}{105}
+\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{111}
+\contentsline {chapter}{Meine Freundin Henna}{121}
+\contentsline {chapter}{Aus dem Leben des Karl Rebosam}{129}
