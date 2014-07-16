@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.23)  24 APR 2014 13:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.23)  16 JUL 2014 21:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1887,10 +1887,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23507 strings out of 493315
- 434682 string characters out of 6137904
- 526465 words of memory out of 5000000
- 26181 multiletter control sequences out of 15000+600000
+ 23506 strings out of 493315
+ 434663 string characters out of 6137904
+ 526445 words of memory out of 5000000
+ 26180 multiletter control sequences out of 15000+600000
  178223 words of font info for 193 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  65i,11n,71p,2156b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1911,7 +1911,7 @@ public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pu
 blic/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/p
 ublic/frcursive/frcr14.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
 ic/archaic/pmhg.pfb>
-Output written on binder.pdf (134 pages, 13173202 bytes).
+Output written on binder.pdf (134 pages, 13175117 bytes).
 PDF statistics:
  612 PDF objects out of 1000 (max. 8388607)
  414 compressed objects within 5 object streams
