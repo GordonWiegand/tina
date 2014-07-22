@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  21 JUL 2014 15:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  22 JUL 2014 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1988,45 +1988,40 @@ LaTeX Font Info:    Try loading font information for U+futs on input line 56.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/ufuts.fd
 File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
 ) [1] [2]
-<bilder/inkling.pdf, id=33, 326.50412pt x 275.56792pt>
-File: bilder/inkling.pdf Graphic file (type pdf)
-
-<use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 82.
-(pdftex.def)             Requested size: 19.91814pt x 16.81087pt.
-
-<bilder/schmetterlingg.pdf, id=34, 339.21913pt x 440.1913pt>
+<bilder/schmetterlingg.pdf, id=33, 339.21913pt x 440.1913pt>
 File: bilder/schmetterlingg.pdf Graphic file (type pdf)
 
 <use bilder/schmetterlingg.pdf>
-Package pdftex.def Info: bilder/schmetterlingg.pdf used on input line 90.
+Package pdftex.def Info: bilder/schmetterlingg.pdf used on input line 80.
 (pdftex.def)             Requested size: 239.00558pt x 310.16026pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3 <./bilder/inkling.pdf>] [4 <./bilder/schmetterlingg.pdf>]
+ [3 <./bilder/schmetterlingg.pdf>]
+<bilder/inkling.pdf, id=45, 326.50412pt x 275.56792pt>
 File: bilder/inkling.pdf Graphic file (type pdf)
 
 <use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 112.
+Package pdftex.def Info: bilder/inkling.pdf used on input line 96.
 (pdftex.def)             Requested size: 19.91814pt x 16.81087pt.
 File: bilder/inkling.pdf Graphic file (type pdf)
  <use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 130.
+Package pdftex.def Info: bilder/inkling.pdf used on input line 110.
 (pdftex.def)             Requested size: 19.91814pt x 16.81087pt.
- [5] [6] [7]
+ [4 <./bilder/inkling.pdf>]
 File: bilder/inkling.pdf Graphic file (type pdf)
 
 <use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 161.
+Package pdftex.def Info: bilder/inkling.pdf used on input line 128.
+(pdftex.def)             Requested size: 19.91814pt x 16.81087pt.
+ [5] [6] [7]
+File: bilder/inkling.pdf Graphic file (type pdf)
+ <use bilder/inkling.pdf>
+Package pdftex.def Info: bilder/inkling.pdf used on input line 159.
 (pdftex.def)             Requested size: 19.91814pt x 16.81087pt.
  [8]
 <bilder/kerzers2.pdf, id=73, 579.30301pt x 345.92075pt>
 File: bilder/kerzers2.pdf Graphic file (type pdf)
 
 <use bilder/kerzers2.pdf>
-Package pdftex.def Info: bilder/kerzers2.pdf used on input line 184.
+Package pdftex.def Info: bilder/kerzers2.pdf used on input line 182.
 (pdftex.def)             Requested size: 398.3386pt x 237.86742pt.
 ) [9 <./bilder/kerzers2.pdf>] (./binder.aux)
 
@@ -2038,11 +2033,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28897 strings out of 493308
- 555241 string characters out of 6137816
- 728857 words of memory out of 5000000
+ 28885 strings out of 493308
+ 554878 string characters out of 6137816
+ 729857 words of memory out of 5000000
  31546 multiletter control sequences out of 15000+600000
- 225314 words of font info for 176 fonts, out of 8000000 for 9000
+ 223702 words of font info for 168 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  70i,11n,65p,10441b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_tevtm
@@ -2069,7 +2064,7 @@ ts/type1/impallari/quattrocento/QuattrocentoSans.pfb></usr/local/texlive/2013/t
 exmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local/texlive/2013/texm
 f-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texlive/2013/tex
 mf-dist/fonts/type1/public/frcursive/frcr14.pfb>
-Output written on binder.pdf (10 pages, 2158620 bytes).
+Output written on binder.pdf (10 pages, 2159810 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
