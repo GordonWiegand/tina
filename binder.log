@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.23)  31 JUL 2014 23:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.23)  1 AUG 2014 09:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1620,7 +1620,7 @@ Underfull \hbox (badness 1221) in paragraph at lines 29--30
 
 ] [9] [10]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 30.
+(Font)              scaled to size 14.4pt on input line 29.
 ) (./clown.tex
 [11] [12
 
@@ -1930,7 +1930,7 @@ ype1/public/initials/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
 e1/public/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
 public/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
 /public/frcursive/frcr14.pfb>
-Output written on binder.pdf (134 pages, 14447450 bytes).
+Output written on binder.pdf (134 pages, 14447703 bytes).
 PDF statistics:
  634 PDF objects out of 1000 (max. 8388607)
  430 compressed objects within 5 object streams
