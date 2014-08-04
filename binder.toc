@@ -6,11 +6,11 @@
 \contentsline {chapter}{Milch und Eis}{25}
 \contentsline {chapter}{Nina und die rosa Delphine}{29}
 \contentsline {chapter}{Die Maus mit den drei Federn}{47}
-\contentsline {chapter}{Das Gespenst Jonathan}{57}
-\contentsline {chapter}{Die Papageieninsel}{69}
-\contentsline {chapter}{Der weisse Adler}{79}
-\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{85}
-\contentsline {chapter}{Erdbeeren}{93}
-\contentsline {chapter}{Das schwarze Licht}{105}
-\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{111}
-\contentsline {chapter}{Meine Freundin Henna}{125}
+\contentsline {chapter}{Das Gespenst Jonathan}{51}
+\contentsline {chapter}{Die Papageieninsel}{65}
+\contentsline {chapter}{Der weisse Adler}{75}
+\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{81}
+\contentsline {chapter}{Erdbeeren}{89}
+\contentsline {chapter}{Das schwarze Licht}{101}
+\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{107}
+\contentsline {chapter}{Meine Freundin Henna}{119}
