@@ -1,4 +1,4 @@
-\documentclass[12pt,a5paper,twoside]{scrbook}
+\documentclass[13pt,a5paper,twoside]{scrbook}
 \usepackage[ngerman]{babel}
 %Schrift Quattrocento
 \usepackage{quattrocento}
@@ -102,10 +102,14 @@ frametitleaboveskip=\dimexpr-\ht\strutbox\relax
 
 \end{titlepage}
 %Bild Seite 2
-\begin{figure}[ht]
-\centering
-\includegraphics[width=\textwidth]{bilder/titelbild.pdf}
-\end{figure}
+\afterpage{
+    \begin{figure}
+        \thispagestyle{empty}
+        \centering
+        \includegraphics[height=\textheight,width=\textwidth]{bilder/titelbild.pdf}
+    \end{figure}
+    \clearpage
+}
 %Kapitel einfügen
 %\input{schlange}
 \input{tabea}
