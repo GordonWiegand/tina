@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.23)  6 AUG 2014 23:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.23)  7 AUG 2014 22:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1703,30 +1703,33 @@ Package pdftex.def Info: bilder/loewenalarm.pdf used on input line 43.
 File: bilder/clown.pdf Graphic file (type pdf)
 
 <use bilder/clown.pdf>
-Package pdftex.def Info: bilder/clown.pdf used on input line 31.
+Package pdftex.def Info: bilder/clown.pdf used on input line 32.
 (pdftex.def)             Requested size: 315.82562pt x 223.30817pt.
- [18 <./bilder/clown.pdf>] [19
+ [18 <./bilder/clown.pdf>]
+Underfull \vbox (badness 2941) has occurred while \output is active []
 
-]
-<bilder/clown2.pdf, id=117, 834.35107pt x 517.87318pt>
+ [19
+
+])
+(./pinarella.tex [20] [21]
+<bilder/clown2.pdf, id=123, 834.35107pt x 517.87318pt>
 File: bilder/clown2.pdf Graphic file (type pdf)
  <use bilder/clown2.pdf>
-Package pdftex.def Info: bilder/clown2.pdf used on input line 48.
+Package pdftex.def Info: bilder/clown2.pdf used on input line 1.
 (pdftex.def)             Requested size: 315.82562pt x 196.02734pt.
 
-[20 <./bilder/clown2.pdf>]) (./pinarella.tex [21
-
-] [22
-
-
-]
+[22 <./bilder/clown2.pdf>]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/it' in size <11.86258> n
 ot available
 (Font)              Font shape `T1/Quattrocento-TLF/b/it' tried instead on inpu
 t line 1.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/it' will be
 (Font)              scaled to size 11.86258pt on input line 1.
- [23] [24]
+ [23
+
+
+
+] [24]
 <bilder/pinarella.pdf, id=148, 414.96434pt x 417.05571pt>
 File: bilder/pinarella.pdf Graphic file (type pdf)
 
@@ -1767,668 +1770,40 @@ File: bilder/oma1.pdf Graphic file (type pdf)
 Package pdftex.def Info: bilder/oma1.pdf used on input line 97.
 (pdftex.def)             Requested size: 315.82562pt x 223.30817pt.
 
-[47 <./bilder/oma1.pdf>]
-File: bilder/oma1.pdf Graphic file (type pdf)
- <use bilder/oma1.pdf>
-Package pdftex.def Info: bilder/oma1.pdf used on input line 104.
-(pdftex.def)             Requested size: 221.07697pt x 156.3148pt.
+[47 <./bilder/oma1.pdf>] [48
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[48
-
-]
-Underfull \vbox (badness 2460) has occurred while \output is active []
-
- [49]
-[50]
-Underfull \vbox (badness 1371) has occurred while \output is active []
-
- [51]
-[52] [53] [54] [55] [56] [57]) (./maus.tex [58] [59
+] [49] [50] [51] [52] [53] [54] [55] [56] [57])
+(./maus.tex [58] [59
 
 
 ] [60]
-<bilder/maus_2.jpg, id=303, 437.9562pt x 596.7093pt>
-File: bilder/maus_2.jpg Graphic file (type jpg)
- <use bilder/maus_2.jpg>
-Package pdftex.def Info: bilder/maus_2.jpg used on input line 15.
-(pdftex.def)             Requested size: 157.91281pt x 215.15207pt.
+<bilder/1mausFee.pdf, id=303, 845.04686pt x 597.50786pt>
+File: bilder/1mausFee.pdf Graphic file (type pdf)
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-[][]
- []
+<use bilder/1mausFee.pdf>
+Package pdftex.def Info: bilder/1mausFee.pdf used on input line 20.
+(pdftex.def)             Requested size: 315.82562pt x 223.30817pt.
+ [61 <./bilder/1mausFee.pdf>] [62
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-Package floatflt Message: Floating figure 1 set on page 61
-
-Underfull \hbox (badness 1635) in paragraph at lines 18--19
-[]|\T1/Quattrocento-TLF/m/sc/13 (+20) Das Kind war aber
- []
-
-
-Underfull \hbox (badness 2351) in paragraph at lines 18--19
-\T1/Quattrocento-TLF/m/sc/13 (+20) se-kind, son-dern ei-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-\T1/Quattrocento-TLF/m/sc/13 (+20) püpp-chen ge-schenkt
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 18--19
-\T1/Quattrocento-TLF/m/sc/13 (+20) ob-wohl du mich gar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-\T1/Quattrocento-TLF/m/sc/13 (+20) nicht kann-test, und
- []
-
-
-Underfull \hbox (badness 4479) in paragraph at lines 18--19
-\T1/Quattrocento-TLF/m/sc/13 (+20) kei-ne der mäch-ti-gen
- []
-
-
-Underfull \hbox (badness 1072) in paragraph at lines 20--21
-\T1/Quattrocento-TLF/m/sc/13 (+20) das war. Was nüt-zen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-\T1/Quattrocento-TLF/m/sc/13 (+20) den-ken kann? Aber
- []
-
-
-Underfull \hbox (badness 3078) in paragraph at lines 20--21
-\T1/Quattrocento-TLF/m/sc/13 (+20) dann kam der Maus
- []
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 20--21
-\T1/Quattrocento-TLF/m/sc/13 (+20) den gibt? Und schon
- []
-
-
-Underfull \hbox (badness 3199) in paragraph at lines 20--21
-\T1/Quattrocento-TLF/m/sc/13 (+20) der Hand. Aber halt,
- []
-
-
-Underfull \hbox (badness 2165) in paragraph at lines 22--23
-\T1/Quattrocento-TLF/m/sc/13 (+20) mehr, bis sie ir-gend-
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 22--23
-\T1/Quattrocento-TLF/m/sc/13 (+20) Fee ge-sagt hat-te und
- []
-
-
-Underfull \hbox (badness 3281) in paragraph at lines 22--23
-\T1/Quattrocento-TLF/m/sc/13 (+20) und liess sie stei-gen
- []
-
-
-Underfull \hbox (badness 3108) in paragraph at lines 24--25
-\T1/Quattrocento-TLF/m/sc/13 (+20) zu wer-den?^^T Als die
- []
-
-
-Overfull \hbox (4.0883pt too wide) in paragraph at lines 26--27
-\T1/Quattrocento-TLF/m/sc/13 (-20) ner sam-meln, Du kannst
- []
-
-
-Overfull \hbox (1.80537pt too wide) in paragraph at lines 26--27
-\T1/Quattrocento-TLF/m/sc/13 (-20) kei-ne Höh-le bau-en. Und
- []
-
-
-Underfull \hbox (badness 5847) in paragraph at lines 26--27
-\T1/Quattrocento-TLF/m/sc/13 (+20) Som-mer die klei-nen
- []
-
-
-Underfull \hbox (badness 7832) in paragraph at lines 28--29
-\T1/Quattrocento-TLF/m/sc/13 (+20) Auf-re-gung ih-re Bart-
- []
-
-
-Underfull \hbox (badness 1990) in paragraph at lines 28--29
-\T1/Quattrocento-TLF/m/sc/13 (+20) täuscht von der Ant-
- []
-
-
-Underfull \hbox (badness 3536) in paragraph at lines 28--29
-\T1/Quattrocento-TLF/m/sc/13 (+20) der auf, nur um sie
- []
-
-
-Underfull \hbox (badness 5064) in paragraph at lines 28--29
-\T1/Quattrocento-TLF/m/sc/13 (+20) schon ge-hofft, einen
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 28--29
-\T1/Quattrocento-TLF/m/sc/13 (+20) auf einen di-cken Ast
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-\T1/Quattrocento-TLF/m/sc/13 (+20) frisch ge-nag-te Ba-by-
- []
-
-
-Overfull \hbox (11.81746pt too wide) in paragraph at lines 32--33
-\T1/Quattrocento-TLF/m/sc/13 (-20) rief die-ser, ^^S  Gu-ter Freund,
- []
-
-
-Underfull \hbox (badness 1194) in paragraph at lines 32--33
-\T1/Quattrocento-TLF/m/sc/13 (+20) ei-nem Weih-nachts-ge-
- []
-
-
-Underfull \hbox (badness 2285) in paragraph at lines 32--33
-\T1/Quattrocento-TLF/m/sc/13 (+20) ich möch-te dir auch
- []
-
-<bilder/maus_1.pdf, id=304, 597.23125pt x 845.1575pt>
+] [63]
+<bilder/maus_1.pdf, id=324, 597.23125pt x 845.1575pt>
 File: bilder/maus_1.pdf Graphic file (type pdf)
  <use bilder/maus_1.pdf>
-Package pdftex.def Info: bilder/maus_1.pdf used on input line 36.
-(pdftex.def)             Requested size: 252.66145pt x 357.54294pt.
+Package pdftex.def Info: bilder/maus_1.pdf used on input line 44.
+(pdftex.def)             Requested size: 223.17744pt x 315.82562pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-\T1/Quattrocento-TLF/m/sc/13 (+20) gan-zer Gul-den! Was
- []
+[64 <./bilder/maus_1.pdf>] [65
 
+] [66] [67] [68] [69]
+<bilder/maus_2.pdf, id=346, 597.50786pt x 845.04686pt>
+File: bilder/maus_2.pdf Graphic file (type pdf)
+ <use bilder/maus_2.pdf>
+Package pdftex.def Info: bilder/maus_2.pdf used on input line 95.
+(pdftex.def)             Requested size: 315.82562pt x 446.66063pt.
 
-Underfull \hbox (badness 8113) in paragraph at lines 40--41
-\T1/Quattrocento-TLF/m/sc/13 (+20) man da-für al-les für
- []
+[70 <./bilder/maus_2.pdf>]) (./gespenst.tex [71
 
-
-Underfull \hbox (badness 1533) in paragraph at lines 40--41
-\T1/Quattrocento-TLF/m/sc/13 (+20) le-cke-re Din-ge kau-fen
- []
-
-
-Underfull \hbox (badness 6348) in paragraph at lines 40--41
-\T1/Quattrocento-TLF/m/sc/13 (+20) konn-te. Dan-ke, lie-be
- []
-
-
-Underfull \hbox (badness 5431) in paragraph at lines 42--43
-\T1/Quattrocento-TLF/m/sc/13 (+20) dien-ten Gul-den ging
- []
-
-
-Underfull \hbox (badness 2005) in paragraph at lines 42--43
-\T1/Quattrocento-TLF/m/sc/13 (+20) des al-ten Ho-bel-kä-ses
- []
-
-
-Underfull \hbox (badness 2608) in paragraph at lines 44--45
-[]\T1/Quattrocento-TLF/m/sc/13 (+20) Mit dem ge-spar-ten
- []
-
-
-Underfull \hbox (badness 7649) in paragraph at lines 44--45
-\T1/Quattrocento-TLF/m/sc/13 (+20) Geld ging die Maus
- []
-
-
-Underfull \hbox (badness 7814) in paragraph at lines 44--45
-\T1/Quattrocento-TLF/m/sc/13 (+20) kauf-te sie ein schö-
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 44--45
-\T1/Quattrocento-TLF/m/sc/13 (+20) nes Stück ed-len afri-
- []
-
-
-Overfull \hbox (3.48094pt too wide) in paragraph at lines 44--45
-\T1/Quattrocento-TLF/m/sc/13 (-20) händ-ler lach-te zu-nächst,
- []
-
-
-Underfull \hbox (badness 3148) in paragraph at lines 44--45
-\T1/Quattrocento-TLF/m/sc/13 (+20) als er die ver-lump-te
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-\T1/Quattrocento-TLF/m/sc/13 (+20) Maus sah, die auch
- []
-
-
-Underfull \hbox (badness 7047) in paragraph at lines 44--45
-\T1/Quattrocento-TLF/m/sc/13 (+20) noch vom teu-ers-ten
- []
-
-
-Overfull \hbox (6.77667pt too wide) in paragraph at lines 44--45
-\T1/Quattrocento-TLF/m/sc/13 (-20) die-se ihm aber fast einen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-[]\T1/Quattrocento-TLF/m/sc/13 (+20) Wieder spar-te sie
- []
-
-
-Overfull \hbox (3.16115pt too wide) in paragraph at lines 46--47
-\T1/Quattrocento-TLF/m/sc/13 (-20) aus nag-te sie die schöns-
- []
-
-
-Underfull \hbox (badness 5771) in paragraph at lines 46--47
-\T1/Quattrocento-TLF/m/sc/13 (+20) ten Din-ge. Spiel-zeug
- []
-
-
-Underfull \hbox (badness 7981) in paragraph at lines 46--47
-\T1/Quattrocento-TLF/m/sc/13 (+20) rühm-ter Mäu-se und
- []
-
-
-Underfull \hbox (badness 1107) in paragraph at lines 46--47
-\T1/Quattrocento-TLF/m/sc/13 (+20) als das Holz ge-kos-tet
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 46--47
-\T1/Quattrocento-TLF/m/sc/13 (+20) und mie-te-te sich ein
- []
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 48--49
-[]\T1/Quattrocento-TLF/m/sc/13 (+20) So ver-ging die Zeit
- []
-
-
-Underfull \hbox (badness 2103) in paragraph at lines 48--49
-\T1/Quattrocento-TLF/m/sc/13 (+20) ten Kä-se wa-ren ei-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-\T1/Quattrocento-TLF/m/sc/13 (+20) Selbst-ver-ständ-lich-keit
- []
-
-
-Underfull \hbox (badness 7685) in paragraph at lines 48--49
-\T1/Quattrocento-TLF/m/sc/13 (+20) ge-wor-den und zwar
- []
-
-
-Underfull \hbox (badness 1331) in paragraph at lines 48--49
-\T1/Quattrocento-TLF/m/sc/13 (+20) sie ge-zeigt hat-te, wie
- []
-
-
-Underfull \hbox (badness 2020) in paragraph at lines 48--49
-\T1/Quattrocento-TLF/m/sc/13 (+20) sie. Die Maus wur-de
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 48--49
-\T1/Quattrocento-TLF/m/sc/13 (+20) fast kei-ne Luft mehr
- []
-
-
-Underfull \hbox (badness 2334) in paragraph at lines 50--51
-\T1/Quattrocento-TLF/m/sc/13 (+20) war si-cher ei-ne gu-te
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 50--51
-\T1/Quattrocento-TLF/m/sc/13 (+20) sehr ge-fähr-lich, die-se
- []
-
-
-Underfull \hbox (badness 1325) in paragraph at lines 50--51
-\T1/Quattrocento-TLF/m/sc/13 (+20) te sie nicht viel-leicht
- []
-
-
-Underfull \hbox (badness 2635) in paragraph at lines 52--53
-\T1/Quattrocento-TLF/m/sc/13 (+20) ge nach, doch konn-
- []
-
-
-Underfull \hbox (badness 1521) in paragraph at lines 52--53
-\T1/Quattrocento-TLF/m/sc/13 (+20) te sie sich nicht ent-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-\T1/Quattrocento-TLF/m/sc/13 (+20) schei-den. Aber ei-ne
- []
-
-
-Underfull \hbox (badness 3525) in paragraph at lines 52--53
-\T1/Quattrocento-TLF/m/sc/13 (+20) Ent-schei-dung muss-te
- []
-
-
-Underfull \hbox (badness 1735) in paragraph at lines 52--53
-\T1/Quattrocento-TLF/m/sc/13 (+20) ge-trof-fen wer-den. So
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-\T1/Quattrocento-TLF/m/sc/13 (+20) er-reich-te den Mond
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-[]\T1/Quattrocento-TLF/m/sc/13 (+20) ^^S  Al-so Maus, stel-le
- []
-
-
-Underfull \hbox (badness 4582) in paragraph at lines 54--55
-\T1/Quattrocento-TLF/m/sc/13 (+20) er-klär-te ihr Pro-blem,
- []
-
-
-Underfull \hbox (badness 1596) in paragraph at lines 56--57
-\T1/Quattrocento-TLF/m/sc/13 (+20) gin-ge, dass die Maus
- []
-
-
-Underfull \hbox (badness 1087) in paragraph at lines 56--57
-\T1/Quattrocento-TLF/m/sc/13 (+20) schon ei-ne kla-re Fra-
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 56--57
-\T1/Quattrocento-TLF/m/sc/13 (+20) Fra-gen sind ein paar
- []
-
-
-Underfull \hbox (badness 3240) in paragraph at lines 58--59
-[]\T1/Quattrocento-TLF/m/sc/13 (+20) Wie das ers-te Mal
- []
-
-
-Underfull \hbox (badness 4569) in paragraph at lines 58--59
-\T1/Quattrocento-TLF/m/sc/13 (+20) die-sem Rat. Schu-he?
- []
-
-
-Underfull \hbox (badness 5274) in paragraph at lines 58--59
-\T1/Quattrocento-TLF/m/sc/13 (+20) kei-ne mehr, seit-dem
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 58--59
-\T1/Quattrocento-TLF/m/sc/13 (+20) zu auch? Die Mäu-se
- []
-
-
-Overfull \hbox (6.48442pt too wide) in paragraph at lines 60--61
-\T1/Quattrocento-TLF/m/sc/13 (-20) te sie ganz rich-tig, Haupt-
- []
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 60--61
-\T1/Quattrocento-TLF/m/sc/13 (+20) führ-ten sie weit weg
- []
-
-
-Underfull \hbox (badness 1668) in paragraph at lines 60--61
-\T1/Quattrocento-TLF/m/sc/13 (+20) und un-ge-übt wie sie
- []
-
-
-Underfull \hbox (badness 4378) in paragraph at lines 60--61
-\T1/Quattrocento-TLF/m/sc/13 (+20) der bei Kräf-ten und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-\T1/Quattrocento-TLF/m/sc/13 (+20) die un-ter-schied-lichs-
- []
-
-
-Underfull \hbox (badness 6445) in paragraph at lines 62--63
-\T1/Quattrocento-TLF/m/sc/13 (+20) mi-lie, mal bei ei-ner
- []
-
-
-Underfull \hbox (badness 4792) in paragraph at lines 62--63
-\T1/Quattrocento-TLF/m/sc/13 (+20) ren es wohl-ha-ben-de
- []
-
-
-Underfull \hbox (badness 4518) in paragraph at lines 64--65
-[]\T1/Quattrocento-TLF/m/sc/13 (+20) Alle, die die Maus
- []
-
-
-Underfull \hbox (badness 1577) in paragraph at lines 64--65
-\T1/Quattrocento-TLF/m/sc/13 (+20) traf, er-zähl-te sie ih-re
- []
-
-
-Underfull \hbox (badness 1648) in paragraph at lines 64--65
-\T1/Quattrocento-TLF/m/sc/13 (+20) wis-sen, wel-che Fra-ge
- []
-
-
-Underfull \hbox (badness 1297) in paragraph at lines 64--65
-\T1/Quattrocento-TLF/m/sc/13 (+20) sie wohl stel-len wür-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-[]\T1/Quattrocento-TLF/m/sc/13 (+20) ^^S  Ich wür-de ger-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-\T1/Quattrocento-TLF/m/sc/13 (+20) ob mei-ne Freun-din
- []
-
-
-Underfull \hbox (badness 2351) in paragraph at lines 66--67
-\T1/Quattrocento-TLF/m/sc/13 (+20) mich liebt?^^T war ein
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 66--67
-\T1/Quattrocento-TLF/m/sc/13 (+20) ich den bes-ten Preis
- []
-
-File: bilder/maus_1.pdf Graphic file (type pdf)
-<use bilder/maus_1.pdf>
-Package pdftex.def Info: bilder/maus_1.pdf used on input line 71.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-Underfull \hbox (badness 4492) in paragraph at lines 74--75
-[]\T1/Quattrocento-TLF/m/sc/13 (+20) Jede Maus möch-te
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-\T1/Quattrocento-TLF/m/sc/13 (+20) ches mein Wunsch
- []
-
-
-Underfull \hbox (badness 5802) in paragraph at lines 74--75
-\T1/Quattrocento-TLF/m/sc/13 (+20) ner sehr al-ten Mäu-
- []
-
-
-Underfull \hbox (badness 2245) in paragraph at lines 74--75
-\T1/Quattrocento-TLF/m/sc/13 (+20) lei-ne gleich an ei-ner
- []
-
-
-Underfull \hbox (badness 1337) in paragraph at lines 74--75
-\T1/Quattrocento-TLF/m/sc/13 (+20) schö-nen Lich-tung im
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 74--75
-\T1/Quattrocento-TLF/m/sc/13 (+20) Wald. Auch hier hier
- []
-
-
-Underfull \hbox (badness 1502) in paragraph at lines 76--77
-\T1/Quattrocento-TLF/m/sc/13 (+20) te Maus, ^^S  Du bist al-
- []
-
-
-Underfull \hbox (badness 1490) in paragraph at lines 80--81
-\T1/Quattrocento-TLF/m/sc/13 (+20) und zu-frie-den ge-lebt.
- []
-
-
-Underfull \hbox (badness 6893) in paragraph at lines 80--81
-\T1/Quattrocento-TLF/m/sc/13 (+20) Ich ha-be vie-les von
- []
-
-
-Underfull \hbox (badness 5741) in paragraph at lines 80--81
-\T1/Quattrocento-TLF/m/sc/13 (+20) wünscht hat-te, nicht
- []
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 80--81
-\T1/Quattrocento-TLF/m/sc/13 (+20) be mich und mei-ne
- []
-
-
-Underfull \hbox (badness 6842) in paragraph at lines 82--83
-\T1/Quattrocento-TLF/m/sc/13 (+20) ze Nacht wach und
- []
-
-
-Underfull \hbox (badness 3417) in paragraph at lines 82--83
-\T1/Quattrocento-TLF/m/sc/13 (+20) te. Und als die Son-
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 82--83
-\T1/Quattrocento-TLF/m/sc/13 (+20) ne auf-ging, hat-te sie
- []
-
-
-Underfull \hbox (badness 1275) in paragraph at lines 82--83
-\T1/Quattrocento-TLF/m/sc/13 (+20) Glück! Glück-lich wol-
- []
-
-
-Underfull \hbox (badness 5622) in paragraph at lines 82--83
-\T1/Quattrocento-TLF/m/sc/13 (+20) doch glück-lich! Jetzt,
- []
-
-
-Underfull \hbox (badness 1132) in paragraph at lines 84--85
-\T1/Quattrocento-TLF/m/sc/13 (+20) woll-te sie in die Luft
- []
-
-
-Underfull \hbox (badness 3780) in paragraph at lines 84--85
-\T1/Quattrocento-TLF/m/sc/13 (+20) sich erst wirk-lich si-
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 84--85
-\T1/Quattrocento-TLF/m/sc/13 (+20) cher sein soll-te, dass
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 84--85
-\T1/Quattrocento-TLF/m/sc/13 (+20) ist. Erst ein paar Mal
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 84--85
-\T1/Quattrocento-TLF/m/sc/13 (+20) dar-über schla-fen, im-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
-[]\T1/Quattrocento-TLF/m/sc/13 (+20) Die Maus wan-der-
- []
-
-
-Underfull \hbox (badness 2600) in paragraph at lines 86--87
-\T1/Quattrocento-TLF/m/sc/13 (+20) einen Bach, da leb-te
- []
-
-
-Underfull \hbox (badness 7273) in paragraph at lines 86--87
-\T1/Quattrocento-TLF/m/sc/13 (+20) ei-ne schö-ne Mäu-sin.
- []
-
-
-Underfull \hbox (badness 1087) in paragraph at lines 86--87
-\T1/Quattrocento-TLF/m/sc/13 (+20) Vorn-über-ge-beugt ver-
- []
-
-
-Underfull \hbox (badness 3118) in paragraph at lines 86--87
-\T1/Quattrocento-TLF/m/sc/13 (+20) aber es ge-lang nicht
- []
-
-
-Underfull \hbox (badness 3078) in paragraph at lines 86--87
-\T1/Quattrocento-TLF/m/sc/13 (+20) sin half, er-klär-te die,
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 88--89
-\T1/Quattrocento-TLF/m/sc/13 (+20) hier nach Un-ter-kunft
- []
-
-
-Underfull \hbox (badness 4467) in paragraph at lines 88--89
-\T1/Quattrocento-TLF/m/sc/13 (+20) mals tat. Sie merk-te
- []
-
-
-Underfull \hbox (badness 5331) in paragraph at lines 88--89
-\T1/Quattrocento-TLF/m/sc/13 (+20) aus-ser-dem war vom
- []
-
-
-Underfull \hbox (badness 7869) in paragraph at lines 88--89
-\T1/Quattrocento-TLF/m/sc/13 (+20) di-cken Bauch nichts
- []
-
-) (./gespenst.tex
-Underfull \hbox (badness 1132) in paragraph at lines 92--1
-\T1/Quattrocento-TLF/m/sc/13 (+20) ren und dik-tier-te ein
- []
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 92--1
-\T1/Quattrocento-TLF/m/sc/13 (+20) Ar-ze-nei. Und sie ver-
- []
-
-
-Underfull \hbox (badness 3250) in paragraph at lines 92--1
-\T1/Quattrocento-TLF/m/sc/13 (+20) die Maus den Trunk
- []
-
-[61] [62 <./bilder/maus_1.pdf>] [63] [64
-
-
-]
+] [72]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/n' in size <11.86258> no
 t available
@@ -2436,98 +1811,94 @@ t available
  line 3.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/n' will be
 (Font)              scaled to size 11.86258pt on input line 3.
-Package mdframed Info: Not enough space on this page on input line 9.
- [65
-
-pdfTeX warning: pdflatex: pop empty color page stack 0
+ [73
 
 
-pdfTeX warning: pdflatex: pop empty color page stack 0
 ]
-Underfull \vbox (badness 1910) has occurred while \output is active []
-
- [66]
-<bilder/gespenst1.pdf, id=325, 514.76103pt x 602.73473pt>
+<bilder/gespenst1.pdf, id=367, 514.76103pt x 602.73473pt>
 File: bilder/gespenst1.pdf Graphic file (type pdf)
 
 <use bilder/gespenst1.pdf>
 Package pdftex.def Info: bilder/gespenst1.pdf used on input line 17.
 (pdftex.def)             Requested size: 221.07697pt x 258.85817pt.
 Package mdframed Info: mdframed works in twoside mode on input line 22.
- [67 <./bilder/gespenst1.pdf>] [68]
+ [74] [75]
 Package mdframed Info: mdframed works in twoside mode on input line 31.
 
 Underfull \hbox (badness 3049) in paragraph at lines 36--37
 []\T1/Quattrocento-TLF/m/sc/13 (+20) Irgendwann wur-den Bur-gen nicht mehr ge-
  []
 
-[69] [70] [71] [72] [73] [74]
+[76] [77]
+Underfull \vbox (badness 2027) has occurred while \output is active []
+
+ [78]
+[79] [80]
 Package mdframed Info: mdframed works in twoside mode on input line 69.
- [75] [76] [77]
+ [81] [82] [83] [84]
 Package mdframed Info: mdframed works in twoside mode on input line 100.
- [78] [79]) (./pirat.tex [80]
-[81
+ [85] [86]) (./pirat.tex [87] [88 <./bilder/gespenst1.pdf>] [89
 
 
-] [82] [83] [84] [85] [86] [87] [88] [89] [90]) (./adler.tex [91] [92
+] [90] [91] [92] [93] [94] [95] [96] [97] [98]) (./adler.tex
+[99] [100
 
 
-]
-[93] [94] <bilder/adler.pdf, id=432, 358.98297pt x 201.64644pt>
+] [101] [102] <bilder/adler.pdf, id=475, 358.98297pt x 201.64644pt>
 File: bilder/adler.pdf Graphic file (type pdf)
 
 <use bilder/adler.pdf>
 Package pdftex.def Info: bilder/adler.pdf used on input line 17.
 (pdftex.def)             Requested size: 221.07697pt x 124.18565pt.
- [95 <./bilder/adler.pdf>] [96] [97]) (./menschen.tex
-[98] [99
+ [103 <./bilder/adler.pdf>] [104] [105]) (./menschen.tex
+[106] [107
 
 
-] [100] [101] [102] [103] [104] [105] [106]) (./wanfried.tex [107]
-[108
+] [108] [109] [110] [111] [112] [113] [114]) (./wanfried.tex [115]
+[116
 
 
-] [109]
+] [117]
 Overfull \hbox (0.28632pt too wide) in paragraph at lines 9--10
 \T1/Quattrocento-TLF/m/sc/13 (-20) auf-ge-baut, jetzt muss es noch ein-ge-rich-
 tet wer-den. Ganz
  []
 
-[110] <bilder/opa1.pdf, id=500, 491.33244pt x 584.4101pt>
+[118] <bilder/opa1.pdf, id=543, 491.33244pt x 584.4101pt>
 File: bilder/opa1.pdf Graphic file (type pdf)
 
 <use bilder/opa1.pdf>
 Package pdftex.def Info: bilder/opa1.pdf used on input line 17.
 (pdftex.def)             Requested size: 205.28471pt x 244.16646pt.
- [111]
+ [119]
 Underfull \vbox (badness 4621) has occurred while \output is active []
 
- [112 <./bilder/opa1.pdf>]
+ [120 <./bilder/opa1.pdf>]
 Underfull \hbox (badness 1019) in paragraph at lines 33--34
 \T1/Quattrocento-TLF/m/sc/13 (+20) schlecht und da-mit gif-tig. Es kommt zur üb
 -li-chen
  []
 
-[113] [114] [115] [116] [117] [118] [119] [120]) (./onta.tex [121] [122
+[121] [122] [123] [124] [125] [126] [127] [128]) (./onta.tex [129] [130
 
 
 ]
-[123] <bilder/dark.pdf, id=557, 607.5703pt x 513.74797pt>
+[131] <bilder/dark.pdf, id=600, 607.5703pt x 513.74797pt>
 File: bilder/dark.pdf Graphic file (type pdf)
 
 <use bilder/dark.pdf>
 Package pdftex.def Info: bilder/dark.pdf used on input line 11.
 (pdftex.def)             Requested size: 221.07697pt x 186.93242pt.
- [124] [125]
+ [132] [133]
 Overfull \hbox (0.58546pt too wide) in paragraph at lines 22--23
 []\T1/Quattrocento-TLF/m/sc/13 (-20) Und mit der Dun-kel-heit ka-men die Alb-tr
 äu-me. Schnell
  []
 
-[126]) (./kerzers.tex [127] [128 <./bilder/dark.pdf>] [129
+[134]) (./kerzers.tex [135] [136 <./bilder/dark.pdf>] [137
 
 
-] [130]
+] [138]
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 []\T1/QuattrocentoSans-TLF/m/n/13 (+20) Deutsch: Blau-er Mor-pho-fal-ter. Der
  []
@@ -2538,8 +1909,8 @@ Overfull \hbox (5.28107pt too wide) in paragraph at lines 29--30
 ei Schlecht-
  []
 
-[131] [132]
-<bilder/1blauerSchmetterling.pdf, id=603, 333.92957pt x 427.47945pt>
+[139] [140]
+<bilder/1blauerSchmetterling.pdf, id=648, 333.92957pt x 427.47945pt>
 File: bilder/1blauerSchmetterling.pdf Graphic file (type pdf)
 
 <use bilder/1blauerSchmetterling.pdf>
@@ -2552,67 +1923,67 @@ Underfull \hbox (badness 1371) in paragraph at lines 48--49
 But-ter-blom,
  []
 
-[133 <./bilder/1blauerSchmetterling.pdf>]
-<bilder/inkling.pdf, id=623, 334.85373pt x 253.61209pt>
+[141 <./bilder/1blauerSchmetterling.pdf>]
+<bilder/inkling.pdf, id=667, 334.85373pt x 253.61209pt>
 File: bilder/inkling.pdf Graphic file (type pdf)
 
 <use bilder/inkling.pdf>
 Package pdftex.def Info: bilder/inkling.pdf used on input line 60.
 (pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
- [134]
+ [142]
 File: bilder/inkling.pdf Graphic file (type pdf)
  <use bilder/inkling.pdf>
 Package pdftex.def Info: bilder/inkling.pdf used on input line 74.
 (pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
- [135]
+ [143]
 File: bilder/inkling.pdf Graphic file (type pdf)
 
 <use bilder/inkling.pdf>
 Package pdftex.def Info: bilder/inkling.pdf used on input line 92.
 (pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
- [136] [137] [138] [139]
+ [144] [145] [146] [147]
 File: bilder/inkling.pdf Graphic file (type pdf)
  <use bilder/inkling.pdf>
 Package pdftex.def Info: bilder/inkling.pdf used on input line 123.
 (pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
 
-[140] <bilder/kerzers2.pdf, id=647, 820.19908pt x 486.64565pt>
+[148] <bilder/kerzers2.pdf, id=690, 817.79085pt x 493.72296pt>
 File: bilder/kerzers2.pdf Graphic file (type pdf)
 
 <use bilder/kerzers2.pdf>
 Package pdftex.def Info: bilder/kerzers2.pdf used on input line 146.
-(pdftex.def)             Requested size: 315.82562pt x 187.38513pt.
+(pdftex.def)             Requested size: 315.82562pt x 190.66777pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./henna.tex [141] [142 <./bilder/inkling.pdf> <./bilder/kerzers2.pdf>]
-[143
+) (./henna.tex [149] [150 <./bilder/inkling.pdf> <./bilder/kerzers2.pdf>]
+[151
 
 
-] [144] [145]
+] [152] [153]
 Overfull \hbox (0.15895pt too wide) in paragraph at lines 21--22
 \T1/Quattrocento-TLF/m/sc/13 (-20) auch nie-mand raus. Hen-na meint, in je-dem 
 Schloss ge-be
  []
 
-[146] [147] <bilder/prinzessin.pdf, id=692, 841.23366pt x 480.1128pt>
+[154] [155] <bilder/prinzessin.pdf, id=735, 841.23366pt x 480.1128pt>
 File: bilder/prinzessin.pdf Graphic file (type pdf)
 
 <use bilder/prinzessin.pdf>
 Package pdftex.def Info: bilder/prinzessin.pdf used on input line 35.
 (pdftex.def)             Requested size: 841.2316pt x 480.11162pt.
- [148] [149] [150]) [151] [152 <./bilder/prinzessin.pdf>]
+ [156] [157] [158]) [159] [160 <./bilder/prinzessin.pdf>]
 Package tocbasic Info: character protrusion at toc deactivated on input line 13
 3.
- (./binder.toc [153
+ (./binder.toc [161
 
 
 ])
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- [154] (./binder.aux)
+ [162] (./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -2622,13 +1993,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23531 strings out of 493315
- 435577 string characters out of 6137904
- 529096 words of memory out of 5000000
- 26203 multiletter control sequences out of 15000+600000
+ 23534 strings out of 493315
+ 435661 string characters out of 6137904
+ 528076 words of memory out of 5000000
+ 26206 multiletter control sequences out of 15000+600000
  207349 words of font info for 198 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 65i,11n,71p,2156b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,11n,71p,2156b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_tevtm
 b.enc} </Users/gordon/Library/texlive/2013/texmf-var/fonts/pk/ljfour/public/sku
 ll/skull.650pk>{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento
@@ -2644,10 +2015,10 @@ ype1/public/initials/Typocaps.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
 e1/public/initials/Zallman.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
 public/fourier/fourier-orns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
 /public/frcursive/frcr14.pfb>
-Output written on binder.pdf (154 pages, 75214434 bytes).
+Output written on binder.pdf (162 pages, 72929986 bytes).
 PDF statistics:
- 772 PDF objects out of 1000 (max. 8388607)
- 527 compressed objects within 6 object streams
+ 815 PDF objects out of 1000 (max. 8388607)
+ 547 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 31335 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 31340 words of extra memory for PDF output out of 35830 (max. 10000000)
 
