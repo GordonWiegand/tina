@@ -78,6 +78,9 @@ frametitleaboveskip=\dimexpr-\ht\strutbox\relax
 \def\FontI{\color{red}\fontsize{20pt}{0mm}\usefont{U}{Typocaps}{xl}{n}}
 %Für Kapitel Schlange werden Longtables benötigt
 \usepackage{longtable}
+%Kapitel onta in Schwabacher als Umgebung \begin{swb} ... \end{swb}
+\usepackage{yfonts}
+\newenvironment{swb}{\swabfamily\fontsize{15}{15}\selectfont}{\par}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %titelseite
