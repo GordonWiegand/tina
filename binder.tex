@@ -34,12 +34,16 @@
 %Für Kapitel Gespenst Jonathan Rahmen ermöglichen
 \usepackage[everyline=true]{mdframed}
 %Definition Rahmen: links dicker roter balken
+\usepackage{tikz} % used for the 'logo' und 
 \mdfdefinestyle{mystyle}{
         roundcorner=10pt,
         backgroundcolor= red!05, 
+        everyline=true,
         bottomline=false,
         rightline=false,
         linewidth=1pt,
+        skipbelow=5pt,
+        skipabove=5pt,
         linecolor =red}
 \mdfsetup{
 %
@@ -51,7 +55,6 @@ outer sep =0pt]
 {\color{white} \small Olivia};},
 frametitleaboveskip=\dimexpr-\ht\strutbox\relax
 }
-\usepackage{tikz} % used for the 'logo' und 
 %Delphin zeichnen in Nina
 \usetikzlibrary{svg.path}
 \newcommand{\Dolphin}[1][]{%
