@@ -8,9 +8,9 @@
 \contentsline {chapter}{Die Maus mit den drei Federn}{59}
 \contentsline {chapter}{Das Gespenst Jonathan}{73}
 \contentsline {chapter}{Die Papageieninsel}{89}
-\contentsline {chapter}{Der weisse Adler}{101}
-\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{107}
-\contentsline {chapter}{Erdbeeren}{117}
-\contentsline {chapter}{Das schwarze Licht}{131}
-\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{139}
-\contentsline {chapter}{Meine Freundin Henna}{153}
+\contentsline {chapter}{Der weisse Adler}{103}
+\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{109}
+\contentsline {chapter}{Erdbeeren}{119}
+\contentsline {chapter}{Das schwarze Licht}{133}
+\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{141}
+\contentsline {chapter}{Meine Freundin Henna}{155}
