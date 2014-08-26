@@ -9,8 +9,8 @@
 \contentsline {chapter}{Das Gespenst Jonathan}{73}
 \contentsline {chapter}{Die Papageieninsel}{89}
 \contentsline {chapter}{Der weisse Adler}{103}
-\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{109}
-\contentsline {chapter}{Erdbeeren}{119}
-\contentsline {chapter}{Das schwarze Licht}{133}
-\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{141}
-\contentsline {chapter}{Meine Freundin Henna}{155}
+\contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{111}
+\contentsline {chapter}{Erdbeeren}{121}
+\contentsline {chapter}{Der zornige Guhl}{135}
+\contentsline {chapter}{Der Fall der verschwundenen Schmetterlinge}{143}
+\contentsline {chapter}{Meine Freundin Henna}{159}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  25 AUG 2014 16:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  26 AUG 2014 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1901,42 +1901,54 @@ s in dieser
 
 [100] [101] [102
 
-] [103] [104]
-<bilder/adler.pdf, id=429, 358.98297pt x 201.64644pt>
+] [103] [104] [105]
+<bilder/adler.pdf, id=432, 358.98297pt x 201.64644pt>
 File: bilder/adler.pdf Graphic file (type pdf)
  <use bilder/adler.pdf>
-Package pdftex.def Info: bilder/adler.pdf used on input line 17.
-(pdftex.def)             Requested size: 221.07697pt x 124.18565pt.
+Package pdftex.def Info: bilder/adler.pdf used on input line 32.
+(pdftex.def)             Requested size: 315.82562pt x 177.4094pt.
 
-[105 <./bilder/adler.pdf>] [106] [107]) (./menschen.tex [108] [109
+[106 <./bilder/adler.pdf>] [107
 
-] [110]
-[111] [112] [113] [114] [115] [116]) (./wanfried.tex [117] [118
+] [108]) (./menschen.tex [109] [110
 
-] [119]
+] [111]
+[112] [113] <bilder/1kraehe.pdf, id=464, 709.54324pt x 469.18959pt>
+File: bilder/1kraehe.pdf Graphic file (type pdf)
+
+<use bilder/1kraehe.pdf>
+Package pdftex.def Info: bilder/1kraehe.pdf used on input line 32.
+(pdftex.def)             Requested size: 315.82562pt x 208.84239pt.
+ [114 <./bilder/1kraehe.pdf>] [115
+
+] [116] [117]
+[118] [119]) (./wanfried.tex [120] [121
+
+]
 Overfull \hbox (0.28632pt too wide) in paragraph at lines 9--10
 \T1/Quattrocento-TLF/m/sc/13 (-20) auf-ge-baut, jetzt muss es noch ein-ge-rich-
 tet wer-den. Ganz
  []
 
-[120] <bilder/opa1.pdf, id=486, 491.33244pt x 584.4101pt>
+[122] [123] <bilder/opa1.pdf, id=501, 491.33244pt x 584.4101pt>
 File: bilder/opa1.pdf Graphic file (type pdf)
 
 <use bilder/opa1.pdf>
-Package pdftex.def Info: bilder/opa1.pdf used on input line 17.
-(pdftex.def)             Requested size: 205.28471pt x 244.16646pt.
- [121]
-Underfull \vbox (badness 4621) has occurred while \output is active []
-
- [122 <./bilder/opa1.pdf>]
-Underfull \hbox (badness 1019) in paragraph at lines 33--34
+Package pdftex.def Info: bilder/opa1.pdf used on input line 29.
+(pdftex.def)             Requested size: 315.82562pt x 375.66197pt.
+ [124 <./bilder/opa1.pdf>]
+Underfull \hbox (badness 1019) in paragraph at lines 37--38
 \T1/Quattrocento-TLF/m/sc/13 (+20) schlecht und da-mit gif-tig. Es kommt zur üb
 -li-chen
  []
 
-[123] [124] [125] [126] [127] [128] [129] [130]) (./onta.tex [131] [132
+
+Underfull \vbox (badness 1701) has occurred while \output is active []
+
+ [125
 
 ]
+[126] [127] [128] [129] [130] [131] [132] [133]) (./onta.tex [134]
 
 LaTeX Font Warning: Font shape `LY/yswab/m/n' in size <13> not available
 (Font)              size <12> substituted on input line 3.
@@ -1945,122 +1957,143 @@ LaTeX Font Warning: Font shape `LY/yswab/m/n' in size <13> not available
 LaTeX Font Warning: Font shape `LY/yswab/m/n' in size <15> not available
 (Font)              size <14.4> substituted on input line 3.
 
-LaTeX Font Info:    Try loading font information for OT1+yswab on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+yswab on input line 7.
 
-LaTeX Font Info:    No file OT1yswab.fd. on input line 5.
+LaTeX Font Info:    No file OT1yswab.fd. on input line 7.
 
 LaTeX Font Warning: Font shape `OT1/yswab/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 5.
+(Font)              using `OT1/cmr/m/n' instead on input line 7.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 5.
+(Font)              size <14.4> substituted on input line 7.
 
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 15.0pt on input line 6.
-[133] <bilder/dark.pdf, id=537, 607.5703pt x 513.74797pt>
-File: bilder/dark.pdf Graphic file (type pdf)
+(Font)              scaled to size 15.0pt on input line 8.
+[135
 
-<use bilder/dark.pdf>
-Package pdftex.def Info: bilder/dark.pdf used on input line 11.
-(pdftex.def)             Requested size: 221.07697pt x 186.93242pt.
- <bilder/dark2.pdf, id=538, 597.23125pt x 845.1575pt>
-File: bilder/dark2.pdf Graphic file (type pdf)
-
-<use bilder/dark2.pdf>
-Package pdftex.def Info: bilder/dark2.pdf used on input line 16.
-(pdftex.def)             Requested size: 221.07697pt x 312.84523pt.
-
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [134]
-[135] [136]) (./kerzers.tex [137] [138 <./bilder/dark.pdf>] [139 <./bilder/dark
-2.pdf>] [140
+ [136]
+<bilder/dark.pdf, id=552, 607.5703pt x 513.74797pt>
+File: bilder/dark.pdf Graphic file (type pdf)
+ <use bilder/dark.pdf>
+Package pdftex.def Info: bilder/dark.pdf used on input line 22.
+(pdftex.def)             Requested size: 315.82562pt x 267.0564pt.
 
-] [141] [142]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[137 <./bilder/dark.pdf>]
+Underfull \vbox (badness 2142) has occurred while \output is active []
+
+ [138
+
+]
+<bilder/dark2.pdf, id=565, 597.23125pt x 845.1575pt>
+File: bilder/dark2.pdf Graphic file (type pdf)
+ <use bilder/dark2.pdf>
+Package pdftex.def Info: bilder/dark2.pdf used on input line 38.
+(pdftex.def)             Requested size: 315.82562pt x 446.93835pt.
+
+[139 <./bilder/dark2.pdf>] [140
+
+]) (./kerzers.tex [141] [142
+
+] [143] [144]
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 []\T1/QuattrocentoSans-TLF/m/n/13 (+20) Deutsch: Blau-er Mor-pho-fal-ter. Der
  []
 
 
-Overfull \hbox (5.28107pt too wide) in paragraph at lines 29--30
+Overfull \hbox (5.28107pt too wide) in paragraph at lines 26--27
 \T1/Quattrocento-TLF/m/sc/13 (-20) ge-mä-ss fin-den Ver-bre-cher-jag-den auch b
 ei Schlecht-
  []
 
-[143] [144]
-<bilder/1blauerSchmetterling.pdf, id=583, 333.92957pt x 427.47945pt>
-File: bilder/1blauerSchmetterling.pdf Graphic file (type pdf)
+[145] [146] <bilder/inkling.pdf, id=595, 334.85373pt x 253.61209pt>
+File: bilder/inkling.pdf Graphic file (type pdf)
 
-<use bilder/1blauerSchmetterling.pdf>
-Package pdftex.def Info: bilder/1blauerSchmetterling.pdf used on input line 44.
+<use bilder/inkling.pdf>
+Package pdftex.def Info: bilder/inkling.pdf used on input line 49.
+(pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
 
-(pdftex.def)             Requested size: 189.4973pt x 242.58954pt.
-
-Underfull \hbox (badness 1371) in paragraph at lines 48--49
+Underfull \hbox (badness 1371) in paragraph at lines 53--54
 []\T1/Quattrocento-TLF/m/sc/13 (+20) Der Di-rek-tor des Pa-pi-li-ora-mas, Herr 
 But-ter-blom,
  []
 
-[145 <./bilder/1blauerSchmetterling.pdf>]
-<bilder/inkling.pdf, id=594, 334.85373pt x 253.61209pt>
-File: bilder/inkling.pdf Graphic file (type pdf)
+[147 <./bilder/inkling.pdf>]
+<bilder/1blauerSchmetterling.pdf, id=602, 333.92957pt x 427.47945pt>
+File: bilder/1blauerSchmetterling.pdf Graphic file (type pdf)
 
-<use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 60.
-(pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
- [146]
+<use bilder/1blauerSchmetterling.pdf>
+Package pdftex.def Info: bilder/1blauerSchmetterling.pdf used on input line 60.
+
+(pdftex.def)             Requested size: 315.82562pt x 404.32896pt.
+ [148 <./bilder/1blauerSchmetterling.pdf>] [149
+
+]
 File: bilder/inkling.pdf Graphic file (type pdf)
  <use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 74.
+Package pdftex.def Info: bilder/inkling.pdf used on input line 73.
 (pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
- [147]
-File: bilder/inkling.pdf Graphic file (type pdf)
-
-<use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 92.
-(pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
- [148] [149] [150] [151]
+ [150]
 File: bilder/inkling.pdf Graphic file (type pdf)
  <use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 123.
+Package pdftex.def Info: bilder/inkling.pdf used on input line 90.
 (pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
 
-[152] <bilder/kerzers2.pdf, id=617, 817.79085pt x 493.72296pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151]
+[152] [153]
+File: bilder/inkling.pdf Graphic file (type pdf)
+ <use bilder/inkling.pdf>
+Package pdftex.def Info: bilder/inkling.pdf used on input line 120.
+(pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
+
+Underfull \vbox (badness 3029) has occurred while \output is active []
+
+ [154]
+[155] <bilder/kerzers2.pdf, id=634, 817.79085pt x 493.72296pt>
 File: bilder/kerzers2.pdf Graphic file (type pdf)
 
 <use bilder/kerzers2.pdf>
-Package pdftex.def Info: bilder/kerzers2.pdf used on input line 146.
+Package pdftex.def Info: bilder/kerzers2.pdf used on input line 143.
 (pdftex.def)             Requested size: 315.82562pt x 190.66777pt.
+ [156 <./bilder/kerzers2.pdf>]) (./henna.tex [157
 
+]
+[158
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./henna.tex [153] [154 <./bilder/inkling.pdf> <./bilder/kerzers2.pdf>]
-[155
-
-] [156] [157]
+] [159] [160] [161]
 Overfull \hbox (0.15895pt too wide) in paragraph at lines 21--22
 \T1/Quattrocento-TLF/m/sc/13 (-20) auch nie-mand raus. Hen-na meint, in je-dem 
 Schloss ge-be
  []
 
-[158] [159] <bilder/prinzessin.pdf, id=658, 841.23366pt x 480.1128pt>
+[162] [163] [164] <bilder/prinzessin.pdf, id=679, 841.23366pt x 480.1128pt>
 File: bilder/prinzessin.pdf Graphic file (type pdf)
 
 <use bilder/prinzessin.pdf>
-Package pdftex.def Info: bilder/prinzessin.pdf used on input line 35.
+Package pdftex.def Info: bilder/prinzessin.pdf used on input line 45.
 (pdftex.def)             Requested size: 841.2316pt x 480.11162pt.
- [160] [161] [162]) [163] [164 <./bilder/prinzessin.pdf>]
+
+
+LaTeX Warning: Float too large for page by 103.5943pt on input line 45.
+
+[165 <./bilder/prinzessin.pdf>] [166
+
+] [167]) [168]
 Package tocbasic Info: character protrusion at toc deactivated on input line 13
 7.
- (./binder.toc [165
+ (./binder.toc [169
 
 ])
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
- (./credits.tex [166]
+
+(./credits.tex [170]
 LaTeX Font Info:    Font shape `T1/QuattrocentoSans-TLF/bx/it' in size <15.5999
 6> not available
 (Font)              Font shape `T1/QuattrocentoSans-TLF/b/it' tried instead on 
@@ -2075,15 +2108,15 @@ Underfull \hbox (badness 1789) in paragraph at lines 6--7
 schrif-
  []
 
-[167
+[171
 
-]) [168] <bilder/ausmalbild.pdf, id=693, 845.04686pt x 597.50786pt>
+]) [172] <bilder/ausmalbild.pdf, id=711, 845.04686pt x 597.50786pt>
 File: bilder/ausmalbild.pdf Graphic file (type pdf)
 
 <use bilder/ausmalbild.pdf>
 Package pdftex.def Info: bilder/ausmalbild.pdf used on input line 140.
 (pdftex.def)             Requested size: 446.66063pt x 315.82562pt.
- [169 <./bilder/ausmalbild.pdf>] (./binder.aux)
+ [173 <./bilder/ausmalbild.pdf>] (./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -2093,11 +2126,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 25670 strings out of 493308
- 499570 string characters out of 6137816
+ 25669 strings out of 493308
+ 499495 string characters out of 6137816
  596810 words of memory out of 5000000
- 28312 multiletter control sequences out of 15000+600000
- 236447 words of font info for 205 fonts, out of 8000000 for 9000
+ 28316 multiletter control sequences out of 15000+600000
+ 235479 words of font info for 201 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  64i,11n,60p,10459b,781s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_qceur
@@ -2119,10 +2152,10 @@ exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb></usr/local/texli
 ve/2013/texmf-dist/fonts/type1/public/gothic/yswab.pfb>
-Output written on binder.pdf (169 pages, 8677483 bytes).
+Output written on binder.pdf (173 pages, 9979905 bytes).
 PDF statistics:
- 758 PDF objects out of 1000 (max. 8388607)
- 472 compressed objects within 5 object streams
+ 775 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 33403 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 33408 words of extra memory for PDF output out of 35830 (max. 10000000)
 
