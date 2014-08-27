@@ -4,7 +4,7 @@
 \usepackage{quattrocento}
 \usepackage[T1]{fontenc}
 %Erlaubt Einsatz von Farbe
-\usepackage{color}
+\usepackage[svgnames]{xcolor}
 %UTF 8
 \usepackage[utf8]{inputenc}
 %Schweizer Anführungszeichen
@@ -17,9 +17,9 @@
 \usepackage{scrpage2} 
 \pagestyle{scrheadings} 
 %Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Zeichen in der Mitte
-\chead{\color{red}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
+\chead{\color{HotPink}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
 %Kapitelüberschriften in Schriftart des Deckblatts
-\addtokomafont{chapter}{\color{red}\rmfamily\Huge\centering\itshape}
+\addtokomafont{chapter}{\color{HotPink}\rmfamily\Huge\centering\itshape}
 %Schriftart für grosse Anfangsbuchstaben
 \input Zallman.fd
 \renewcommand{\LettrineFontHook}{\usefont{U}{Zallman}{xl}{n}}
@@ -75,7 +75,7 @@
 \usepackage{hieroglf}            
 %Initialen Titelseite (Pseudologo "W")
 \input Typocaps.fd
-\def\FontI{\color{red}\fontsize{20pt}{0mm}\usefont{U}{Typocaps}{xl}{n}}
+\def\FontI{\color{HotPink}\fontsize{20pt}{0mm}\usefont{U}{Typocaps}{xl}{n}}
 %Für Kapitel Schlange werden Longtables benötigt
 \usepackage{longtable}
 %Kapitel onta in Schwabacher als Umgebung \begin{swb} ... \end{swb}
@@ -87,14 +87,14 @@
 \begin{titlepage}
 	\begin{center}
 		\vspace*{3\baselineskip}
-		\FontH{\Huge \color{red} Ein Buch für\\ Linda und Paula}\\ 
+		\FontH{\Huge \color{HotPink} Ein Buch für\\ Linda und Paula}\\ 
 	\end{center}
 		\vspace*{4\baselineskip}
 	
 	\begin{center}
 		\begin{tabular}{p{7cm}p{5cm}}
-			\textbf{\large \color{red} Gordon Wiegand} & \textbf{\large \color{red}  Linda Wiegand}\\
-			\textbf{\large \color{red}\itshape Texte} & \textbf{\large \color{red}\itshape Illustrationen}\\
+			\textbf{\large \color{HotPink} Gordon Wiegand} & \textbf{\large \color{HotPink}  Linda Wiegand}\\
+			\textbf{\large \color{HotPink}\itshape Texte} & \textbf{\large \color{HotPink}\itshape Illustrationen}\\
 		\end{tabular}
 
 	\end{center}
