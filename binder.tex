@@ -17,9 +17,9 @@
 \usepackage{scrpage2} 
 \pagestyle{scrheadings} 
 %Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Zeichen in der Mitte
-\chead{\color{HotPink}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
+\chead{\color{DeepPink}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
 %Kapitelüberschriften in Schriftart des Deckblatts
-\addtokomafont{chapter}{\color{HotPink}\rmfamily\Huge\centering\itshape}
+\addtokomafont{chapter}{\color{DeepPink}\rmfamily\Huge\centering\itshape}
 %Schriftart für grosse Anfangsbuchstaben
 \input Zallman.fd
 \renewcommand{\LettrineFontHook}{\usefont{U}{Zallman}{xl}{n}}
@@ -37,14 +37,14 @@
 \usepackage{tikz} % used for the 'logo' und 
 \mdfdefinestyle{mystyle}{
         roundcorner=10pt,
-        backgroundcolor= red!05, 
+        backgroundcolor= DeepPink!05, 
         everyline=true,
         bottomline=false,
         rightline=false,
         linewidth=1pt,
         skipbelow=5pt,
         skipabove=5pt,
-        linecolor =red}
+        linecolor =DeepPink}
 \mdfsetup{
     frametitle={
         \tikz[baseline=(current bounding box.east), outer sep =0pt]
@@ -75,7 +75,7 @@
 \usepackage{hieroglf}            
 %Initialen Titelseite (Pseudologo "W")
 \input Typocaps.fd
-\def\FontI{\color{HotPink}\fontsize{20pt}{0mm}\usefont{U}{Typocaps}{xl}{n}}
+\def\FontI{\color{DeepPink}\fontsize{20pt}{0mm}\usefont{U}{Typocaps}{xl}{n}}
 %Für Kapitel Schlange werden Longtables benötigt
 \usepackage{longtable}
 %Kapitel onta in Schwabacher als Umgebung \begin{swb} ... \end{swb}
@@ -85,24 +85,7 @@
 \begin{document}
 %titelseite
 \begin{titlepage}
-	\begin{center}
-		\vspace*{3\baselineskip}
-		\FontH{\Huge \color{HotPink} Ein Buch für\\ Linda und Paula}\\ 
-	\end{center}
-		\vspace*{4\baselineskip}
-	
-	\begin{center}
-		\begin{tabular}{p{7cm}p{5cm}}
-			\textbf{\large \color{HotPink} Gordon Wiegand} & \textbf{\large \color{HotPink}  Linda Wiegand}\\
-			\textbf{\large \color{HotPink}\itshape Texte} & \textbf{\large \color{HotPink}\itshape Illustrationen}\\
-		\end{tabular}
-
-	\end{center}
-		\vspace*{4\baselineskip}
-	\begin{center}
-   		\large\FontI{W}
-	\end{center}
-
+    \includegraphics[height=\textheight]{bilder/inlet.pdf}  
 \end{titlepage}
 %Bild Seite 2
 \afterpage{

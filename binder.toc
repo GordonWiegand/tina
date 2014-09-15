@@ -5,8 +5,8 @@
 \contentsline {chapter}{Flieg, Pinarella!}{23}
 \contentsline {chapter}{Milch und Eis}{31}
 \contentsline {chapter}{Nina und die rosa Delphine}{37}
-\contentsline {chapter}{Die Maus mit den drei Federn}{59}
-\contentsline {chapter}{Das Gespenst Jonathan}{73}
+\contentsline {chapter}{Die Maus mit den drei Federn}{61}
+\contentsline {chapter}{Das Gespenst Jonathan}{75}
 \contentsline {chapter}{Die Papageieninsel}{91}
 \contentsline {chapter}{Der weisse Adler}{105}
 \contentsline {chapter}{Die Insel der grossen Kr\IeC {\"a}he}{113}
