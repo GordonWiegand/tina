@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  15 SEP 2014 15:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  16 SEP 2014 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2075,17 +2075,19 @@ LaTeX Warning: Float too large for page by 103.5943pt on input line 45.
 
 [167 <./bilder/prinzessin.pdf>] [168
 
-] [169]) [170]
+] [169]) (./indien.tex [170] [171
+
+] [172]
+[173] [174]) [175] [176]
 Package tocbasic Info: character protrusion at toc deactivated on input line 12
-0.
- (./binder.toc [171
+1.
+ (./binder.toc [177
 
 ])
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
-
-(./credits.tex [172]
+ (./credits.tex [178]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/it' in size <15.59996> n
 ot available
 (Font)              Font shape `T1/Quattrocento-TLF/b/it' tried instead on inpu
@@ -2106,15 +2108,15 @@ Underfull \hbox (badness 1789) in paragraph at lines 6--7
 schrif-
  []
 
-[173
+[179
 
-]) [174] <bilder/ausmalbild.pdf, id=756, 845.04686pt x 597.50786pt>
+]) [180] <bilder/ausmalbild.pdf, id=775, 845.04686pt x 597.50786pt>
 File: bilder/ausmalbild.pdf Graphic file (type pdf)
 
 <use bilder/ausmalbild.pdf>
-Package pdftex.def Info: bilder/ausmalbild.pdf used on input line 123.
+Package pdftex.def Info: bilder/ausmalbild.pdf used on input line 124.
 (pdftex.def)             Requested size: 446.66063pt x 315.82562pt.
- [175 <./bilder/ausmalbild.pdf>] (./binder.aux)
+ [181 <./bilder/ausmalbild.pdf>] (./binder.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -2124,11 +2126,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 25816 strings out of 493308
- 501678 string characters out of 6137816
+ 25833 strings out of 493308
+ 502056 string characters out of 6137816
  605894 words of memory out of 5000000
- 28465 multiletter control sequences out of 15000+600000
- 225058 words of font info for 197 fonts, out of 8000000 for 9000
+ 28469 multiletter control sequences out of 15000+600000
+ 225850 words of font info for 205 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  64i,11n,60p,10459b,781s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_qceur
@@ -2149,10 +2151,10 @@ cal/texlive/2013/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local
 exlive/2013/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/
 texlive/2013/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/gothic/yswab.pfb>
-Output written on binder.pdf (175 pages, 10387744 bytes).
+Output written on binder.pdf (181 pages, 10399794 bytes).
 PDF statistics:
- 818 PDF objects out of 1000 (max. 8388607)
- 514 compressed objects within 6 object streams
+ 838 PDF objects out of 1000 (max. 8388607)
+ 528 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  32906 words of extra memory for PDF output out of 35830 (max. 10000000)
 
