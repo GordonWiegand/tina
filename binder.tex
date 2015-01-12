@@ -13,12 +13,12 @@
 \usepackage{lettrine}
 %Fourier Ornamente für Seitenkopf
 \usepackage{fourier-orns}
-%Ums Seitenkopf zu manipulieren
+%Um Seitenkopf zu manipulieren
 \usepackage{scrpage2} 
 \pagestyle{scrheadings} 
-%Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Zeichen in der Mitte
+%Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Fleurons in der Mitte
 \chead{\color{DeepPink}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
-%Kapitelüberschriften in Schriftart des Deckblatts
+%Kapitelüberschriften 
 \addtokomafont{chapter}{\color{DeepPink}\rmfamily\Huge\centering\itshape}
 %Schriftart für grosse Anfangsbuchstaben
 \input Zallman.fd
@@ -94,8 +94,8 @@
     \end{figure}
     \clearpage
 }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Kapitel einfügen
-%\input{schlange}
 \input{tabea}
 \input{stift}
 \input{clown}
@@ -112,14 +112,11 @@
 \input{kerzers}
 \input{henna}
 \input{indien}
-%\input{karl}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Inhaltsverzeichnis
 \newpage
-        \thispagestyle{empty}
+\pagestyle{empty}
 \tableofcontents
 \input{credits}
 
 \end{document}
-
-
-
