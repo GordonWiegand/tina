@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  12 JAN 2015 16:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  13 JAN 2015 09:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2357,6 +2357,9 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  24150 strings out of 493308
@@ -2384,7 +2387,7 @@ cal/texlive/2013/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local
 exlive/2013/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/
 texlive/2013/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/gothic/yswab.pfb>
-Output written on binder.pdf (185 pages, 9778170 bytes).
+Output written on binder.pdf (185 pages, 9778201 bytes).
 PDF statistics:
  856 PDF objects out of 1000 (max. 8388607)
  541 compressed objects within 6 object streams
