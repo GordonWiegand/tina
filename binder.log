@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  4 JUN 2015 16:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.6.27)  8 JUN 2015 09:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2114,19 +2114,19 @@ LaTeX Font Warning: Font shape `U/yinitas/m/n' in size <15> not available
 
 LaTeX Font Info:    External font `yinitas at55.68pt' loaded for size
 (Font)              <14.4> on input line 4.
-LaTeX Font Info:    Try loading font information for OT1+yswab on input line 9.
-
-LaTeX Font Info:    No file OT1yswab.fd. on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+yswab on input line 12
+.
+LaTeX Font Info:    No file OT1yswab.fd. on input line 12.
 
 LaTeX Font Warning: Font shape `OT1/yswab/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 9.
+(Font)              using `OT1/cmr/m/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 9.
+(Font)              size <14.4> substituted on input line 12.
 
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 15.0pt on input line 10.
+(Font)              scaled to size 15.0pt on input line 13.
 [139
 
 ]
@@ -2136,7 +2136,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <bilder/dark.pdf, id=601, 607.5703pt x 513.74797pt>
 File: bilder/dark.pdf Graphic file (type pdf)
  <use bilder/dark.pdf>
-Package pdftex.def Info: bilder/dark.pdf used on input line 24.
+Package pdftex.def Info: bilder/dark.pdf used on input line 27.
 (pdftex.def)             Requested size: 315.82562pt x 267.0564pt.
 
 [141 <./bilder/dark.pdf>]
@@ -2148,7 +2148,7 @@ Underfull \vbox (badness 2142) has occurred while \output is active []
 <bilder/dark2.pdf, id=614, 597.23125pt x 845.1575pt>
 File: bilder/dark2.pdf Graphic file (type pdf)
  <use bilder/dark2.pdf>
-Package pdftex.def Info: bilder/dark2.pdf used on input line 40.
+Package pdftex.def Info: bilder/dark2.pdf used on input line 43.
 (pdftex.def)             Requested size: 315.82562pt x 446.93835pt.
 
 [143 <./bilder/dark2.pdf>] [144
@@ -2222,39 +2222,35 @@ i-tät
 ]
 File: bilder/inkling.pdf Graphic file (type pdf)
  <use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 73.
+Package pdftex.def Info: bilder/inkling.pdf used on input line 75.
 (pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
  [154]
-Underfull \hbox (badness 1163) in paragraph at lines 83--84
+Underfull \hbox (badness 1163) in paragraph at lines 85--86
 \T1/Quattrocento-TLF/m/sc/13 Ver-ena Studer-Matt und der Rock da-hin-ten^^T da-
 bei
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 83--84
+Underfull \hbox (badness 1715) in paragraph at lines 85--86
 \T1/Quattrocento-TLF/m/sc/13 deu-tet sie auf die schmet-ter-lings-ge-mus-ter-te
 n Klei-
  []
 
 File: bilder/inkling.pdf Graphic file (type pdf)
 <use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 90.
+Package pdftex.def Info: bilder/inkling.pdf used on input line 92.
 (pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [155]
-[156] [157]
+ [155] [156] [157]
 File: bilder/inkling.pdf Graphic file (type pdf)
  <use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 120.
+Package pdftex.def Info: bilder/inkling.pdf used on input line 122.
 (pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
- [158] [159]
-<bilder/kerzers2.pdf, id=683, 817.79085pt x 493.72296pt>
+ [158]
+[159] <bilder/kerzers2.pdf, id=683, 817.79085pt x 493.72296pt>
 File: bilder/kerzers2.pdf Graphic file (type pdf)
 
 <use bilder/kerzers2.pdf>
-Package pdftex.def Info: bilder/kerzers2.pdf used on input line 142.
+Package pdftex.def Info: bilder/kerzers2.pdf used on input line 146.
 (pdftex.def)             Requested size: 315.82562pt x 190.66777pt.
  [160 <./bilder/kerzers2.pdf>]) (./henna.tex [161
 
@@ -2294,16 +2290,16 @@ Overfull \hbox (3.06183pt too wide) in paragraph at lines 25--26
 File: bilder/prinzessin.pdf Graphic file (type pdf)
 
 <use bilder/prinzessin.pdf>
-Package pdftex.def Info: bilder/prinzessin.pdf used on input line 45.
+Package pdftex.def Info: bilder/prinzessin.pdf used on input line 56.
 (pdftex.def)             Requested size: 315.82562pt x 180.24698pt.
  [169 <./bilder/prinzessin.pdf>]
-Underfull \hbox (badness 1052) in paragraph at lines 46--47
+Underfull \hbox (badness 1052) in paragraph at lines 57--58
 []\T1/Quattrocento-TLF/m/sc/13 Wir nä-her-ten uns dem Zim-mer. Ich weiss nicht,
 
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 48--49
+Underfull \hbox (badness 1092) in paragraph at lines 59--60
 []\T1/Quattrocento-TLF/m/sc/13 Plötzlich be-weg-te sich ei-ner die-ser Schat-te
 n und
  []
@@ -2311,7 +2307,7 @@ n und
 [170
 
 ]
-Underfull \hbox (badness 1688) in paragraph at lines 56--57
+Underfull \hbox (badness 1688) in paragraph at lines 69--70
 []\T1/Quattrocento-TLF/m/sc/13 Dort ha-ben wir ge-ra-de ge-übt, wer am höchs-te
 n
  []
@@ -2422,7 +2418,7 @@ man.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
 2.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/fourier/fourier-or
 ns.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/frcursive/frcr14.
 pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/gothic/yswab.pfb>
-Output written on binder.pdf (185 pages, 9787184 bytes).
+Output written on binder.pdf (185 pages, 9786550 bytes).
 PDF statistics:
  861 PDF objects out of 1000 (max. 8388607)
  545 compressed objects within 6 object streams
