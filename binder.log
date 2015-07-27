@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.27)  27 JUL 2015 16:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.27)  27 JUL 2015 17:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1255,47 +1255,22 @@ File: pgfmoduleparser.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.2)
 \pgf@lib@svg@last@c@y=\dimen210
 \pgf@lib@svg@count=\count164
 \pgf@lib@svg@max@num=\count165
-))) (/usr/local/texlive/2015/texmf-dist/tex/latex/todonotes/todonotes.sty
-Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
-Package: todonotes 2012/07/25
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count166
-\calc@Bcount=\count167
-\calc@Adimen=\dimen211
-\calc@Bdimen=\dimen212
-\calc@Askip=\skip121
-\calc@Bskip=\skip122
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count168
-\calc@Cskip=\skip123
-)
-\c@@todonotes@numberoftodonotes=\count169
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/verse/verse.sty
+))) (/usr/local/texlive/2015/texmf-dist/tex/latex/verse/verse.sty
 Package: verse 2009/09/04 v2.4a verse typesetting
-\c@vslineno=\count170
-\c@poemline=\count171
-\c@fvsline=\count172
-\c@modulo@vs=\count173
-\c@verse@envctr=\count174
-\versewidth=\skip124
-\vgap=\skip125
-\vindent=\skip126
-\stanzaskip=\skip127
-\vleftskip=\skip128
-\vrightskip=\skip129
-\c@chrsinstr=\count175
-\beforepoemtitleskip=\skip130
-\afterpoemtitleskip=\skip131
+\c@vslineno=\count166
+\c@poemline=\count167
+\c@fvsline=\count168
+\c@modulo@vs=\count169
+\c@verse@envctr=\count170
+\versewidth=\skip121
+\vgap=\skip122
+\vindent=\skip123
+\stanzaskip=\skip124
+\vleftskip=\skip125
+\vrightskip=\skip126
+\c@chrsinstr=\count171
+\beforepoemtitleskip=\skip127
+\afterpoemtitleskip=\skip128
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/skull/skull.sty
 Package: skull 2002/01/23 v0.1 (c) Henrik Christian Grove <grove@math.ku.dk>
@@ -1313,9 +1288,9 @@ Package: hieroglf 2015/06/02 v1.4 package for poor mans hieroglyphs
 (/usr/local/texlive/2015/texmf-dist/tex/latex/archaic/oands.sty
 Package: oands 2000/08/19 v1.0 package for OandS fonts
 )
-\c@rthm=\skip132
+\c@rthm=\skip129
 \c@rtbox=\box65
-\c@rtht=\dimen213
+\c@rtht=\dimen211
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/initials/Typocaps.fd
 File: Typocaps.fd 2003/04/02 Font definition file for U/Typocaps
@@ -1329,7 +1304,7 @@ Now handling font encoding LYG ...
 )
 DIV calculation for typearea with good linewidth.
 LaTeX Font Info:    Try loading font information for T1+Quattrocento-TLF on inp
-ut line 80.
+ut line 78.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/quattrocento/T1Quattrocento-TLF.f
 d
@@ -1337,7 +1312,7 @@ File: T1Quattrocento-TLF.fd 2012/11/07 (autoinst) Font definitions for T1/Quatt
 rocento-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
-(Font)              scaled to size 13.0pt on input line 80.
+(Font)              scaled to size 13.0pt on input line 78.
 
 
 Package typearea Warning: Maybe no optimal type area settings!
@@ -1362,7 +1337,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 13.0pt
 (typearea)              \footskip       = 54.59984pt
 (typearea)              \baselineskip   = 15.59996pt
-(typearea)              on input line 80.
+(typearea)              on input line 78.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1370,43 +1345,43 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 (./binder.aux)
 \openout1 = `binder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 80.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-\c@mv@tabular=\count176
-\c@mv@boldtabular=\count177
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+\c@mv@tabular=\count172
+\c@mv@boldtabular=\count173
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count178
-\scratchdimen=\dimen214
+\scratchcounter=\count174
+\scratchdimen=\dimen212
 \scratchbox=\box66
-\nofMPsegments=\count179
-\nofMParguments=\count180
+\nofMPsegments=\count175
+\nofMParguments=\count176
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count181
-\MPscratchDim=\dimen215
-\MPnumerator=\count182
-\makeMPintoPDFobject=\count183
+\MPscratchCnt=\count177
+\MPscratchDim=\dimen213
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
 \everyMPtoPDFconversion=\toks35
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1429,7 +1404,7 @@ ABD: EveryShipout initializing macros
 <bilder/inlet.pdf, id=4, 455.69pt x 748.96396pt>
 File: bilder/inlet.pdf Graphic file (type pdf)
  <use bilder/inlet.pdf>
-Package pdftex.def Info: bilder/inlet.pdf used on input line 85.
+Package pdftex.def Info: bilder/inlet.pdf used on input line 83.
 (pdftex.def)             Requested size: 273.67337pt x 449.79889pt.
 
 [1
@@ -2308,7 +2283,7 @@ r-si-ve \T1/Quattrocento-TLF/m/sc/13 von Em-ma-nu-el Beffa-ra
 File: bilder/ausmalbild.pdf Graphic file (type pdf)
 
 <use bilder/ausmalbild.pdf>
-Package pdftex.def Info: bilder/ausmalbild.pdf used on input line 121.
+Package pdftex.def Info: bilder/ausmalbild.pdf used on input line 119.
 (pdftex.def)             Requested size: 446.66063pt x 315.82562pt.
  [185 <./bilder/ausmalbild.pdf>] (./binder.aux)
 
@@ -2320,13 +2295,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 25208 strings out of 493093
- 489982 string characters out of 6134989
- 586821 words of memory out of 5000000
- 28144 multiletter control sequences out of 15000+600000
+ 24833 strings out of 493093
+ 481611 string characters out of 6134989
+ 579539 words of memory out of 5000000
+ 27782 multiletter control sequences out of 15000+600000
  194288 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,11n,66p,10434b,771s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,11n,66p,10434b,764s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_qceur
 4.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_t
 evtmb.enc} </Users/gordon/Library/texlive/2015/texmf-var/fonts/pk/ljfour/local/
