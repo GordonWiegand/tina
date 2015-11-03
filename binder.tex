@@ -14,17 +14,19 @@
 %Fourier Ornamente für Seitenkopf
 \usepackage{fourier-orns}
 %Um Seitenkopf zu manipulieren
-\usepackage{scrpage2} 
+\usepackage{scrpage2}
 \pagestyle{scrheadings} 
-%Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Fleurons in der Mitte
-\chead{\color{DeepPink}\hrulefill\hspace{0.2cm} \floweroneleft\floweroneright \hspace{0.2cm} \hrulefill}
 %Kapitelüberschriften 
 \addtokomafont{chapter}{\color{DeepPink}\rmfamily\Huge\centering\itshape}
+%Viktorianische Ornamente
+\usepackage{pgfornament} 
+%Auf jeder Seite ausser Kapitelanfängen oben Linie mit zwei Fleurons in der Mitte
+\chead{\color{DeepPink}\pgfornament[width=8cm,color=DeepPink]{88}}
 %Schriftart für grosse Anfangsbuchstaben
 \input Zallman.fd
 \renewcommand{\LettrineFontHook}{\usefont{U}{Zallman}{xl}{n}}
 %Schrift für Überschriften
-\def\FontH{\fontsize{10pt}{0mm}\usefont{T1}{frc}{m}{n}}
+\def\FontH{\centering\fontsize{10pt}{0mm}\usefont{T1}{frc}{m}{n}}
 %Bilder einbinden
 \usepackage{graphicx}
 %Bilder auf ganze Seite ausdehnen
@@ -75,7 +77,7 @@
 %Schrift für Überschriften Kap Onta
 \def\FontO{\swabfamily\fontsize{46}{64}\selectfont}
 %Satzspiegelberechnung mit allen Parametern nochmals durchführen
-\KOMAoptions{DIV=last}
+\KOMAoptions{DIV=calc}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 %titelseite
@@ -114,6 +116,7 @@
 \newpage
 \pagestyle{empty}
 \tableofcontents
+\input{stats}
 \input{credits}
 
 \end{document}
