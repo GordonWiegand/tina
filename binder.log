@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  3 NOV 2015 06:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  5 NOV 2015 16:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -660,7 +660,7 @@ Package: fourier-orns 2004/01/30 1.1 fourier-ornaments package
 Package: scrpage2 2015/10/03 v3.19a KOMA-Script package (page head and foot)
 LaTeX Info: Redefining \pagemark on input line 174.
 )
-(/usr/local/texlive/texmf-local/tex/latex/pgfornament.sty
+(/Users/gordonwiegand/Library/texmf/tex/latex/pgfornament/pgfornament.sty
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
@@ -957,8 +957,8 @@ Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 )
 Package: pgfornament 2014/05/31 v0.11 vector ornaments
 
-(/usr/local/texlive/texmf-local/tex/latex/pgflibraryvectorian.code.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/initials/Zallman.fd
+(/Users/gordonwiegand/Library/texmf/tex/latex/pgfornament/pgflibraryvectorian.c
+ode.tex)) (/usr/local/texlive/2015/texmf-dist/tex/latex/initials/Zallman.fd
 File: Zallman.fd 2003/04/02 Font definition file for U/Zallman
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/afterpage.sty
@@ -1565,9 +1565,9 @@ Underfull \hbox (badness 2111) in paragraph at lines 15--16
 
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [4]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [5]
-<bilder/1schnecke.pdf, id=65, 324.4821pt x 200.64331pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[4] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[5] <bilder/1schnecke.pdf, id=65, 324.4821pt x 200.64331pt>
 File: bilder/1schnecke.pdf Graphic file (type pdf)
 
 <use bilder/1schnecke.pdf>
@@ -1589,71 +1589,75 @@ ei-ge-
 Underfull \vbox (badness 1515) has occurred while \output is active []
 
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [7
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[7
 
 ]
 LaTeX Font Info:    Try loading font information for U+futs on input line 48.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/ufuts.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/ufuts.fd
 File: ufuts.fd 2004/03/26 Fontinst v1.926 font definitions for U/futs.
-)) (./stift.tex
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [8]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [9]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [10
+))
+(./stift.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[8] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[9] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[10
 
 ] [11]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [12]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[12]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 15.59996pt on input line 37.
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/it' will be
 (Font)              scaled to size 15.59996pt on input line 38.
-
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [13]
-<bilder/loewenalarm.pdf, id=99, 845.04686pt x 597.50786pt>
+ (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [13
+] <bilder/loewenalarm.pdf, id=99, 845.04686pt x 597.50786pt>
 File: bilder/loewenalarm.pdf Graphic file (type pdf)
 
 <use bilder/loewenalarm.pdf>
 Package pdftex.def Info: bilder/loewenalarm.pdf used on input line 43.
 (pdftex.def)             Requested size: 315.82156pt x 314.8542pt.
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [14 <./bilder/loew
-enalarm.pdf>]) (./clown.tex
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [15
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[14 <./bilder/loewenalarm.pdf>]) (./clown.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[15
 
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [16
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [1
+6
 
 ]
 Underfull \hbox (badness 1412) in paragraph at lines 3--10
 [][] \T1/Quattrocento-TLF/m/sc/13 und sei-ne El-tern kom-men ge-ra-de vom
  []
 
-[17] (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [18]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [19]
-<bilder/clown.pdf, id=124, 845.04686pt x 597.50786pt>
+[17] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[18] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[19] <bilder/clown.pdf, id=124, 845.04686pt x 597.50786pt>
 File: bilder/clown.pdf Graphic file (type pdf)
- <use bilder/clown.pdf>
+
+<use bilder/clown.pdf>
 Package pdftex.def Info: bilder/clown.pdf used on input line 55.
 (pdftex.def)             Requested size: 315.82562pt x 223.30817pt.
-
-[20 <./bilder/clown.pdf>]
+ [20 <./bilder/clown.pdf>]
 Overfull \hbox (7.13307pt too wide) in paragraph at lines 56--62
 \T1/Quattrocento-TLF/m/sc/13 im-mer wie-der an ihm hoch und ver-sucht ihn zu sc
 hnap-
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [21
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[21
 
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [22]
-<bilder/clown2.pdf, id=140, 834.35107pt x 517.87318pt>
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [2
+2] <bilder/clown2.pdf, id=140, 834.35107pt x 517.87318pt>
 File: bilder/clown2.pdf Graphic file (type pdf)
- <use bilder/clown2.pdf>
+
+<use bilder/clown2.pdf>
 Package pdftex.def Info: bilder/clown2.pdf used on input line 84.
 (pdftex.def)             Requested size: 315.82562pt x 196.02734pt.
-
-[23 <./bilder/clown2.pdf>]) (./pinarella.tex
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [24
+ [23 <./bilder/clown2.pdf>]) (./pinarella.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[24
 
 ]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/bx/it' in size <11.86258> n
@@ -1665,15 +1669,16 @@ LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/b/it' will be
  [25
 
 ]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [26]
-<bilder/pinarella.pdf, id=161, 414.96434pt x 417.05571pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[26] <bilder/pinarella.pdf, id=161, 414.96434pt x 417.05571pt>
 File: bilder/pinarella.pdf Graphic file (type pdf)
 
 <use bilder/pinarella.pdf>
 Package pdftex.def Info: bilder/pinarella.pdf used on input line 20.
 (pdftex.def)             Requested size: 315.82562pt x 317.43654pt.
  [27 <./bilder/pinarella.pdf>]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [28
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[28
 
 ]
 Underfull \hbox (badness 1038) in paragraph at lines 38--39
@@ -1681,16 +1686,18 @@ Underfull \hbox (badness 1038) in paragraph at lines 38--39
  hat-te aber
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [29]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[29]
 Underfull \hbox (badness 1009) in paragraph at lines 44--45
 []\T1/Quattrocento-TLF/m/sc/13 Mit ei-nem lei-sen \T1/Quattrocento-TLF/m/it/13 
 Plopp \T1/Quattrocento-TLF/m/sc/13 lan-de-te Pi-na-rel-la auf der
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [30])
-(./schneekoenigin.tex
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [31]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [32
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[30]) (./schneekoenigin.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[31] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[32
 
 ] [33]
 Underfull \hbox (badness 1552) in paragraph at lines 39--40
@@ -1698,8 +1705,8 @@ Underfull \hbox (badness 1552) in paragraph at lines 39--40
 ie
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [34]
-<bilder/schneekoenigin.pdf, id=194, 797.80983pt x 543.74805pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[34] <bilder/schneekoenigin.pdf, id=194, 797.80983pt x 543.74805pt>
 File: bilder/schneekoenigin.pdf Graphic file (type pdf)
 
 <use bilder/schneekoenigin.pdf>
@@ -1723,7 +1730,8 @@ Underfull \hbox (badness 1062) in paragraph at lines 52--53
 
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [36
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[36
 
 ]
 Overfull \hbox (2.21896pt too wide) in paragraph at lines 62--66
@@ -1731,8 +1739,10 @@ Overfull \hbox (2.21896pt too wide) in paragraph at lines 62--66
 chnee-
  []
 
-) (./delphine.tex (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf)
-[37] (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [38
+) (./delphine.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[37] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[38
 
 ] [39]
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
@@ -1741,13 +1751,14 @@ LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 Underfull \vbox (badness 3029) has occurred while \output is active []
 
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [40]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [41]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [42]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [43]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [44]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [45]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [46]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[40] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[41] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[42] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[43] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[44] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[45] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[46]
 Overfull \hbox (5.39102pt too wide) in paragraph at lines 73--74
 []\T1/Quattrocento-TLF/m/sc/13 Sie schwam-men im-mer wei-ter und wei-ter und ta
 uch-
@@ -1765,7 +1776,8 @@ Underfull \hbox (badness 1043) in paragraph at lines 77--78
 i-do-lin
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [47]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[47]
 Underfull \hbox (badness 1418) in paragraph at lines 79--80
 []\T1/Quattrocento-TLF/m/sc/13 Die fünf Freun-de hat-ten den Ein-gang zur Höh-l
 e
@@ -1777,20 +1789,21 @@ Overfull \hbox (2.28401pt too wide) in paragraph at lines 79--80
 nn-
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [48]
-<bilder/oma1.pdf, id=245, 845.04686pt x 597.50786pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[48] <bilder/oma1.pdf, id=245, 845.04686pt x 597.50786pt>
 File: bilder/oma1.pdf Graphic file (type pdf)
- <use bilder/oma1.pdf>
+
+<use bilder/oma1.pdf>
 Package pdftex.def Info: bilder/oma1.pdf used on input line 93.
 (pdftex.def)             Requested size: 315.82562pt x 223.30817pt.
-
-[49 <./bilder/oma1.pdf>]
+ [49 <./bilder/oma1.pdf>]
 Underfull \hbox (badness 1194) in paragraph at lines 96--97
 []\T1/Quattrocento-TLF/m/sc/13 Die fünf Freun-de schlan-gen die Fi-sche her-un-
 ter.
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [50
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[50
 
 ]
 Underfull \hbox (badness 2181) in paragraph at lines 112--113
@@ -1798,13 +1811,15 @@ Underfull \hbox (badness 2181) in paragraph at lines 112--113
 ie
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [51]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [52]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[51] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[52]
 Underfull \vbox (badness 1371) has occurred while \output is active []
 
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [53]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [54]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[53] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[54]
 Underfull \hbox (badness 1102) in paragraph at lines 152--153
 \T1/Quattrocento-TLF/m/sc/13 dach-te Ni-na, ^^S  Jetzt ken-ne ich mich gar nich
 t aus!^^T
@@ -1822,73 +1837,80 @@ Underfull \hbox (badness 1077) in paragraph at lines 154--155
 hat-te sie ja
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [55]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[55]
 Underfull \hbox (badness 1142) in paragraph at lines 164--165
 []\T1/Quattrocento-TLF/m/sc/13 Nach dem Es-sen fin-gen al-le sehr an-ge-strengt
  an
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [56]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[56]
 Underfull \hbox (badness 1418) in paragraph at lines 174--175
 []\T1/Quattrocento-TLF/m/sc/13 Ein kleb-ri-ger Ge-schmack mach-te sich in sei-n
 em
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [57]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [58]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[57] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[58]
 Overfull \hbox (1.465pt too wide) in paragraph at lines 192--193
 []\T1/Quattrocento-TLF/m/sc/13 Als das Fest vor-über war, wa-ren Ro-sa und ih-r
 e Freun-
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [59]
-<bilder/delphin.pdf, id=286, 845.04686pt x 597.50786pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[59] <bilder/delphin.pdf, id=286, 845.04686pt x 597.50786pt>
 File: bilder/delphin.pdf Graphic file (type pdf)
 
 <use bilder/delphin.pdf>
 Package pdftex.def Info: bilder/delphin.pdf used on input line 197.
 (pdftex.def)             Requested size: 315.82562pt x 223.30817pt.
  [60 <./bilder/delphin.pdf>]) (./maus.tex
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [61
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[61
 
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [62
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [6
+2
 
 ] [63]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [64]
-<bilder/1mausFee.pdf, id=308, 845.04686pt x 597.50786pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[64] <bilder/1mausFee.pdf, id=308, 845.04686pt x 597.50786pt>
 File: bilder/1mausFee.pdf Graphic file (type pdf)
 
 <use bilder/1mausFee.pdf>
 Package pdftex.def Info: bilder/1mausFee.pdf used on input line 20.
 (pdftex.def)             Requested size: 315.82562pt x 223.30817pt.
  [65 <./bilder/1mausFee.pdf>]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [66
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[66
 
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [67]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [68]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [69]
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [6
+7] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [
+68]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[69]
 Underfull \hbox (badness 1803) in paragraph at lines 57--58
 \T1/Quattrocento-TLF/m/sc/13 ei-ge-nen La-den auf-ge-macht hat-te. Wo-zu auch? 
 Die
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [70]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [71]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [72]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [73]
-<bilder/maus_2.pdf, id=344, 597.50786pt x 845.04686pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[70] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[71] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[72] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[73] <bilder/maus_2.pdf, id=344, 597.50786pt x 845.04686pt>
 File: bilder/maus_2.pdf Graphic file (type pdf)
- <use bilder/maus_2.pdf>
+
+<use bilder/maus_2.pdf>
 Package pdftex.def Info: bilder/maus_2.pdf used on input line 101.
 (pdftex.def)             Requested size: 315.82562pt x 446.66063pt.
+ [74 <./bilder/maus_2.pdf>]) (./gespenst.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[75
 
-[74 <./bilder/maus_2.pdf>]) (./gespenst.tex
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [75
-
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [76
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [7
+6
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 3.
@@ -1904,53 +1926,59 @@ Overfull \hbox (9.98306pt too wide) in paragraph at lines 23--24
 ibt steh'n.^^T
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [78]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[78]
 Overfull \hbox (1.50397pt too wide) in paragraph at lines 25--26
 []\T1/Quattrocento-TLF/m/sc/13 Und Jo-na-than war oben-drein ein be-son-ders sc
 hreck-
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 27.
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [79]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[79]
 Underfull \hbox (badness 1275) in paragraph at lines 40--44
 \T1/Quattrocento-TLF/m/sc/13 mer ganz lei-se sein müs-sen. Die Men-schen ha-ben
 
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [80]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[80]
 Package mdframed Info: mdframed works in twoside mode on input line 48.
-
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [81]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [82]
+ (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [81
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [8
+2]
 Overfull \hbox (0.51599pt too wide) in paragraph at lines 60--61
 \T1/Quattrocento-TLF/m/sc/13 hier ein-mal rich-tig auf-zuräu-men und den gan-ze
 n Staub
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [83]
-<bilder/gespenst1.pdf, id=382, 514.76103pt x 602.73473pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[83] <bilder/gespenst1.pdf, id=382, 514.76103pt x 602.73473pt>
 File: bilder/gespenst1.pdf Graphic file (type pdf)
 
 <use bilder/gespenst1.pdf>
 Package pdftex.def Info: bilder/gespenst1.pdf used on input line 80.
 (pdftex.def)             Requested size: 315.82562pt x 369.80135pt.
  [84 <./bilder/gespenst1.pdf>]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [85
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[85
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 102.
-
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [86]
+ (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [86
+]
 Package mdframed Info: Not enough space on this page on input line 107.
-
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [87]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [88]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [89]
+ (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [87
+]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[88] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[89]
 Package mdframed Info: mdframed works in twoside mode on input line 137.
-
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [90]) (./pirat.tex
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [91]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [92
+ (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [90
+]) (./pirat.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[91] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[92
 
 ]
 Overfull \hbox (2.15393pt too wide) in paragraph at lines 11--20
@@ -1958,39 +1986,43 @@ Overfull \hbox (2.15393pt too wide) in paragraph at lines 11--20
 -feln schä-
  []
 
-[93] (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [94]
+[93] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[94]
 Overfull \hbox (4.58498pt too wide) in paragraph at lines 42--43
 \T1/Quattrocento-TLF/m/sc/13 so-fort wie-der-hol-te ein gros-ser Chor von ge-na
 u-so kräch-
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [95]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [96]
-<bilder/pirat1.pdf, id=431, 845.04686pt x 597.50786pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[95] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[96] <bilder/pirat1.pdf, id=431, 845.04686pt x 597.50786pt>
 File: bilder/pirat1.pdf Graphic file (type pdf)
- <use bilder/pirat1.pdf>
+
+<use bilder/pirat1.pdf>
 Package pdftex.def Info: bilder/pirat1.pdf used on input line 63.
 (pdftex.def)             Requested size: 315.82562pt x 223.30817pt.
-
-[97 <./bilder/pirat1.pdf>]
+ [97 <./bilder/pirat1.pdf>]
 Underfull \hbox (badness 1902) in paragraph at lines 78--79
 \T1/Quattrocento-TLF/m/sc/13 Win-ni-mon ge-nau so vie-le wie an-de-ren Men-sche
 n
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [98
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[98
 
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [99]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [100]
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [9
+9] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [
+100]
 Underfull \hbox (badness 1436) in paragraph at lines 98--99
 \T1/Quattrocento-TLF/m/sc/13 durch das kleins-te Ge-räusch zu ver-ra-ten. Lang-
 sam
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [101]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [102]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [103]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[101] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [102]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[103]
 Underfull \hbox (badness 1394) in paragraph at lines 118--119
 []\T1/Quattrocento-TLF/m/sc/13 Als sie sa-hen, dass Win-ni-mon den Schatz so-ga
 r
@@ -2002,26 +2034,27 @@ Underfull \hbox (badness 1009) in paragraph at lines 120--121
 t-
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [104])
-(./adler.tex (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf)
-[105] (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [106
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[104]) (./adler.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[105] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [106
 
-]
-[107]
+] [107]
 Underfull \hbox (badness 1721) in paragraph at lines 14--15
 []\T1/Quattrocento-TLF/m/sc/13 Ein Adler-Sprichwort sagt, dass wer hoch steigt,
 
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [108]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [109]
-<bilder/adler.pdf, id=480, 358.98297pt x 201.64644pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[108] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [109] <bilder/adler.pdf, id=480, 358.98297pt x 201.64644pt>
 File: bilder/adler.pdf Graphic file (type pdf)
- <use bilder/adler.pdf>
+
+<use bilder/adler.pdf>
 Package pdftex.def Info: bilder/adler.pdf used on input line 33.
 (pdftex.def)             Requested size: 315.82562pt x 177.4094pt.
-
-[110 <./bilder/adler.pdf>]
+ [110 <./bilder/adler.pdf>]
 Underfull \hbox (badness 1077) in paragraph at lines 34--41
 []\T1/Quattrocento-TLF/m/sc/13 ^^S  Ha-ha-ha, da kommt ja un-ser Fasnachts-Joha
 nn!^^T,
@@ -2038,12 +2071,14 @@ Overfull \hbox (0.71106pt too wide) in paragraph at lines 42--43
 Schon
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [111
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[111
 
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [112])
-(./menschen.tex (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf)
-[113] (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [114
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [1
+12]) (./menschen.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[113] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [114
 
 ]
 Overfull \hbox (0.34702pt too wide) in paragraph at lines 10--11
@@ -2051,45 +2086,50 @@ Overfull \hbox (0.34702pt too wide) in paragraph at lines 10--11
 brach-
  []
 
-[115] (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [116]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [117]
-<bilder/1kraehe.pdf, id=512, 709.54324pt x 469.18959pt>
+[115] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [116]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[117] <bilder/1kraehe.pdf, id=512, 709.54324pt x 469.18959pt>
 File: bilder/1kraehe.pdf Graphic file (type pdf)
 
 <use bilder/1kraehe.pdf>
 Package pdftex.def Info: bilder/1kraehe.pdf used on input line 42.
 (pdftex.def)             Requested size: 315.82562pt x 208.84239pt.
  [118 <./bilder/1kraehe.pdf>]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [119
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[119
 
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [120]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [121]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [122]
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [1
+20]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[121] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [122]
 Underfull \hbox (badness 1072) in paragraph at lines 84--85
 []\T1/Quattrocento-TLF/m/sc/13 ^^S  Ihr Men-schen, ich hat-te Euch ge-warnt. Ih
 r sollt
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [123])
-(./wanfried.tex (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf)
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[123]) (./wanfried.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
 [124] [125
 
-] (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf)
+]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
 [126]
 Underfull \hbox (badness 1102) in paragraph at lines 13--14
 []\T1/Quattrocento-TLF/m/sc/13 Mittlerweile ha-ben die vie-len Vö-gel, die ring
 s-um
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [127]
-<bilder/opa1.pdf, id=550, 491.33244pt x 584.4101pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[127] <bilder/opa1.pdf, id=550, 491.33244pt x 584.4101pt>
 File: bilder/opa1.pdf Graphic file (type pdf)
- <use bilder/opa1.pdf>
+
+<use bilder/opa1.pdf>
 Package pdftex.def Info: bilder/opa1.pdf used on input line 28.
 (pdftex.def)             Requested size: 315.82562pt x 375.66197pt.
-
-[128 <./bilder/opa1.pdf>]
+ [128 <./bilder/opa1.pdf>]
 Underfull \hbox (badness 1661) in paragraph at lines 31--32
 \T1/Quattrocento-TLF/m/sc/13 den Schwes-tern im-mer ver-su-chen her-aus-zu-fin-
 den,
@@ -2101,36 +2141,43 @@ Overfull \hbox (16.363pt too wide) in paragraph at lines 37--38
 en Schwes-
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [129
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[129
 
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [130]
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian19.pgf) (/
+Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[130]
 Overfull \hbox (2.25798pt too wide) in paragraph at lines 59--60
 \T1/Quattrocento-TLF/m/sc/13 ste-hen die Stim-men der Vö-gel! Un-glaub-lich. Si
 e schlies-
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [131]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [132]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[131] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [132]
 Underfull \hbox (badness 1067) in paragraph at lines 86--87
 \T1/Quattrocento-TLF/m/sc/13 schon ein biss-chen ängst-lich, im-mer-hin wis-sen
  sie
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [133]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [134]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[133] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian19.pgf
+) (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[134]
 Underfull \hbox (badness 1478) in paragraph at lines 111--112
 \T1/Quattrocento-TLF/m/sc/13 Kräu-tern und trägt ei-ne schmut-zi-ge brau-ne Kit
 -tel-
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [135]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[135]
 Underfull \hbox (badness 1688) in paragraph at lines 134--135
 []\T1/Quattrocento-TLF/m/sc/13 Beide sind be-ru-higt und kein biss-chen ängst-l
 ich
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [136]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[136]
 Overfull \hbox (7.80891pt too wide) in paragraph at lines 138--139
 \T1/Quattrocento-TLF/m/sc/13 ha-ben es ja selbst ges-tern erst ge-se-hen! Die H
 e-xe klatscht
@@ -2142,13 +2189,32 @@ Underfull \hbox (badness 1253) in paragraph at lines 144--145
 ckt.
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [137]) (./onta.tex
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [138]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[137]) (./onta.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[138]
 LaTeX Font Info:    External font `yinitas at66.82pt' loaded for size
 (Font)              <17.28> on input line 4.
+
+! Font U/yinitas/m/n/17=yinitas at 66.82pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.4  \yinipar{\color{DeepPink}R}
+                                agunda war ein Dorf tief in schwedischen WÃ¤...
+
+? 
+! Font \U/yinitas/m/n/17.28=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.4  \yinipar{\color{DeepPink}R}
+                                agunda war ein Dorf tief in schwedischen WÃ¤...
+
+? 
+Missing character: There is no R in font nullfont!
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 17.0pt on input line 7.
- [139
+[139
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+yswab on input line 12
@@ -2163,38 +2229,40 @@ LaTeX Font Warning: Font shape `OT1/yswab/m/n' undefined
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [140]
-<bilder/dark.pdf, id=601, 607.5703pt x 513.74797pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[140] <bilder/dark.pdf, id=600, 607.5703pt x 513.74797pt>
 File: bilder/dark.pdf Graphic file (type pdf)
- <use bilder/dark.pdf>
-Package pdftex.def Info: bilder/dark.pdf used on input line 25.
+
+<use bilder/dark.pdf>
+Package pdftex.def Info: bilder/dark.pdf used on input line 26.
 (pdftex.def)             Requested size: 315.82562pt x 267.0564pt.
+ [141 <./bilder/dark.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[141 <./bilder/dark.pdf>]
-Underfull \vbox (badness 2173) has occurred while \output is active []
 
-
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [142
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[142
 
 ]
-Underfull \vbox (badness 6078) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [143]
-<bilder/dark2.pdf, id=617, 597.23125pt x 845.1575pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[143] <bilder/dark2.pdf, id=616, 597.23125pt x 845.1575pt>
 File: bilder/dark2.pdf Graphic file (type pdf)
- <use bilder/dark2.pdf>
+
+<use bilder/dark2.pdf>
 Package pdftex.def Info: bilder/dark2.pdf used on input line 43.
 (pdftex.def)             Requested size: 315.82562pt x 446.93835pt.
+ [144 <./bilder/dark2.pdf>]
+Underfull \vbox (badness 2564) has occurred while \output is active []
 
-[144 <./bilder/dark2.pdf>]
-Underfull \vbox (badness 6078) has occurred while \output is active []
 
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[145
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [145
-
-])
-(./kerzers.tex (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf)
+]) (./kerzers.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
 [146] [147
 
 ]
@@ -2203,7 +2271,8 @@ Underfull \hbox (badness 1728) in paragraph at lines 11--12
 issa-rin,
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [148]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[148]
 Overfull \hbox (23.73543pt too wide) in paragraph at lines 16--17
 []\T1/QuattrocentoSans-TLF/m/n/13 Deutsch: Blau-er Mor-pho-fal-ter. Der Schmet-
 
@@ -2221,20 +2290,16 @@ Overfull \hbox (14.16066pt too wide) in paragraph at lines 26--27
 lecht-
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [149]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[149]
 Underfull \hbox (badness 1365) in paragraph at lines 28--29
 []\T1/Quattrocento-TLF/m/sc/13 Einen Fo-to-ap-pa-rat, um Ta-tor-te do-ku-men-ti
 e-ren
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [150]
-<bilder/inkling.pdf, id=643, 334.85373pt x 253.61209pt>
-File: bilder/inkling.pdf Graphic file (type pdf)
-
-<use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 49.
-(pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
-
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[150] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian10.pgf
+)
 Underfull \hbox (badness 2057) in paragraph at lines 53--54
 []\T1/Quattrocento-TLF/m/sc/13 Der Di-rek-tor des Pa-pi-li-ora-mas, Herr But-te
 r-blom,
@@ -2246,9 +2311,8 @@ Underfull \hbox (badness 1248) in paragraph at lines 53--54
 
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [151 <./bilder/ink
-ling.pdf>]
-<bilder/1blauerSchmetterling.pdf, id=651, 333.92957pt x 427.47945pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[151] <bilder/1blauerSchmetterling.pdf, id=646, 333.92957pt x 427.47945pt>
 File: bilder/1blauerSchmetterling.pdf Graphic file (type pdf)
 
 <use bilder/1blauerSchmetterling.pdf>
@@ -2261,16 +2325,12 @@ Underfull \hbox (badness 1226) in paragraph at lines 65--66
 i-tät
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [153
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[153
 
-]
-File: bilder/inkling.pdf Graphic file (type pdf)
-
-<use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 75.
-(pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
-
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [154]
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian10.pgf) (/
+Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[154]
 Underfull \hbox (badness 1163) in paragraph at lines 85--86
 \T1/Quattrocento-TLF/m/sc/13 Ver-ena Studer-Matt und der Rock da-hin-ten^^T da-
 bei
@@ -2282,33 +2342,29 @@ Underfull \hbox (badness 1715) in paragraph at lines 85--86
 n Klei-
  []
 
-File: bilder/inkling.pdf Graphic file (type pdf)
-<use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 92.
-(pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian10.pgf)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [155]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [156]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [157]
-File: bilder/inkling.pdf Graphic file (type pdf)
 
-<use bilder/inkling.pdf>
-Package pdftex.def Info: bilder/inkling.pdf used on input line 122.
-(pdftex.def)             Requested size: 15.79224pt x 11.95769pt.
-
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [158]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [159]
-<bilder/kerzers2.pdf, id=683, 817.79085pt x 493.72296pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[155] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [156]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[157] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian10.pgf
+) (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[158] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [159] <bilder/kerzers2.pdf, id=678, 817.79085pt x 493.72296pt>
 File: bilder/kerzers2.pdf Graphic file (type pdf)
 
 <use bilder/kerzers2.pdf>
-Package pdftex.def Info: bilder/kerzers2.pdf used on input line 146.
+Package pdftex.def Info: bilder/kerzers2.pdf used on input line 144.
 (pdftex.def)             Requested size: 315.82562pt x 190.66777pt.
  [160 <./bilder/kerzers2.pdf>]) (./henna.tex
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [161
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[161
 
-]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [162
+] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf) [1
+62
 
 ]
 Underfull \hbox (badness 1931) in paragraph at lines 3--4
@@ -2327,24 +2383,27 @@ Underfull \hbox (badness 1048) in paragraph at lines 10--13
 en,
  []
 
-[163] (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [164]
+[163] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [164]
 Underfull \hbox (badness 1048) in paragraph at lines 22--30
 \T1/Quattrocento-TLF/m/sc/13 so vie-le, als wir ge-kom-men wa-ren. Das gros-se 
 Tor
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [165]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [166]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [167]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [168]
-<bilder/prinzessin.pdf, id=728, 841.23366pt x 480.1128pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[165] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [166]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[167] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [168] <bilder/prinzessin.pdf, id=723, 841.23366pt x 480.1128pt>
 File: bilder/prinzessin.pdf Graphic file (type pdf)
 
 <use bilder/prinzessin.pdf>
 Package pdftex.def Info: bilder/prinzessin.pdf used on input line 76.
 (pdftex.def)             Requested size: 315.82562pt x 180.24698pt.
  [169 <./bilder/prinzessin.pdf>]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [170
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[170
 
 ]
 Underfull \hbox (badness 1472) in paragraph at lines 97--100
@@ -2358,8 +2417,9 @@ Underfull \hbox (badness 1009) in paragraph at lines 97--100
 
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [171])
-(./indien.tex (/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf)
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[171]) (./indien.tex
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
 [172] [173
 
 ]
@@ -2368,23 +2428,25 @@ Underfull \hbox (badness 1215) in paragraph at lines 12--13
 ie-fer
  []
 
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [174]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [175]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [176]
-<bilder/tiger.pdf, id=760, 824.92653pt x 586.97069pt>
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[174] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
+) [175]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[176] <bilder/tiger.pdf, id=755, 824.92653pt x 586.97069pt>
 File: bilder/tiger.pdf Graphic file (type pdf)
- <use bilder/tiger.pdf>
+
+<use bilder/tiger.pdf>
 Package pdftex.def Info: bilder/tiger.pdf used on input line 42.
 (pdftex.def)             Requested size: 315.82562pt x 224.72603pt.
-
-[177 <./bilder/tiger.pdf>]
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [178
+ [177 <./bilder/tiger.pdf>]
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[178
 
 ])
-(/usr/local/texlive/texmf-local/tex/generic/vectorian88.pgf) [179] [180
+(/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
+[179] [180
 
-]
-(./binder.toc [181])
+] (./binder.toc [181])
 \tf@toc=\write4
 \openout4 = `binder.toc'.
 
@@ -2427,7 +2489,7 @@ Underfull \hbox (badness 1308) in paragraph at lines 47--51
 lung der
  []
 
-[184] <tinaStat/zipfAlle.pdf, id=798, 505.89pt x 505.89pt>
+[184] <tinaStat/zipfAlle.pdf, id=793, 505.89pt x 505.89pt>
 File: tinaStat/zipfAlle.pdf Graphic file (type pdf)
 
 <use tinaStat/zipfAlle.pdf>
@@ -2474,7 +2536,7 @@ Overfull \hbox (1.34796pt too wide) in paragraph at lines 9--11
 am Inks-
  []
 
-[187]) [188] <bilder/ausmalbild.pdf, id=818, 845.04686pt x 597.50786pt>
+[187]) [188] <bilder/ausmalbild.pdf, id=813, 845.04686pt x 597.50786pt>
 File: bilder/ausmalbild.pdf Graphic file (type pdf)
 
 <use bilder/ausmalbild.pdf>
@@ -2490,39 +2552,38 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26079 strings out of 493054
- 517135 string characters out of 6134760
- 595836 words of memory out of 5000000
- 28768 multiletter control sequences out of 15000+600000
- 184635 words of font info for 76 fonts, out of 8000000 for 9000
+ 26095 strings out of 493054
+ 522154 string characters out of 6134760
+ 597424 words of memory out of 5000000
+ 28771 multiletter control sequences out of 15000+600000
+ 184589 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,12n,69p,10434b,768s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_qceur
 4.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_t
-evtmb.enc} </Users/gordon/Library/texlive/2015/texmf-var/fonts/pk/ljfour/local/
-yinitas.1037pk> </Users/gordon/Library/texlive/2015/texmf-var/fonts/pk/ljfour/p
-ublic/skull/skull.650pk>{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/qua
-ttrocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/imp
-allari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2015/texmf-dist/f
-onts/type1/impallari/quattrocento/Quattrocento-BoldItalic.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocen
-toRegular.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/impallari/quattro
-cento/QuattrocentoSans-Bold.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
-/impallari/quattrocento/QuattrocentoSans-BoldItalic.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/yfonts-t1/yswab.pfb>
-Output written on binder.pdf (189 pages, 10054393 bytes).
+evtmb.enc} </Users/gordonwiegand/Library/texlive/2015/texmf-var/fonts/pk/ljfour
+/public/skull/skull.650pk>{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/q
+uattrocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/i
+mpallari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/impallari/quattrocento/Quattrocento-BoldItalic.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/impallari/quattrocento/Quattroc
+entoRegular.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/impallari/quatt
+rocento/QuattrocentoSans-Bold.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/impallari/quattrocento/QuattrocentoSans-BoldItalic.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/yfonts-t1/yswab.pfb>
+Output written on binder.pdf (189 pages, 10056069 bytes).
 PDF statistics:
- 893 PDF objects out of 1000 (max. 8388607)
- 568 compressed objects within 6 object streams
+ 884 PDF objects out of 1000 (max. 8388607)
+ 562 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 143 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 
