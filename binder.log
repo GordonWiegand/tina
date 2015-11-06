@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  5 NOV 2015 16:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  6 NOV 2015 12:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1007,12 +1007,12 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2015/10/14 v6210 L3 programming layer (loader) 
+Package: expl3 2015/11/04 v6224 L3 programming layer (loader) 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2015/10/14 v6210 L3 programming layer (code) 
-L3 Module: l3bootstrap 2015/09/30 v6139 L3 Bootstrap code
-L3 Module: l3names 2015/10/10 v6209 L3 Namespace for primitives
+Package: expl3 2015/11/04 v6224 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/10/18 v6213 L3 Bootstrap code
+L3 Module: l3names 2015/11/03 v6220 L3 Namespace for primitives
 L3 Module: l3basics 2015/09/22 v6033 L3 Basic definitions
 L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
 L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
@@ -1025,7 +1025,7 @@ L3 Module: l3int 2015/09/25 v6089 L3 Integers
 \g_tmpa_int=\count132
 \g_tmpb_int=\count133
 L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
-L3 Module: l3prg 2015/10/09 v6208 L3 Control structures
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
 \g__prg_map_int=\count134
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
 L3 Module: l3token 2015/09/28 v6114 L3 Experimental token manipulation
@@ -1096,7 +1096,7 @@ L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_display_x_dim=\dimen190
 \l__coffin_display_y_dim=\dimen191
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
-L3 Module: l3candidates 2015/10/09 v6208 L3 Experimental additions to l3kernel
+L3 Module: l3candidates 2015/11/01 v6216 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen192
 \l__box_bottom_dim=\dimen193
 \l__box_left_dim=\dimen194
@@ -1123,7 +1123,7 @@ File: l3unicode-data.def 2015/07/20 v5676 L3 Unicode data
 File: l3pdfmode.def 2015/09/10 v5983 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count151
 ))
-Package: xparse 2015/10/14 v6210 L3 Experimental document command parser
+Package: xparse 2015/11/04 v6224 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count152
 \l__xparse_m_args_int=\count153
 \l__xparse_mandatory_args_int=\count154
@@ -2195,26 +2195,9 @@ ckt.
 [138]
 LaTeX Font Info:    External font `yinitas at66.82pt' loaded for size
 (Font)              <17.28> on input line 4.
-
-! Font U/yinitas/m/n/17=yinitas at 66.82pt not loadable: Metric (TFM) file not 
-found.
-<to be read again> 
-                   relax 
-l.4  \yinipar{\color{DeepPink}R}
-                                agunda war ein Dorf tief in schwedischen Wä...
-
-? 
-! Font \U/yinitas/m/n/17.28=nullfont not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.4  \yinipar{\color{DeepPink}R}
-                                agunda war ein Dorf tief in schwedischen Wä...
-
-? 
-Missing character: There is no R in font nullfont!
 LaTeX Font Info:    Font shape `T1/Quattrocento-TLF/m/n' will be
 (Font)              scaled to size 17.0pt on input line 7.
-[139
+ [139
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+yswab on input line 12
@@ -2230,32 +2213,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
-[140] <bilder/dark.pdf, id=600, 607.5703pt x 513.74797pt>
+[140] <bilder/dark.pdf, id=601, 607.5703pt x 513.74797pt>
 File: bilder/dark.pdf Graphic file (type pdf)
 
 <use bilder/dark.pdf>
-Package pdftex.def Info: bilder/dark.pdf used on input line 26.
+Package pdftex.def Info: bilder/dark.pdf used on input line 25.
 (pdftex.def)             Requested size: 315.82562pt x 267.0564pt.
  [141 <./bilder/dark.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2173) has occurred while \output is active []
 
 
 (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
 [142
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 6078) has occurred while \output is active []
 
 
 (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
-[143] <bilder/dark2.pdf, id=616, 597.23125pt x 845.1575pt>
+[143] <bilder/dark2.pdf, id=617, 597.23125pt x 845.1575pt>
 File: bilder/dark2.pdf Graphic file (type pdf)
 
 <use bilder/dark2.pdf>
 Package pdftex.def Info: bilder/dark2.pdf used on input line 43.
 (pdftex.def)             Requested size: 315.82562pt x 446.93835pt.
  [144 <./bilder/dark2.pdf>]
-Underfull \vbox (badness 2564) has occurred while \output is active []
+Underfull \vbox (badness 6078) has occurred while \output is active []
 
 
 (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
@@ -2312,7 +2295,7 @@ Underfull \hbox (badness 1248) in paragraph at lines 53--54
  []
 
 (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
-[151] <bilder/1blauerSchmetterling.pdf, id=646, 333.92957pt x 427.47945pt>
+[151] <bilder/1blauerSchmetterling.pdf, id=647, 333.92957pt x 427.47945pt>
 File: bilder/1blauerSchmetterling.pdf Graphic file (type pdf)
 
 <use bilder/1blauerSchmetterling.pdf>
@@ -2353,7 +2336,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [157] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian10.pgf
 ) (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
 [158] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
-) [159] <bilder/kerzers2.pdf, id=678, 817.79085pt x 493.72296pt>
+) [159] <bilder/kerzers2.pdf, id=679, 817.79085pt x 493.72296pt>
 File: bilder/kerzers2.pdf Graphic file (type pdf)
 
 <use bilder/kerzers2.pdf>
@@ -2395,7 +2378,7 @@ Tor
 ) [166]
 (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
 [167] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
-) [168] <bilder/prinzessin.pdf, id=723, 841.23366pt x 480.1128pt>
+) [168] <bilder/prinzessin.pdf, id=724, 841.23366pt x 480.1128pt>
 File: bilder/prinzessin.pdf Graphic file (type pdf)
 
 <use bilder/prinzessin.pdf>
@@ -2432,7 +2415,7 @@ ie-fer
 [174] (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf
 ) [175]
 (/Users/gordonwiegand/Library/texmf/tex/generic/vectorian/vectorian88.pgf)
-[176] <bilder/tiger.pdf, id=755, 824.92653pt x 586.97069pt>
+[176] <bilder/tiger.pdf, id=756, 824.92653pt x 586.97069pt>
 File: bilder/tiger.pdf Graphic file (type pdf)
 
 <use bilder/tiger.pdf>
@@ -2489,7 +2472,7 @@ Underfull \hbox (badness 1308) in paragraph at lines 47--51
 lung der
  []
 
-[184] <tinaStat/zipfAlle.pdf, id=793, 505.89pt x 505.89pt>
+[184] <tinaStat/zipfAlle.pdf, id=794, 505.89pt x 505.89pt>
 File: tinaStat/zipfAlle.pdf Graphic file (type pdf)
 
 <use tinaStat/zipfAlle.pdf>
@@ -2536,7 +2519,7 @@ Overfull \hbox (1.34796pt too wide) in paragraph at lines 9--11
 am Inks-
  []
 
-[187]) [188] <bilder/ausmalbild.pdf, id=813, 845.04686pt x 597.50786pt>
+[187]) [188] <bilder/ausmalbild.pdf, id=814, 845.04686pt x 597.50786pt>
 File: bilder/ausmalbild.pdf Graphic file (type pdf)
 
 <use bilder/ausmalbild.pdf>
@@ -2554,36 +2537,37 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  26095 strings out of 493054
  522154 string characters out of 6134760
- 597424 words of memory out of 5000000
+ 597432 words of memory out of 5000000
  28771 multiletter control sequences out of 15000+600000
- 184589 words of font info for 75 fonts, out of 8000000 for 9000
+ 184635 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,12n,69p,10434b,768s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_qceur
 4.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/quattrocento/qtrcnt_t
 evtmb.enc} </Users/gordonwiegand/Library/texlive/2015/texmf-var/fonts/pk/ljfour
-/public/skull/skull.650pk>{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/q
-uattrocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/i
-mpallari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/2015/texmf-dist
-/fonts/type1/impallari/quattrocento/Quattrocento-BoldItalic.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoItalic.pfb>
+/yinit-as/yinitas.1037pk> </Users/gordonwiegand/Library/texlive/2015/texmf-var/
+fonts/pk/ljfour/public/skull/skull.650pk>{/usr/local/texlive/2015/texmf-dist/fo
+nts/enc/dvips/quattrocento/qtrcnt_e45lg2.enc}</usr/local/texlive/2015/texmf-dis
+t/fonts/type1/impallari/quattrocento/Quattrocento-Bold.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/impallari/quattrocento/Quattrocento-BoldItalic.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/impallari/quattrocento/Quattroc
-entoRegular.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/impallari/quatt
-rocento/QuattrocentoSans-Bold.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
-e1/impallari/quattrocento/QuattrocentoSans-BoldItalic.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/initials/Zallman.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/yfonts-t1/yswab.pfb>
-Output written on binder.pdf (189 pages, 10056069 bytes).
+entoItalic.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/impallari/quattr
+ocento/QuattrocentoRegular.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
+impallari/quattrocento/QuattrocentoSans-Bold.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/impallari/quattrocento/QuattrocentoSans-BoldItalic.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/impallari/quattrocento/QuattrocentoSa
+ns.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/initials/Zallman.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/fourier/fourier-orns.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/frcursive/frcr14.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/yfonts-t1/yswab.pfb>
+Output written on binder.pdf (189 pages, 10067506 bytes).
 PDF statistics:
- 884 PDF objects out of 1000 (max. 8388607)
- 562 compressed objects within 6 object streams
+ 889 PDF objects out of 1000 (max. 8388607)
+ 566 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  138 words of extra memory for PDF output out of 10000 (max. 10000000)
 
